@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mccTracker", "mccTracker.pyproj", "{2978D19C-3A27-456E-AFA1-BF0F74D1CD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2978D19C-3A27-456E-AFA1-BF0F74D1CD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2978D19C-3A27-456E-AFA1-BF0F74D1CD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50267C2F-CAE5-4DBC-BDB1-2D3D9B6786DE}
+	EndGlobalSection
+EndGlobal
