@@ -1,1 +1,0 @@
-Achievement data from: https://www.halopedia.org/List_of_Achievements_for_Halo:_The_Master_Chief_Collection
