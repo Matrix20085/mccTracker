@@ -57,15 +57,15 @@
                             <div class="accordion" id="{{ game }}">
                                 {% for level, achivements in levels.items() %}
                                     <div class="card">
-                                        <div class="card-header" id="{{ game }}{{ level }}">
+                                        <div class="card-header" id="heading{{ game }}{{ level }}">
                                             <h2 class="mb-0">
-                                                <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#{{ game }}{{ level }}" aria-expanded="true" aria-controls="{{ game }}{{ level }}">
+                                                <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collaspe{{ game }}{{ level }}" aria-expanded="true" aria-controls="collaspe{{ game }}{{ level }}">
                                                     {{ level }}
                                                 </button>
                                             </h2>
                                         </div>
 
-                                        <div id="{{ game }}{{ level }}" class="collapse show" aria-labelledby="{{ game }}{{ level }}" data-parent="#{{ game }}">
+                                        <div id="collaspe{{ game }}{{ level }}" class="collapse show" aria-labelledby="heading{{ game }}{{ level }}" data-parent="#{{ game }}">
                                             <div class="card-body">
                                                 <table class="table">
                                                     <thread>
