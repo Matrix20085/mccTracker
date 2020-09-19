@@ -27,30 +27,33 @@ def getUserData(steamAccountID):
 
     for achievement in playerData['playerstats']['achievements']:
         currentName = achievement['apiname']
-        fullUserData[currentName] = {}
-        fullUserData[currentName]['achieved'] = achievement['achieved']
-        if fullUserData[currentName]['achieved'] == 1:
-            fullUserData[currentName]['unlockTime'] = datetime.strftime(datetime.fromtimestamp(achievement['unlocktime']),"%b %d %Y @ %I:%M %p")
+        for levelAchievement in levelData['achievements']:
+            if levelAchievement['name'] == currentName:
+                currentGame = levelAchievement['game']
+                currentLevel = levelAchievement['level']
+        if currentGame not in fullUserData:
+            fullUserData[currentGame] = {}
+        if currentLevel not in fullUserData[currentGame]:
+            fullUserData[currentGame][currentLevel] = {}
+        fullUserData[currentGame][currentLevel][currentName] = {}
+        fullUserData[currentGame][currentLevel][currentName]['achieved'] = achievement['achieved']
+        if fullUserData[currentGame][currentLevel][currentName]['achieved'] == 1:
+            fullUserData[currentGame][currentLevel][currentName]['unlockTime'] = datetime.strftime(datetime.fromtimestamp(achievement['unlocktime']),"%b %d %Y @ %I:%M %p")
         else:
-            fullUserData[currentName]['unlockTime'] = ""
+            fullUserData[currentGame][currentLevel][currentName]['unlockTime'] = ""
         for mccAchievement in mccData['game']['availableGameStats']['achievements']:
             if mccAchievement['name'] == currentName:
-                fullUserData[currentName]['displayName'] = mccAchievement['displayName']
-                fullUserData[currentName]['description'] = mccAchievement['description']
-                if fullUserData[currentName]['achieved'] == 1:
-                    fullUserData[currentName]['icon'] = mccAchievement['icon']
+                fullUserData[currentGame][currentLevel][currentName]['displayName'] = mccAchievement['displayName']
+                fullUserData[currentGame][currentLevel][currentName]['description'] = mccAchievement['description']
+                if fullUserData[currentGame][currentLevel][currentName]['achieved'] == 1:
+                    fullUserData[currentGame][currentLevel][currentName]['icon'] = mccAchievement['icon']
                 else:
-                    fullUserData[currentName]['icon'] = mccAchievement['icongray']
+                    fullUserData[currentGame][currentLevel][currentName]['icon'] = mccAchievement['icongray']
         
         for statsAchievement in achievementData['achievementpercentages']['achievements']:
             if statsAchievement['name'] == currentName:
-                fullUserData[currentName]['percent'] = round(statsAchievement['percent'],1)
+                fullUserData[currentGame][currentLevel][currentName]['percent'] = round(statsAchievement['percent'],1)
         
-
-        for levelAchievement in levelData['achievements']:
-            if levelAchievement['name'] == currentName:
-                fullUserData[currentName]['game'] = levelAchievement['game']
-                fullUserData[currentName]['level'] = levelAchievement['level']
          
     return fullUserData
 

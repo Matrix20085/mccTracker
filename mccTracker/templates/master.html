@@ -52,20 +52,26 @@
                 </div>
                 <div>
                     {% if userData %}
-                        {% for achivement in userData %}
-                            <div>
-                                {{ achivement.displayName }} <br>
-                                {{ achivement.game }} <br>
-                                {{ achivement.level }} <br>
-                                {% if achivement.achieved == 1 %}
-                                    Completed: {{ achivement.unlockTime }} <br>
-                                {% endif %}
-                                {{ achivement.description }} <br>
-                                <img src="{{ achivement.icon }}" alt="{{ achivement.displayName }}"> <br>
-                                {{ achivement.percent }} <br> <br>
-                            </div>
+                        {% for game,levels in userData.items() %}
+                            <center>{{ game }}</center>
+                            {% for level, achivements in levels.items() %}
+                                <p>{{ level }}
+                                {% for achivement in achivements.values() %}
+                                    <div>
+                                        {{ achivement.displayName }} <br>
+                                        {% if achivement.achieved == 1 %}
+                                            Completed: {{ achivement.unlockTime }} <br>
+                                        {% endif %}
+                                        {{ achivement.description }} <br>
+                                        <img src="{{ achivement.icon }}" alt="{{ achivement.displayName }}"> <br>
+                                        {{ achivement.percent }} <br> <br>
+                                    </div>
+                                {% endfor %}
+                                </p>
+                            {% endfor %}
                         {% endfor %}
                     {% endif %}
+                    <br>end
                 </div>
             </div>
         </div>
