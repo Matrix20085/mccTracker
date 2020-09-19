@@ -2,9 +2,18 @@
 - [x] Finish building json with level data
 - [x] Parse level data into player dict
 - [x] Decide how to split levels on front end
-- [ ] Build collasable tables for each level
-- [ ] Build display buttons for each game
+- [X] Build collasable tables for each level
+- [ ] Allow users to paste full URL
+- [ ] Add Steam API signin
+- [ ] Add compleated/total for levels
+- [ ] Into blurb for home page
+- [ ] Some type of contact info
 
+## Graphical Overhaul
+- [ ] Build display buttons for each game
+- [ ] Add background 
+- [ ] Slice of each level as picture in accordion 
+- [ ] Progress bar for each level (colorize grey version of photo)
 
 ## Thoughts:
 Add links to walkthrough videos in level data json
