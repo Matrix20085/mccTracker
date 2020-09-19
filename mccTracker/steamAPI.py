@@ -12,8 +12,6 @@ key = parser.get('keys','steamAPI')
 def getUserData(steamAccountID):
     
 
-    #steamAccountID = parser.get('keys','testPlayer')
-
     playerDataURL = "http://api.steampowered.com/ISteamUserStats/GetPlayerAchievements/v0001/?appid=976730&key=" + key + "&steamid=" + steamAccountID
     mccDataURL = "http://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?appid=976730&key=" + key
     achievementDataURL = "http://api.steampowered.com/ISteamUserStats/GetGlobalAchievementPercentagesForApp/v0002/?gameid=976730"
@@ -21,9 +19,9 @@ def getUserData(steamAccountID):
     playerData = json.loads(requests.get(playerDataURL).content)
     mccData = json.loads(requests.get(mccDataURL).content)
     achievementData = json.loads(requests.get(achievementDataURL).content)
+    with open('data/mccData.json') as jsonFile:
+        levelData = json.load(jsonFile)
 
-    #if (playerData.status_code != 200 and mccData.status_code != 200 and achievementData.status_code != 200):
-    #    return {"API issues"}
 
     fullUserData = {}
 
@@ -43,12 +41,17 @@ def getUserData(steamAccountID):
                     fullUserData[currentName]['icon'] = mccAchievement['icon']
                 else:
                     fullUserData[currentName]['icon'] = mccAchievement['icongray']
+        
         for statsAchievement in achievementData['achievementpercentages']['achievements']:
             if statsAchievement['name'] == currentName:
                 fullUserData[currentName]['percent'] = round(statsAchievement['percent'],1)
+        
 
-    
-                
+        for levelAchievement in levelData['achievements']:
+            if levelAchievement['name'] == currentName:
+                fullUserData[currentName]['game'] = levelAchievement['game']
+                fullUserData[currentName]['level'] = levelAchievement['level']
+         
     return fullUserData
 
 def getSteamID(userName):

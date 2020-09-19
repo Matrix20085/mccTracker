@@ -55,6 +55,8 @@
                         {% for achivement in userData %}
                             <div>
                                 {{ achivement.displayName }} <br>
+                                {{ achivement.game }} <br>
+                                {{ achivement.level }} <br>
                                 {% if achivement.achieved == 1 %}
                                     Completed: {{ achivement.unlockTime }} <br>
                                 {% endif %}
