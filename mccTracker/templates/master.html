@@ -54,18 +54,18 @@
                     {% if userData %}
                         {% for game,levels in userData.items() %}
                             <center>{{ game }}</center>
-                            <div class="accordion" id="{{ game }}">
+                            <div class="accordion" id="{{ game | replace(': ','') | replace(' ', '') }}">
                                 {% for level, achivements in levels.items() %}
                                     <div class="card">
-                                        <div class="card-header" id="heading{{ game }}{{ level }}">
+                                        <div class="card-header" id="heading{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}">
                                             <h2 class="mb-0">
-                                                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collaspe{{ game }}{{ level }}" aria-expanded="true" aria-controls="collaspe{{ game }}{{ level }}">
+                                                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" aria-expanded="true" aria-controls="collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}">
                                                     {{ level }}
                                                 </button>
                                             </h2>
                                         </div>
 
-                                        <div id="collaspe{{ game }}{{ level }}" class="collapse" aria-labelledby="heading{{ game }}{{ level }}" data-parent="#{{ game }}">
+                                        <div id="collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" class="collapse" aria-labelledby="heading{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" data-parent="#{{ game | replace(': ','') | replace(' ', '') }}">
                                             <div class="card-body">
                                                 <table class="table">
                                                     <thread>
@@ -101,7 +101,7 @@
                         {% endfor %}
                     {% endif %}
                 </div>
-        </div>
+            </div>
         </div>
     </main>
 
