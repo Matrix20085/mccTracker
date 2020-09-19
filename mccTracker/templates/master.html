@@ -54,26 +54,54 @@
                     {% if userData %}
                         {% for game,levels in userData.items() %}
                             <center>{{ game }}</center>
-                            {% for level, achivements in levels.items() %}
-                                <p>{{ level }}
-                                {% for achivement in achivements.values() %}
-                                    <div>
-                                        {{ achivement.displayName }} <br>
-                                        {% if achivement.achieved == 1 %}
-                                            Completed: {{ achivement.unlockTime }} <br>
-                                        {% endif %}
-                                        {{ achivement.description }} <br>
-                                        <img src="{{ achivement.icon }}" alt="{{ achivement.displayName }}"> <br>
-                                        {{ achivement.percent }} <br> <br>
+                            <div class="accordion" id="{{ game }}">
+                                {% for level, achivements in levels.items() %}
+                                    <div class="card">
+                                        <div class="card-header" id="{{ game }}{{ level }}">
+                                            <h2 class="mb-0">
+                                                <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#{{ game }}{{ level }}" aria-expanded="true" aria-controls="{{ game }}{{ level }}">
+                                                    {{ level }}
+                                                </button>
+                                            </h2>
+                                        </div>
+
+                                        <div id="{{ game }}{{ level }}" class="collapse show" aria-labelledby="{{ game }}{{ level }}" data-parent="#{{ game }}">
+                                            <div class="card-body">
+                                                <table class="table">
+                                                    <thread>
+                                                        <tr>
+                                                            <th scope="col">Logo</th>
+                                                            <th scope="col">Name</th>
+                                                            <th scope="col">Description</th>
+                                                            <th scope="col">Unlock Time</th>
+                                                            <th scope="col">Precent</th>
+                                                        </tr>
+                                                    </thread>
+                                                    <tbody>
+                                                        {% for achivement in achivements.values() %}
+                                                            <tr>
+                                                                <th scope="row"><img src="{{ achivement.icon }}" alt="{{ achivement.displayName }}"></th>
+                                                                <td>{{ achivement.displayName }}</td>
+                                                                <td>{{ achivement.description }}</td>
+                                                                <td>
+                                                                    {% if achivement.achieved == 1 %}
+                                                                        {{ achivement.unlockTime }}
+                                                                    {% endif %}
+                                                                </td>
+                                                                <td>{{ achivement.percent }}</td>
+                                                            </tr>
+                                                        {% endfor %}
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
                                     </div>
                                 {% endfor %}
-                                </p>
-                            {% endfor %}
+                            </div>
                         {% endfor %}
                     {% endif %}
-                    <br>end
                 </div>
-            </div>
+        </div>
         </div>
     </main>
 
