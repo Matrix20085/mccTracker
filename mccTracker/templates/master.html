@@ -34,13 +34,13 @@
         <div class="row">
             <div class="col-md-8">
                 {% with messages = get_flashed_messages(with_categories=true) %}
-                    {% if messages %}
-                        {% for category, message in messages %}
-                        <div class="alert alert-{{ category }}">
-                            {{ message }}
-                        </div>
-                        {% endfor %}
-                    {% endif %}
+                {% if messages %}
+                {% for category, message in messages %}
+                <div class="alert alert-{{ category }}">
+                    {{ message }}
+                </div>
+                {% endfor %}
+                {% endif %}
                 {% endwith %}
                 <div>
                     <form method="post" action="">
@@ -50,55 +50,62 @@
                         </div>
                     </form>
                 </div>
+
                 <div>
                     {% if userData %}
-                        {% for game,levels in userData.items() %}
-                            <center>{{ game }}</center>
-                            <div class="accordion" id="{{ game | replace(': ','') | replace(' ', '') }}">
-                                {% for level, achivements in levels.items() %}
-                                    <div class="card">
-                                        <div class="card-header" id="heading{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}">
-                                            <h2 class="mb-0">
-                                                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" aria-expanded="true" aria-controls="collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}">
-                                                    {{ level }}
-                                                </button>
-                                            </h2>
-                                        </div>
-
-                                        <div id="collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" class="collapse" aria-labelledby="heading{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" data-parent="#{{ game | replace(': ','') | replace(' ', '') }}">
-                                            <div class="card-body">
-                                                <table class="table">
-                                                    <thread>
-                                                        <tr>
-                                                            <th scope="col">Logo</th>
-                                                            <th scope="col">Name</th>
-                                                            <th scope="col">Description</th>
-                                                            <th scope="col">Unlock Time</th>
-                                                            <th scope="col">Precent</th>
-                                                        </tr>
-                                                    </thread>
-                                                    <tbody>
-                                                        {% for achivement in achivements.values() %}
-                                                            <tr>
-                                                                <th scope="row"><img src="{{ achivement.icon }}" alt="{{ achivement.displayName }}"></th>
-                                                                <td>{{ achivement.displayName }}</td>
-                                                                <td>{{ achivement.description }}</td>
-                                                                <td>
-                                                                    {% if achivement.achieved == 1 %}
-                                                                        {{ achivement.unlockTime }}
-                                                                    {% endif %}
-                                                                </td>
-                                                                <td>{{ achivement.percent }}</td>
-                                                            </tr>
-                                                        {% endfor %}
-                                                    </tbody>
-                                                </table>
-                                            </div>
-                                        </div>
-                                    </div>
-                                {% endfor %}
+                    <div>
+                        <p>
+                            {% for game in userData %}
+                                <button id="button{{ game | replace(': ','') | replace(' ', '') }}" class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{ game | replace(': ','') | replace(' ', '') }}" aria-expanded="false" aria-controls="{{ game | replace(': ','') | replace(' ', '') }}">{{ game }}</button>
+                            {% endfor %}
+                        </p>
+                    </div>
+                    {% for game,levels in userData.items() %}
+                    <div class="accordion collapse" id="{{ game | replace(': ','') | replace(' ', '') }}" data-parent="#button{{ game | replace(': ','') | replace(' ', '') }}">
+                        {% for level, achivements in levels.items() %}
+                        <div class="card">
+                            <div class="card-header" id="heading{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" aria-expanded="true" aria-controls="collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}">
+                                        {{ level }}
+                                    </button>
+                                </h2>
                             </div>
+
+                            <div id="collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" class="collapse" aria-labelledby="heading{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" data-parent="#{{ game | replace(': ','') | replace(' ', '') }}">
+                                <div class="card-body">
+                                    <table class="table">
+                                        <thread>
+                                            <tr>
+                                                <th scope="col">Logo</th>
+                                                <th scope="col">Name</th>
+                                                <th scope="col">Description</th>
+                                                <th scope="col">Unlock Time</th>
+                                                <th scope="col">Precent</th>
+                                            </tr>
+                                        </thread>
+                                        <tbody>
+                                            {% for achivement in achivements.values() %}
+                                            <tr>
+                                                <th scope="row"><img src="{{ achivement.icon }}" alt="{{ achivement.displayName }}"></th>
+                                                <td>{{ achivement.displayName }}</td>
+                                                <td>{{ achivement.description }}</td>
+                                                <td>
+                                                    {% if achivement.achieved == 1 %}
+                                                    {{ achivement.unlockTime }}
+                                                    {% endif %}
+                                                </td>
+                                                <td>{{ achivement.percent }}</td>
+                                            </tr>
+                                            {% endfor %}
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
                         {% endfor %}
+                    </div>
+                    {% endfor %}
                     {% endif %}
                 </div>
             </div>
