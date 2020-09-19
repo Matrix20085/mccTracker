@@ -8,7 +8,7 @@ from flask import Flask, render_template, flash
 from wtforms.validators import DataRequired
 
 class usernameForm(FlaskForm):
-    username = StringField('username', validators=[DataRequired()])
+    username = StringField('username', validators=[DataRequired()], render_kw={"placeholder": "SteamID or Account Name"})
 
 parser = configparser.ConfigParser()
 parser.read('config.ini')
@@ -23,15 +23,15 @@ def home():
     if form.username.data:
         steamID = form.username.data
         if re.search(r"^\d{17}$",steamID):
-            flash(f'Acount loaded!', 'success')
+            flash(f'Account loaded!', 'success')
             return render_template('master.html', form=form, title=form.username.data, userData= steamAPI.getUserData(steamID))
         else:
             steamID = steamAPI.getSteamID(steamID)
             if steamID != 0:
-                flash(f'Acount loaded!', 'success')
+                flash(f'Account loaded!', 'success')
                 return render_template('master.html', form=form, title=form.username.data, userData= steamAPI.getUserData(steamID))
             else:
-                flash(f'Acount not found. Only SteamIDs and account names cane be used.', 'danger')
+                flash(f'Account not found. Only SteamIDs and account names can be used.', 'danger')
                 return render_template('master.html', form=form)
     else:
         return render_template('master.html', form=form)

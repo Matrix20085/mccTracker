@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-.
+
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
 
@@ -22,17 +22,29 @@
     <header class="site-header">
         <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
             <div class="container">
-                {% if title %}
-                    <a class="navbar-brand mr-4" href="/">MCC Tracker - {{ title }}</a>
-                {% else %}
-                    <a class="navbar-brand mr-4" href="/">MCC Tracker</a>
-                {% endif %}
+            {% if title %}
+                <a class="navbar-brand mr-4" href="/">MCC Tracker - {{ title }}</a>
+            {% else %}
+                <a class="navbar-brand mr-4" href="/">MCC Tracker</a>
+            {% endif %}
             </div>
+
+            <div class="collapse navbar-collapse" id="navbarToggle">
+            <!-- Navbar Right Side -->
+            <div class="navbar-nav">
+                <form method="post" action="">
+                    <div>
+                        {{ form.username.lable}}
+                        {{ form.username}}
+                    </div>
+                </form>
+            </div>
+
         </nav>
     </header>
     <main role="main" class="container">
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-12">
                 {% with messages = get_flashed_messages(with_categories=true) %}
                 {% if messages %}
                 {% for category, message in messages %}
@@ -42,70 +54,73 @@
                 {% endfor %}
                 {% endif %}
                 {% endwith %}
-                <div>
+                <!--<div>
                     <form method="post" action="">
                         <div>
                             {{ form.username.lable}}
                             {{ form.username}}
                         </div>
                     </form>
-                </div>
+                </div>-->
 
                 <div>
                     {% if userData %}
                     <div>
                         <p>
                             {% for game in userData %}
-                                <button id="button{{ game | replace(': ','') | replace(' ', '') }}" class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{ game | replace(': ','') | replace(' ', '') }}" aria-expanded="false" aria-controls="{{ game | replace(': ','') | replace(' ', '') }}">{{ game }}</button>
+                                <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{ game | replace(': ','') | replace(' ', '') }}" aria-expanded="false" aria-controls="{{ game | replace(': ','') | replace(' ', '') }}">{{ game }}</button>
                             {% endfor %}
                         </p>
                     </div>
+                    <div class="accordion collapse show" id="invisaccord">
                     {% for game,levels in userData.items() %}
-                    <div class="accordion collapse" id="{{ game | replace(': ','') | replace(' ', '') }}" data-parent="#button{{ game | replace(': ','') | replace(' ', '') }}">
-                        {% for level, achivements in levels.items() %}
-                        <div class="card">
-                            <div class="card-header" id="heading{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}">
-                                <h2 class="mb-0">
-                                    <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" aria-expanded="true" aria-controls="collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}">
-                                        {{ level }}
-                                    </button>
-                                </h2>
-                            </div>
 
-                            <div id="collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" class="collapse" aria-labelledby="heading{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" data-parent="#{{ game | replace(': ','') | replace(' ', '') }}">
-                                <div class="card-body">
-                                    <table class="table">
-                                        <thread>
-                                            <tr>
-                                                <th scope="col">Logo</th>
-                                                <th scope="col">Name</th>
-                                                <th scope="col">Description</th>
-                                                <th scope="col">Unlock Time</th>
-                                                <th scope="col">Precent</th>
-                                            </tr>
-                                        </thread>
-                                        <tbody>
-                                            {% for achivement in achivements.values() %}
-                                            <tr>
-                                                <th scope="row"><img src="{{ achivement.icon }}" alt="{{ achivement.displayName }}"></th>
-                                                <td>{{ achivement.displayName }}</td>
-                                                <td>{{ achivement.description }}</td>
-                                                <td>
-                                                    {% if achivement.achieved == 1 %}
-                                                    {{ achivement.unlockTime }}
-                                                    {% endif %}
-                                                </td>
-                                                <td>{{ achivement.percent }}</td>
-                                            </tr>
-                                            {% endfor %}
-                                        </tbody>
-                                    </table>
+                            <div class="accordion collapse" id="{{ game | replace(': ','') | replace(' ', '') }}" data-parent="#invisaccord">
+                                {% for level, achivements in levels.items() %}
+                                <div class="card">
+                                    <div class="card-header" id="heading{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}">
+                                        <h2 class="mb-0">
+                                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" aria-expanded="true" aria-controls="collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}">
+                                                {{ level }}
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" class="collapse" aria-labelledby="heading{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(' ','') }}" data-parent="#{{ game | replace(': ','') | replace(' ', '') }}">
+                                        <div class="card-body">
+                                            <table class="table">
+                                                <thread>
+                                                    <tr>
+                                                        <th scope="col">Logo</th>
+                                                        <th scope="col">Name</th>
+                                                        <th scope="col">Description</th>
+                                                        <th scope="col">Unlock Time</th>
+                                                        <th scope="col">Precent</th>
+                                                    </tr>
+                                                </thread>
+                                                <tbody>
+                                                    {% for achivement in achivements.values() %}
+                                                    <tr>
+                                                        <th scope="row"><img src="{{ achivement.icon }}" alt="{{ achivement.displayName }}"></th>
+                                                        <td>{{ achivement.displayName }}</td>
+                                                        <td>{{ achivement.description }}</td>
+                                                        <td>
+                                                            {% if achivement.achieved == 1 %}
+                                                            {{ achivement.unlockTime }}
+                                                            {% endif %}
+                                                        </td>
+                                                        <td>{{ achivement.percent }}</td>
+                                                    </tr>
+                                                    {% endfor %}
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
                                 </div>
+                                {% endfor %}
                             </div>
-                        </div>
-                        {% endfor %}
-                    </div>
                     {% endfor %}
+                    </div><!--./end top level new accordion -->
                     {% endif %}
                 </div>
             </div>
