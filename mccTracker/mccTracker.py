@@ -7,9 +7,6 @@ from wtforms import StringField
 from flask import Flask, render_template, flash
 from wtforms.validators import DataRequired
 
-
-import json
-
 class usernameForm(FlaskForm):
     username = StringField('username', validators=[DataRequired()])
 
