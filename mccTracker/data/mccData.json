@@ -1497,8 +1497,8 @@
     },
     {
       "name": "10_12_ZOMBIE_REPELLER",
-      "game": "",
-      "level": ""
+      "game": "General",
+      "level": "Campaign"
     },
     {
       "name": "10_13_ELDER_SIGNS",
@@ -1517,233 +1517,233 @@
     },
     {
       "name": "10_16_DAWN",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Dawn"
     },
     {
       "name": "10_17_REQUIEM",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Requiem"
     },
     {
       "name": "10_18_FORERUNNER",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Forerunner"
     },
     {
       "name": "10_19_INFINITY",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Infinity"
     },
     {
       "name": "10_20_RECLAIMER",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Reclaimer"
     },
     {
       "name": "10_21_SHUTDOWN",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Shutdown"
     },
     {
       "name": "10_22_COMPOSER",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Composer"
     },
     {
       "name": "10_23_MIDNIGHT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Midnight"
     },
     {
       "name": "10_24_PIECE_OF_CAKE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Dawn"
     },
     {
       "name": "10_25_INTERLOPER",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Requiem"
     },
     {
       "name": "10_26_RAGING_IN_THE_DARK",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Forerunner"
     },
     {
       "name": "10_27_OUROBOROS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Infinity"
     },
     {
       "name": "10_28_GIMME_THAT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Reclaimer"
     },
     {
       "name": "10_29_SHUT_DOWN_EVERYTHING",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Shutdown"
     },
     {
       "name": "10_30_SYMPHONY_OF_PAIN",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Composer"
     },
     {
       "name": "10_31_COUNTDOWN",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Midnight"
     },
     {
       "name": "11_0_EASY_AS_ONE_TWO_THREE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "General"
     },
     {
       "name": "11_1_GUNSLINGER",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Dawn"
     },
     {
       "name": "11_2_DARK_FORTRESS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Requiem"
     },
     {
       "name": "11_3_SHADOW_OF_SUNDERED_STAR",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Forerunner"
     },
     {
       "name": "11_4_JUNGLE_WARFARE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Infinity"
     },
     {
       "name": "11_5_LIBRARIANS_PET",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Reclaimer"
     },
     {
       "name": "11_6_EMERGENCY_SHUTDOWN",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Shutdown"
     },
     {
       "name": "11_7_HEAD_BANGING",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Composer"
     },
     {
       "name": "11_8_WITCHING_HOUR",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Midnight"
     },
     {
       "name": "11_9_YOU_HAD_IT_COMING",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "General"
     },
     {
       "name": "11_10_WAR",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Requiem"
     },
     {
       "name": "11_11_LORD_OF_ADMIRALS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Forerunner"
     },
     {
       "name": "11_12_CHARUM_HAKKOR",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Infinity"
     },
     {
       "name": "11_13_FLOOD",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Reclaimer"
     },
     {
       "name": "11_14_KNIGHTS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Shutdown"
     },
     {
       "name": "11_15_JUSTICE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Composer"
     },
     {
       "name": "11_16_CRYPTUM",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Midnight"
     },
     {
       "name": "11_17_TERMINUS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "General"
     },
     {
       "name": "11_18_WAKE_UP_JOHN",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "General"
     },
     {
       "name": "11_19_I_NEED_A_HERO",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "General"
     },
     {
       "name": "11_20_THE_LEGEND_OF_117",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "General"
     },
     {
       "name": "11_21_LONE_WOLF_LEGEND",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "General"
     },
     {
       "name": "11_22_THIS_IS_MY_RIFLE_THIS_IS_MY_GUN",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Forerunner"
     },
     {
       "name": "11_23_BROS_TO_THE_CLOSE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Infinity"
     },
     {
       "name": "11_24_EXPLORE_THE_FLOOR",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Shutdown"
     },
     {
       "name": "11_25_GIVE_HIM_THE_STICK",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Composer"
     },
     {
       "name": "11_26_CHIEF_SMASH",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Midnight"
     },
     {
       "name": "11_27_YOURE_NO_CHIPS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Composer"
     },
     {
       "name": "11_28_A_LONG_TIME_AGO",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "General"
     },
     {
       "name": "11_29_YOURE_JOKING",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "General"
     },
     {
       "name": "11_30_HES_RUNNING_A_MARATHON",
@@ -1792,8 +1792,8 @@
     },
     {
       "name": "12_7_MORTARDOM",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Reclaimer"
     },
     {
       "name": "12_8_ALL_ACCORDING_TO_PLAN",
@@ -1822,13 +1822,13 @@
     },
     {
       "name": "12_13_DIGGING_UP_THE_PAST",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Dawn"
     },
     {
       "name": "12_14_MISSING_LINK",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3",
+      "level": "Sierra 117"
     },
     {
       "name": "12_15_EMINENT_DOMAIN",
@@ -1967,8 +1967,8 @@
     },
     {
       "name": "13_10_DIRTY_BIRD",
-      "game": "",
-      "level": ""
+      "game": "Halo: 2",
+      "level": "The Arbiter"
     },
     {
       "name": "13_11_A_PREFERENCE_FOR_PAIN",
@@ -1982,13 +1982,13 @@
     },
     {
       "name": "13_13_NAKED_TYRANT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "General"
     },
     {
       "name": "13_14_DEVOTEE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "General"
     },
     {
       "name": "13_15_THRONE_OF_BONES",
@@ -2022,8 +2022,8 @@
     },
     {
       "name": "13_21_CHEST_OF_GOLD",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "General"
     },
     {
       "name": "13_22_OH_THESE_BAUBLES?",
@@ -2202,8 +2202,8 @@
     },
     {
       "name": "14_25_LIBRARIANS_GIFT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "General"
     },
     {
       "name": "14_26_HERALD_OF_THE_RECLAMATION",
@@ -2252,108 +2252,108 @@
     },
     {
       "name": "15_3_OPERATION_COMPLETION",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_4_DEPARTURE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_5_ARTIFACT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_6_CATHERINE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_7_DIDACTS_HAND",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_8_MEMENTO_MORI",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_9_SCATTERED",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_10_INVASION",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_11_EXPENDABLE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_12_KEY",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_13_EXODUS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_14_FEET_FIRST",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_15_TERM_OF_ENLISTMENT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_16_HAZARD_PAY",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_17_ICARUS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_18_SMOOTH_OPERATOR",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_19_ROSES_VS_VIOLETS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_20_NO_ONE_LEFT_BEHIND",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_21_KNIGHT_IN_WHITE_ASSASSINATION",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_22_WHAT_POWER_OUTAGE?",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_23_NO_EASY_WAY_OUT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Spartan Ops"
     },
     {
       "name": "15_24_NICE_WORK_DAWG",
@@ -2492,508 +2492,508 @@
     },
     {
       "name": "16_19_GOING_INTERNATIONAL",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Multiplayer"
     },
     {
       "name": "16_20_TASTE_TEST",
-      "game": "",
-      "level": ""
+      "game": "Halo: 4",
+      "level": "Multiplayer"
     },
     {
       "name": "16_21_NAUGHTY_NAUGHTY",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station"
     },
     {
       "name": "16_22_WELLMAYBE_ONE_OR_TWO",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station"
     },
     {
       "name": "16_23_LISTENER",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "16_24_AN_EAR_FULL",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "16_25_TUNED_IN",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "16_26_DO_TELL",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "16_27_HEAR_ME_OUT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "16_28_EAVESDROPPING",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "16_29_AUDITOR",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "16_30_OVERHEARD",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "16_31_WIRETAPPING",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_0_MONITORED",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_1_HANG_ONTO_MY_WORDS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_2_GIVE_HEED",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_3_GET_A_LOAD",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_4_SNOOP_TROOP",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_5_ALL_EARS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_6_EAR_BENDER",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_7_PLUGGED_IN",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_8_ATTENTIVE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_9_WATCHFUL",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_10_OBSERVANT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_11_SCOUT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_12_ADVENTURER",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_13_SPOTTER",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_14_CONSIDERATE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_15_ON_YOUR_TOES",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_16_ARCHIVIST",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_17_YOUR_ATTENTION_PLEASE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_18_CATCHING_ON",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_19_WISENING_UP",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_20_AUDIOPHILE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Delta Hive"
     },
     {
       "name": "17_21_ROOKIE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "17_22_URBAN_WARFARE_BADGE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "17_23_FIRST_IN_LAST_OUT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "17_24_MEAN_STREETS_OF_NEW_MOMBASA",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "17_25_JUNIOR_DETECTIVE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_26_INVESTIGATOR",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_27_GUMSHOE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_28_BLOODHOUND",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_29_PRIVATE_EYE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_30_SECRET_AGENT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "17_31_RECORD_STORE_OWNER",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "18_0_TAYARI_PLAZA",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza"
     },
     {
       "name": "18_1_UPLIFT_RESERVE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Uplift Reserve"
     },
     {
       "name": "18_2_KIZINGO_BOULEVARD",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Kizingo Boulevard"
     },
     {
       "name": "18_3_ONI_ALPHA_SITE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site"
     },
     {
       "name": "18_4_NMPD_HQ",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ"
     },
     {
       "name": "18_5_KIKOWANI_STATION",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station"
     },
     {
       "name": "18_6_DATA_HIVE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive"
     },
     {
       "name": "18_7_COASTAL_HIGHWAY",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway"
     },
     {
       "name": "18_8_BILL_PAST_DUE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza"
     },
     {
       "name": "18_9_FLOOR_IT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Uplift Reserve"
     },
     {
       "name": "18_10_AN_ARTISTS_CANVAS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Kizingo Boulevard"
     },
     {
       "name": "18_11_A_PLEASANT_TRIP",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site"
     },
     {
       "name": "18_12_FIRST_STOP_ANYWHERE_BUT_HERE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ"
     },
     {
       "name": "18_13_FEET_DONT_FAIL_ME_NOW",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station"
     },
     {
       "name": "18_14_OVERTAKEN_BY_EVENTS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive"
     },
     {
       "name": "18_15_DOUBLE_TIME",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway"
     },
     {
       "name": "18_16_CANT_STOP_HERE_THIS_IS_BRUTE_COUNTRY",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "18_17_SURVEY_SAYS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza"
     },
     {
       "name": "18_18_DONT_STRAIN_YOUR_METAPHORS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Uplift Reserve"
     },
     {
       "name": "18_19_SON_OF_A_GUN",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Kizingo Boulevard"
     },
     {
       "name": "18_20_I_LOVE_MY_JOB",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site"
     },
     {
       "name": "18_21_POUR_IT_ON",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ"
     },
     {
       "name": "18_22_SQUID_JACKPOT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station"
     },
     {
       "name": "18_23_MAGIC_TOUCH",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive"
     },
     {
       "name": "18_24_THIS_OLIPHANT_HAS_NO_BRAKES",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway"
     },
     {
       "name": "18_25_THE_MARINE_CORPS_GIVES_ITS_REGARDS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "18_26_DEJA_VU",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway"
     },
     {
       "name": "18_27_DO_YOU_REMEMBER_WHEN_WE_MET",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "18_28_SAFETY_NOT_GUARANTEED",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "18_29_TRIFECTA",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "18_30_NEXT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "18_31_NAGATO_MAKES_MOVING_EASY",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "19_0_ONE_GOT_AWAY",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway"
     },
     {
       "name": "19_1_LIKE_A_BROKEN_RECORD",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station"
     },
     {
       "name": "19_2_VANDALIZED",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ"
     },
     {
       "name": "19_3_SATURDAY_MORNING_CARTOON",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "19_4_CLASSIC",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "19_5_CATCH_EM_NAPPING",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
     },
     {
       "name": "19_6_STRONG_SILENT_TYPE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive"
     },
     {
       "name": "19_7_BIP_BAP_BAM",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "19_8_PINEAPPLE_EXPRESS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "19_9_FOWL_HUNT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site"
     },
     {
       "name": "19_10_DOES_WHATEVER_A_SPARTAN_CAN",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "19_11_FIREFLY",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive"
     },
     {
       "name": "19_12_BLAM_SAID_THE_LADY",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway"
     },
     {
       "name": "19_13_ONE_WAY_RIDE",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "19_14_JUST_SAYIN_I_AINT_DEAD",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "19_15_DEFERENCE_OF_DARKNESS",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "19_16_THOSE_LEFT_BEHIND",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza"
     },
     {
       "name": "19_17_SHOOT_AND_SCOOT",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ"
     },
     {
       "name": "19_18_FAST_AND_LOW",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station"
     },
     {
       "name": "19_19_SHINY_",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Kizingo Boulevard"
     },
     {
       "name": "19_20_BITS_AND_PIECES",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ"
     },
     {
       "name": "19_21_WHAT_ABOUT_THOSE_TANKS?",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site"
     },
     {
       "name": "19_22_TWO_PLACES_SAME_TIME",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza"
     },
     {
       "name": "19_23_XENOPHOBIA",
-      "game": "",
-      "level": ""
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "19_24_MONUMENTAL_THIRST",
@@ -3002,503 +3002,503 @@
     },
     {
       "name": "19_25_WERE_JUST_GETTING_STARTED",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Winter Contingency"
     },
     {
       "name": "19_26_NO_PICNIC",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "New Alexandria"
     },
     {
       "name": "19_27_PROTOCOL_DICTATES_ACTION",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base"
     },
     {
       "name": "19_28_I_NEED_A_WEAPON",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Nightfall"
     },
     {
       "name": "19_29_TO_WAR",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear"
     },
     {
       "name": "19_30_YOU_FLEW_PRETTY_GOOD",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace"
     },
     {
       "name": "19_31_INTO_THE_HOWLING_DARK",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Exodus"
     },
     {
       "name": "20_0_DUST_AND_ECHOES",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "New Alexandria"
     },
     {
       "name": "20_1_THIS_IS_NOT_YOUR_GRAVE",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Package"
     },
     {
       "name": "20_2_SEND_ME_OUT__WITH_A_BANG",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Pillar of Autumn"
     },
     {
       "name": "20_3_WELCOME_TO_REACH",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "20_4_THE_SOLDIER_WE_NEED_YOU_TO_BE",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "20_5_FOLKS_NEED_HEROES",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "20_6_GODS_MUST_BE_STRONG",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "20_7_A_MONUMENT_TO_ALL_YOUR_SINS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "20_8_WINTER_URGENCY",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Winter Contingency"
     },
     {
       "name": "20_9_JUST_LIKE_STORMING_A_CASTLE",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base"
     },
     {
       "name": "20_10_NOW_JUST_YOU_GUTA_MINUTE",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Nightfall"
     },
     {
       "name": "20_11_GENEROUS_TIPPER",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear"
     },
     {
       "name": "20_12_SABRE_METRICS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace"
     },
     {
       "name": "20_13_QUICKER_THAN_READING_THE_BOOK",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Exodus"
     },
     {
       "name": "20_14_ONE_FOR_THE_RECORD_BOOKS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "New Alexandria"
     },
     {
       "name": "20_15_SPEEDY_DELIVERY",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Package"
     },
     {
       "name": "20_16_WAIT_HOWD_THE_SHIP_GET_DOWN_HERE?",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Pillar of Autumn"
     },
     {
       "name": "20_17_FAST_FALL",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "20_18_ICE_IN_YOUR_VEINS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Winter Contingency"
     },
     {
       "name": "20_19_STILL_SHARP",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base"
     },
     {
       "name": "20_20_MOONS_OUT_GOONS_OUT",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Nightfall"
     },
     {
       "name": "20_21_BAKE_THAT_CAKE",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear"
     },
     {
       "name": "20_22_INSOMNIA",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace"
     },
     {
       "name": "20_23_PARTING_THE_SEA",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Exodus"
     },
     {
       "name": "20_24_NINE_LIVES_ARE_A_MYTH",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "New Alexandria"
     },
     {
       "name": "20_25_HOW_DID_I_LOSE_ALL_MY_FINGERS?",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Package"
     },
     {
       "name": "20_26_PRECIOUS_CARGO",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Pillar of Autumn"
     },
     {
       "name": "20_27_WELL_BE_BACK",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "20_28_TVAOAN_TERMINATOR",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "20_29_CHOL_VONS_NOT_GONNA_LIKE_THIS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "20_30_KEEP_IT_CLEAN",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Winter Contingency"
     },
     {
       "name": "20_31_THEYVE_ALWAYS_BEEN_FASTER",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Winter Contingency"
     },
     {
       "name": "21_0_WAKE_UP_BUTTERCUP",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace"
     },
     {
       "name": "21_1_TWO_CORPSES_IN_ONE_GRAVE",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base"
     },
     {
       "name": "21_2_YOUR_HERESY_WILL_STAY_YOUR_FEET",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear"
     },
     {
       "name": "21_3_I_DIDNT_TRAIN_TO_BE_A_PILOT",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "New Alexandria"
     },
     {
       "name": "21_4_TANK_BEATS_EVERYTHING",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Package"
     },
     {
       "name": "21_5_SWIFT_AND_SHALLOW",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "21_6_FORZA_IN_THE_FALL",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base"
     },
     {
       "name": "21_7_HBORG_SPECIAL",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "New Alexandria"
     },
     {
       "name": "21_8_PLAY_US_A_SAD_SONG_CLAUDE",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "New Alexandria"
     },
     {
       "name": "21_9_WERE_GONNA_NEED_A_BIGGER_SHIP",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "New Alexandria"
     },
     {
       "name": "21_10_FRONT_PAGE_NEWS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "New Alexandria"
     },
     {
       "name": "21_11_THE_HUMBLE_BEGINNINGS_OF_WILJAX_BRANTLEY",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Exodus"
     },
     {
       "name": "21_12_DID_YOU_MAJOR_IN_MARINE_BIO?",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Exodus"
     },
     {
       "name": "21_13_FLY_YOU_FOOLS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Package"
     },
     {
       "name": "21_14_THIS_IS_NOT_THE_GREATEST_LAB_IN_THE_WORLD",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Package"
     },
     {
       "name": "21_15_HEY_YOU_DROPPED_THIS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Winter Contingency"
     },
     {
       "name": "21_16_READ_HALSEYS_JOURNAL",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base"
     },
     {
       "name": "21_17_MEETING_OF_THE_(ARTIFICIAL)_MINDS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Nightfall"
     },
     {
       "name": "21_18_RAMPANT_SPECULATION",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear"
     },
     {
       "name": "21_19_MINORITY_REPORT",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace"
     },
     {
       "name": "21_20_INFO_DUMP",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Exodus"
     },
     {
       "name": "21_21_PAPER_TRAIL",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "New Alexandria"
     },
     {
       "name": "21_22_TERMINAL_CONDITIONS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Package"
     },
     {
       "name": "21_23_DIGITAL_DESTINIES",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Pillar of Autumn"
     },
     {
       "name": "21_24_UNRELIABLE_NARRATOR",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Winter Contingency"
     },
     {
       "name": "21_25_WHAT_DOES_IT_ALL_MEAN?",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base"
     },
     {
       "name": "21_26_UNSOLVED_MYSTERIES",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Nightfall"
     },
     {
       "name": "21_27_MEDDLING_AND_MADNESS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear"
     },
     {
       "name": "21_28_THE_ANSWER_IS_SIMPLE",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace"
     },
     {
       "name": "21_29_OF_PATIENCE_AND_PARTIALITY",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Exodus"
     },
     {
       "name": "21_30_CURIOUS_COMPOSITION",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "New Alexandria"
     },
     {
       "name": "21_31_SILENT_SHEPHERDS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Package"
     },
     {
       "name": "22_0_ASSEMBLED_THE_MAJORITY",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Pillar of Autumn"
     },
     {
       "name": "22_1_YES_NO_YOU_DECIDE",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Lone Wolf"
     },
     {
       "name": "22_2_CANONICAL_CONUNDRUM",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "22_3_WHY_DO_THIS_TO_YOURSELF?",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "22_4_REACH_HAS_BEEN_GOOD_TO_ME",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "22_5_WHO_NEEDS_RED_FLAG?",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "22_6_REMEMBER_REACH",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "22_7_KEEP_YOUR_FOOT_ON_THE_PEDROGAS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "22_8_ENEMIES_EVERYWHERE",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Multiplayer"
     },
     {
       "name": "22_9_NEGATIVE_GHOSTRIDER",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Multiplayer"
     },
     {
       "name": "22_10_SKUNKED",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Multiplayer"
     },
     {
       "name": "22_11_CLEAR_AND_PRESENT_DANGER",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Winter Contingency"
     },
     {
       "name": "22_12_LEFT_BEHIND",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Lone Wolf"
     },
     {
       "name": "22_13_ONE_FINAL_FIREFIGHT",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Lone Wolf"
     },
     {
       "name": "22_14_WHAT_ABOUT_BOB?",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "22_15_JORGE_CANT_HAVE_ALL_THE_BIG_GUNS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace"
     },
     {
       "name": "22_16_IM_SORRY_DAVE",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "22_17_WORKERS_COMPENSATION",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Multiplayer"
     },
     {
       "name": "22_18_CAPACIOUS_CARTOGRAPHY",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "22_19_REQUIESCAT_IN_PACE",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Multiplayer"
     },
     {
       "name": "22_20_RUN_AND_GUNNED",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Multiplayer"
     },
     {
       "name": "22_21_GAME_BREAKER",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Multiplayer"
     },
     {
       "name": "22_22_BECAUSE_IT_WASNT_HARD_ENOUGH",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "General"
     },
     {
       "name": "22_23_CLASSIC_COMPLETION",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Exodus"
     },
     {
       "name": "22_24_CONFUSED_CALLOUTS",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Multiplayer"
     },
     {
       "name": "22_25_COLLECTION_ELIGIBILITY_CONFIRMED",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "The Pillar of Autumn"
     },
     {
       "name": "22_26_MIND_THE_SKILL_GAP",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear"
     },
     {
       "name": "22_27_EASY_TO_OVERLOOK",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "Multiplayer"
     },
     {
       "name": "22_28_NEW_WAYS_TO_SAVE_A_BUCK",
-      "game": "",
-      "level": ""
+      "game": "Halo: Reach",
+      "level": "New Alexandria"
     }
   ]
 }
