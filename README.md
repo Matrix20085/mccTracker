@@ -10,17 +10,16 @@
 - [ ] Some type of contact info
 
 ## Graphical Overhaul
-- [ ] Build display buttons for each game
+- [x] Build display buttons for each game
 - [x] Add background 
 - [ ] Slice of each level as picture in accordion 
 - [x] Make level text more readable on all pictures
 
-## Thoughts:
-Add links to walkthrough videos in level data json
+## Future:
+- [ ] Add links to achivements details (Halopedia)
+- [ ] Add links to walkthrough videos in level data json
+- [ ] Add achievemnt types (eg: Skull, Terminal, Par Time/Score...)
+- [ ] Allow users to sort
 
-Add achievement types. IE: Skull, Terminal, Par Time/Score
-
-If above then allow user to split/sort by types
-
-
+<br>
 Achievement data from: https://www.halopedia.org/List_of_Achievements_for_Halo:_The_Master_Chief_Collection
