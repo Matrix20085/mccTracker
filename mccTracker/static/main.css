@@ -33,6 +33,10 @@ img {
         opacity: 1;
     }
 
+.achivement-text {
+    font-size: 18px;
+}
+
 .button-style {
     padding: 50;
     color: white;
