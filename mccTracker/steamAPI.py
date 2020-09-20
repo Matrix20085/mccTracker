@@ -1,3 +1,4 @@
+import re
 import json
 import time
 import requests
@@ -58,7 +59,11 @@ def getUserData(steamAccountID):
     return fullUserData
 
 def getSteamID(userName):
-    steamIDURL = "http://api.steampowered.com/ISteamUser/ResolveVanityURL/v0001/?key=" + key + "&vanityurl=" + userName
+    if "https://steamcommunity.com/id/" in userName:
+        steamIDURL = "http://api.steampowered.com/ISteamUser/ResolveVanityURL/v0001/?key=" + key + "&vanityurl=" + userName.split('/')[4]
+    else:
+        steamIDURL = "http://api.steampowered.com/ISteamUser/ResolveVanityURL/v0001/?key=" + key + "&vanityurl=" + userName
+    
     steamID = json.loads(requests.get(steamIDURL).content)
     if steamID['response']['success'] == 1:
         return steamID['response']['steamid']

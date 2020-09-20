@@ -3,11 +3,12 @@
 - [x] Parse level data into player dict
 - [x] Decide how to split levels on front end
 - [X] Build collasable tables for each level
-- [ ] Allow users to paste full URL
+- [x] Allow users to paste full URL
 - [ ] Add Steam API signin
 - [ ] Add compleated/total for levels
 - [ ] Into blurb for home page
 - [ ] Some type of contact info
+- [ ] Handle error where user does not have game
 
 ## Graphical Overhaul
 - [x] Build display buttons for each game
