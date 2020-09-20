@@ -11,9 +11,9 @@
 
 ## Graphical Overhaul
 - [ ] Build display buttons for each game
-- [ ] Add background 
+- [x] Add background 
 - [ ] Slice of each level as picture in accordion 
-- [ ] Progress bar for each level (colorize grey version of photo)
+- [x] Make level text more readable on all pictures
 
 ## Thoughts:
 Add links to walkthrough videos in level data json

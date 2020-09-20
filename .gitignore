@@ -342,3 +342,4 @@ healthchecksdb
 # Local custom files
 /mccTracker/mccTrackerEnv
 /mccTracker/config.ini
+/mccTracker/static/images/dev
