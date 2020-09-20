@@ -4,11 +4,12 @@
 - [x] Decide how to split levels on front end
 - [X] Build collasable tables for each level
 - [x] Allow users to paste full URL
-- [ ] Add Steam API signin
-- [ ] Add compleated/total for levels
+- [ ] Add Steam openID signin
+- [ ] Add completed/total for levels
 - [ ] Into blurb for home page
 - [ ] Some type of contact info
-- [ ] Handle error where user does not have game
+- [X] Handle error where user does not have game
+- [x] Handle error where user's profile is private
 
 ## Graphical Overhaul
 - [x] Build display buttons for each game

@@ -44,7 +44,7 @@
         </nav>
     </header>
     <main role="main" class="container">
-        <div class="row">
+        <div class="row" style="padding-top: 12px;">
             <div class="col-md-12">
                 {% with messages = get_flashed_messages(with_categories=true) %}
                 {% if messages %}
@@ -62,7 +62,7 @@
                         <p>
                             <center>
                                 {% for game in userData %}
-                                <button class="btn btn-primary games" type="button" data-toggle="collapse" data-target="#{{ game | replace(': ','') | replace(' ', '') }}" aria-expanded="false" aria-controls="{{ game | replace(': ','') | replace(' ', '') }}"><img src="static/images/{{ game | replace(': ','') | replace(' ', '') }}.jpg" alt="{{ game }} width="100" height="100"></button>
+                                <button class="btn btn-primary games" type="button" data-toggle="collapse" data-target="#{{ game | replace(': ','') | replace(' ', '') }}"><img src="static/images/{{ game | replace(': ','') | replace(' ', '') }}.jpg" alt="{{ game }} width="100" height="100"></button>
                                 {% endfor %}
                             </center>
                         </p>
@@ -75,13 +75,13 @@
                             <div class="card levels">
                                 <div class="card-header" id="heading{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(': ','') | replace(' ','') }}" >
                                     <h2 class="mb-0">
-                                        <button class="btn btn-link btn-block text-left collapsed button-style" type="button" data-toggle="collapse" data-target="#collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(': ','') | replace(' ','') }}" aria-expanded="true" aria-controls="collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(': ','') | replace(' ','') }}" style="background-image: url('static/images/{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(': ','') | replace(' ','') }}.svg')">
+                                        <button class="btn btn-link btn-block text-left collapsed button-style" type="button" data-toggle="collapse" data-target="#collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(': ','') | replace(' ','') }}" style="background-image: url('static/images/{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(': ','') | replace(' ','') }}.svg')">
                                             {{ level }}
                                         </button>
                                     </h2>
                                 </div>
 
-                                <div id="collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(': ','') | replace(' ','') }}" class="collapse" aria-labelledby="heading{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(': ','') | replace(' ','') }}" data-parent="#{{ game | replace(': ','') | replace(' ', '') }}">
+                                <div id="collaspe{{ game | replace(': ','') | replace(' ', '') }}{{ level | replace(': ','') | replace(' ','') }}" class="collapse" data-parent="#{{ game | replace(': ','') | replace(' ', '') }}">
                                     <div class="card-body">
                                         <table class="table">
                                             <thread>
