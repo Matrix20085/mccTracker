@@ -1,0 +1,76 @@
+﻿body {
+    background-image: url('images/background.jpg');
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #444444;
+}
+
+img {
+    border-radius: 4px;
+}
+
+.games {
+    padding: 0;
+    border-color: #272a2b;
+    border-width: 4px;
+    border-radius: 4px;
+    background-color: black;
+    opacity: .8;
+}
+
+.levels {
+    background-color: slategray;
+    opacity: 0.95;
+    font-weight: 500;
+    text-decoration: none;
+    transition-duration: .8s;
+}
+
+    .levels:hover {
+        opacity: 1;
+    }
+
+
+.achivement-text {
+    font-size: 18px;
+}
+
+.button-style {
+    padding: 50;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 4px;
+    transition-duration: .4s;
+    height: 125px;
+}
+
+    .button-style:hover {
+        color: whitesmoke;
+        background-color: #000000;
+        text-decoration: none;
+    }
+
+.bg-steel {
+    background-color: #5f788a;
+    opacity: .9;
+    border-bottom: solid #435868 6px;
+    border-radius: 15px;
+}
+
+.site-header .navbar-nav .nav-link {
+    color: #cbd5db;
+}
+
+    .site-header .navbar-nav .nav-link:hover {
+        color: #ffffff;
+    }
+
+    .site-header .navbar-nav .nav-link.active {
+        font-weight: 500;
+    }
