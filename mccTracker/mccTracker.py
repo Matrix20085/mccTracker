@@ -22,18 +22,19 @@ def home():
     form = usernameForm()
     if form.username.data:
         steamID = form.username.data
-        if re.search(r"^\d{17}$",steamID):
-            flash(f'Account loaded!', 'success')
-            return render_template('master.html', form=form, title=form.username.data, userData= steamAPI.getUserData(steamID))
-        else:
-            steamID = steamAPI.getSteamID(steamID)
-            if steamID != 0:
-                flash(f'Account loaded!', 'success')
-                return render_template('master.html', form=form, title=form.username.data, userData= steamAPI.getUserData(steamID))
-            else:
-                flash(f'Account not found. Only SteamIDs and account names can be used.', 'danger')
+        steamID = steamAPI.getSteamID(steamID)
+        if steamID != 0:
+            userData= steamAPI.getUserData(steamID)
+            if type(userData) is str:
+                flash(f''+userData, 'danger')
                 return render_template('master.html', form=form)
+            return render_template('master.html', form=form, title=form.username.data, userData=userData)
+        else:
+            flash(f'Account not found. Only SteamIDs and account names can be used.', 'danger')
+            return render_template('master.html', form=form)
     else:
         return render_template('master.html', form=form)
+
+
 if __name__ == '__main__':
     app.run(debug=True)

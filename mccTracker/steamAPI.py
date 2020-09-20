@@ -23,6 +23,8 @@ def getUserData(steamAccountID):
     with open('data/mccData.json') as jsonFile:
         levelData = json.load(jsonFile)
 
+    if 'error' in playerData['playerstats']:
+        return playerData['playerstats']['error']
 
     fullUserData = {}
 
@@ -59,8 +61,11 @@ def getUserData(steamAccountID):
     return fullUserData
 
 def getSteamID(userName):
-    if "https://steamcommunity.com/id/" in userName:
-        steamIDURL = "http://api.steampowered.com/ISteamUser/ResolveVanityURL/v0001/?key=" + key + "&vanityurl=" + userName.split('/')[4]
+    if "https://steamcommunity.com/" in userName:
+        userName = userName.split('/')[4]
+
+    if re.search(r"^\d{17}$",userName):
+        return userName
     else:
         steamIDURL = "http://api.steampowered.com/ISteamUser/ResolveVanityURL/v0001/?key=" + key + "&vanityurl=" + userName
     
