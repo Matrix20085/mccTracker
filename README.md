@@ -5,7 +5,7 @@
 - [X] Build collasable tables for each level
 - [x] Allow users to paste full URL
 - [ ] Add Steam openID signin
-- [ ] Add completed/total for levels
+- [x] Add completed/total for levels
 - [ ] Into blurb for home page
 - [ ] Some type of contact info
 - [X] Handle error where user does not have game

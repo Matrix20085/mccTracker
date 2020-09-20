@@ -38,10 +38,14 @@ def getUserData(steamAccountID):
             fullUserData[currentGame] = {}
         if currentLevel not in fullUserData[currentGame]:
             fullUserData[currentGame][currentLevel] = {}
+            fullUserData[currentGame][currentLevel]['totalAchivements'] = 0
+            fullUserData[currentGame][currentLevel]['userAchivements'] = 0
+        fullUserData[currentGame][currentLevel]['totalAchivements'] = fullUserData[currentGame][currentLevel]['totalAchivements'] + 1
         fullUserData[currentGame][currentLevel][currentName] = {}
         fullUserData[currentGame][currentLevel][currentName]['achieved'] = achievement['achieved']
         if fullUserData[currentGame][currentLevel][currentName]['achieved'] == 1:
             fullUserData[currentGame][currentLevel][currentName]['unlockTime'] = datetime.strftime(datetime.fromtimestamp(achievement['unlocktime']),"%b %d %Y @ %I:%M %p")
+            fullUserData[currentGame][currentLevel]['userAchivements'] = fullUserData[currentGame][currentLevel]['userAchivements'] + 1
         else:
             fullUserData[currentGame][currentLevel][currentName]['unlockTime'] = ""
         for mccAchievement in mccData['game']['availableGameStats']['achievements']:
@@ -56,7 +60,8 @@ def getUserData(steamAccountID):
         for statsAchievement in achievementData['achievementpercentages']['achievements']:
             if statsAchievement['name'] == currentName:
                 fullUserData[currentGame][currentLevel][currentName]['percent'] = round(statsAchievement['percent'],1)
-        
+        print(fullUserData[currentGame][currentLevel]['totalAchivements'])
+        print(fullUserData[currentGame][currentLevel]['userAchivements'])
          
     return fullUserData
 
