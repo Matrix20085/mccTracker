@@ -24,14 +24,17 @@ img {
 }
 
 .levels {
-    opacity: 0.75;
     background-color: slategray;
-    transition-duration: .8s;
+    opacity: 0.95;
+    font-weight: 550;
+    text-decoration: none;
+    /*transition-duration: .8s; */
 }
 
-    .levels:hover {
+    /*.levels:hover {
         opacity: 1;
     }
+    */
 
 .achivement-text {
     font-size: 18px;
