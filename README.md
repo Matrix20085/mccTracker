@@ -9,6 +9,7 @@
 - [X] Some type of contact info
 - [X] Handle error where user does not have game
 - [x] Handle error where user's profile is private
+- [ ] Order levels and achivements
 
 ## Graphical Overhaul
 - [x] Build display buttons for each game
