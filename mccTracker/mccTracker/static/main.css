@@ -40,6 +40,21 @@ img {
     font-size: 18px;
 }
 
+.into-blurb {
+    word-wrap: normal;
+    background-color: grey;
+    border-radius: 6px;
+    padding: 12px;
+    border-color: darkcyan;
+    border-width: 3px;
+    border-style: solid;
+    margin-top: 24px;
+}
+
+.contact {
+    position: relative;
+}
+
 .button-style {
     padding: 50;
     color: white;

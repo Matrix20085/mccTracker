@@ -343,3 +343,4 @@ healthchecksdb
 /mccTracker/mccTrackerEnv
 /mccTracker/config.ini
 /mccTracker/static/images/dev
+/mccTracker/mccTracker/static/images/svg
