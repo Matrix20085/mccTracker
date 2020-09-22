@@ -570,6 +570,11 @@
       "game": "Halo: CE",
       "level": "General"
     },
+	{
+      "name": "6_9_SKULLTAKER_HALO_2_THATS_JUSTWRONG",
+      "game": "Halo: 2",
+      "level": "The Armory"
+    },
     {
       "name": "4_18_CAIRO_STATION",
       "game": "Halo: 2",
@@ -844,11 +849,6 @@
       "name": "6_8_WALKING_ENCYCLOPEDIA",
       "game": "Halo: 2",
       "level": "General"
-    },
-    {
-      "name": "6_9_SKULLTAKER_HALO_2_THATS_JUSTWRONG",
-      "game": "Halo: 2",
-      "level": "The Armory"
     },
     {
       "name": "6_10_SKULLTAKER_HALO_2_THUNDERSTORM",
@@ -2501,16 +2501,6 @@
       "level": "Multiplayer"
     },
     {
-      "name": "16_21_NAUGHTY_NAUGHTY",
-      "game": "Halo: 3 ODST",
-      "level": "Kikowani Station"
-    },
-    {
-      "name": "16_22_WELLMAYBE_ONE_OR_TWO",
-      "game": "Halo: 3 ODST",
-      "level": "Kikowani Station"
-    },
-    {
       "name": "16_23_LISTENER",
       "game": "Halo: 3 ODST",
       "level": "Mombasa Streets"
@@ -2656,31 +2646,6 @@
       "level": "Mombasa Streets"
     },
     {
-      "name": "17_20_AUDIOPHILE",
-      "game": "Halo: 3 ODST",
-      "level": "Data Hive"
-    },
-    {
-      "name": "17_21_ROOKIE",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "17_22_URBAN_WARFARE_BADGE",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "17_23_FIRST_IN_LAST_OUT",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "17_24_MEAN_STREETS_OF_NEW_MOMBASA",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
       "name": "17_25_JUNIOR_DETECTIVE",
       "game": "Halo: 3 ODST",
       "level": "Mombasa Streets"
@@ -2711,42 +2676,192 @@
       "level": "Mombasa Streets"
     },
     {
-      "name": "17_31_RECORD_STORE_OWNER",
+      "name": "19_3_SATURDAY_MORNING_CARTOON",
       "game": "Halo: 3 ODST",
-      "level": "General"
+      "level": "Mombasa Streets"
     },
     {
+      "name": "19_5_CATCH_EM_NAPPING",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets"
+    },
+	{
       "name": "18_0_TAYARI_PLAZA",
       "game": "Halo: 3 ODST",
       "level": "Tayari Plaza"
     },
-    {
+	{
+      "name": "18_8_BILL_PAST_DUE",
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza"
+    },
+	{
+      "name": "18_17_SURVEY_SAYS",
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza"
+    },
+	{
+      "name": "19_16_THOSE_LEFT_BEHIND",
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza"
+    },
+	{
+      "name": "19_22_TWO_PLACES_SAME_TIME",
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza"
+    },
+	{
       "name": "18_1_UPLIFT_RESERVE",
       "game": "Halo: 3 ODST",
       "level": "Uplift Reserve"
     },
-    {
+	{
+      "name": "18_9_FLOOR_IT",
+      "game": "Halo: 3 ODST",
+      "level": "Uplift Reserve"
+    },
+	{
+      "name": "18_18_DONT_STRAIN_YOUR_METAPHORS",
+      "game": "Halo: 3 ODST",
+      "level": "Uplift Reserve"
+    },
+	{
       "name": "18_2_KIZINGO_BOULEVARD",
       "game": "Halo: 3 ODST",
       "level": "Kizingo Boulevard"
     },
-    {
+	{
+      "name": "18_10_AN_ARTISTS_CANVAS",
+      "game": "Halo: 3 ODST",
+      "level": "Kizingo Boulevard"
+    },
+	 {
+      "name": "19_19_SHINY_",
+      "game": "Halo: 3 ODST",
+      "level": "Kizingo Boulevard"
+    },
+	{
+      "name": "18_19_SON_OF_A_GUN",
+      "game": "Halo: 3 ODST",
+      "level": "Kizingo Boulevard"
+    },
+	    {
       "name": "18_3_ONI_ALPHA_SITE",
       "game": "Halo: 3 ODST",
       "level": "ONI Alpha Site"
     },
-    {
+	{
+      "name": "18_11_A_PLEASANT_TRIP",
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site"
+    },
+	{
+      "name": "18_20_I_LOVE_MY_JOB",
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site"
+    },
+	{
+      "name": "19_9_FOWL_HUNT",
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site"
+    },
+	{
+      "name": "19_21_WHAT_ABOUT_THOSE_TANKS?",
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site"
+    },
+	{
       "name": "18_4_NMPD_HQ",
       "game": "Halo: 3 ODST",
       "level": "NMPD HQ"
     },
-    {
-      "name": "18_5_KIKOWANI_STATION",
+	{
+      "name": "18_12_FIRST_STOP_ANYWHERE_BUT_HERE",
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ"
+    },
+	{
+      "name": "18_21_POUR_IT_ON",
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ"
+    },
+	{
+      "name": "19_2_VANDALIZED",
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ"
+    },
+	{
+      "name": "19_20_BITS_AND_PIECES",
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ"
+    },
+	{
+      "name": "19_17_SHOOT_AND_SCOOT",
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ"
+    },
+	{
+      "name": "16_21_NAUGHTY_NAUGHTY",
       "game": "Halo: 3 ODST",
       "level": "Kikowani Station"
     },
     {
+      "name": "16_22_WELLMAYBE_ONE_OR_TWO",
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station"
+    },
+	{
+      "name": "19_18_FAST_AND_LOW",
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station"
+    },
+	{
+      "name": "18_5_KIKOWANI_STATION",
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station"
+    },
+	{
+      "name": "18_13_FEET_DONT_FAIL_ME_NOW",
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station"
+    },
+	{
+      "name": "18_22_SQUID_JACKPOT",
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station"
+    },
+	{
+      "name": "19_1_LIKE_A_BROKEN_RECORD",
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station"
+    },
+	{
+      "name": "17_20_AUDIOPHILE",
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive"
+    },
+	{
       "name": "18_6_DATA_HIVE",
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive"
+    },
+	{
+      "name": "18_14_OVERTAKEN_BY_EVENTS",
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive"
+    },
+	{
+      "name": "18_23_MAGIC_TOUCH",
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive"
+    },
+	{
+      "name": "19_11_FIREFLY",
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive"
+    },
+	{
+      "name": "19_6_STRONG_SILENT_TYPE",
       "game": "Halo: 3 ODST",
       "level": "Data Hive"
     },
@@ -2756,44 +2871,54 @@
       "level": "Coastal Highway"
     },
     {
-      "name": "18_8_BILL_PAST_DUE",
-      "game": "Halo: 3 ODST",
-      "level": "Tayari Plaza"
-    },
-    {
-      "name": "18_9_FLOOR_IT",
-      "game": "Halo: 3 ODST",
-      "level": "Uplift Reserve"
-    },
-    {
-      "name": "18_10_AN_ARTISTS_CANVAS",
-      "game": "Halo: 3 ODST",
-      "level": "Kizingo Boulevard"
-    },
-    {
-      "name": "18_11_A_PLEASANT_TRIP",
-      "game": "Halo: 3 ODST",
-      "level": "ONI Alpha Site"
-    },
-    {
-      "name": "18_12_FIRST_STOP_ANYWHERE_BUT_HERE",
-      "game": "Halo: 3 ODST",
-      "level": "NMPD HQ"
-    },
-    {
-      "name": "18_13_FEET_DONT_FAIL_ME_NOW",
-      "game": "Halo: 3 ODST",
-      "level": "Kikowani Station"
-    },
-    {
-      "name": "18_14_OVERTAKEN_BY_EVENTS",
-      "game": "Halo: 3 ODST",
-      "level": "Data Hive"
-    },
-    {
       "name": "18_15_DOUBLE_TIME",
       "game": "Halo: 3 ODST",
       "level": "Coastal Highway"
+    },
+    {
+      "name": "18_24_THIS_OLIPHANT_HAS_NO_BRAKES",
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway"
+    },
+	{
+      "name": "18_26_DEJA_VU",
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway"
+    },
+	{
+      "name": "19_0_ONE_GOT_AWAY",
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway"
+    },
+    {
+      "name": "19_12_BLAM_SAID_THE_LADY",
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway"
+    },
+	  {
+      "name": "17_21_ROOKIE",
+      "game": "Halo: 3 ODST",
+      "level": "General"
+    },
+    {
+      "name": "17_22_URBAN_WARFARE_BADGE",
+      "game": "Halo: 3 ODST",
+      "level": "General"
+    },
+    {
+      "name": "17_23_FIRST_IN_LAST_OUT",
+      "game": "Halo: 3 ODST",
+      "level": "General"
+    },
+    {
+      "name": "17_24_MEAN_STREETS_OF_NEW_MOMBASA",
+      "game": "Halo: 3 ODST",
+      "level": "General"
+    },
+    {
+      "name": "17_31_RECORD_STORE_OWNER",
+      "game": "Halo: 3 ODST",
+      "level": "General"
     },
     {
       "name": "18_16_CANT_STOP_HERE_THIS_IS_BRUTE_COUNTRY",
@@ -2801,54 +2926,9 @@
       "level": "General"
     },
     {
-      "name": "18_17_SURVEY_SAYS",
-      "game": "Halo: 3 ODST",
-      "level": "Tayari Plaza"
-    },
-    {
-      "name": "18_18_DONT_STRAIN_YOUR_METAPHORS",
-      "game": "Halo: 3 ODST",
-      "level": "Uplift Reserve"
-    },
-    {
-      "name": "18_19_SON_OF_A_GUN",
-      "game": "Halo: 3 ODST",
-      "level": "Kizingo Boulevard"
-    },
-    {
-      "name": "18_20_I_LOVE_MY_JOB",
-      "game": "Halo: 3 ODST",
-      "level": "ONI Alpha Site"
-    },
-    {
-      "name": "18_21_POUR_IT_ON",
-      "game": "Halo: 3 ODST",
-      "level": "NMPD HQ"
-    },
-    {
-      "name": "18_22_SQUID_JACKPOT",
-      "game": "Halo: 3 ODST",
-      "level": "Kikowani Station"
-    },
-    {
-      "name": "18_23_MAGIC_TOUCH",
-      "game": "Halo: 3 ODST",
-      "level": "Data Hive"
-    },
-    {
-      "name": "18_24_THIS_OLIPHANT_HAS_NO_BRAKES",
-      "game": "Halo: 3 ODST",
-      "level": "Coastal Highway"
-    },
-    {
       "name": "18_25_THE_MARINE_CORPS_GIVES_ITS_REGARDS",
       "game": "Halo: 3 ODST",
       "level": "General"
-    },
-    {
-      "name": "18_26_DEJA_VU",
-      "game": "Halo: 3 ODST",
-      "level": "Coastal Highway"
     },
     {
       "name": "18_27_DO_YOU_REMEMBER_WHEN_WE_MET",
@@ -2876,39 +2956,9 @@
       "level": "General"
     },
     {
-      "name": "19_0_ONE_GOT_AWAY",
-      "game": "Halo: 3 ODST",
-      "level": "Coastal Highway"
-    },
-    {
-      "name": "19_1_LIKE_A_BROKEN_RECORD",
-      "game": "Halo: 3 ODST",
-      "level": "Kikowani Station"
-    },
-    {
-      "name": "19_2_VANDALIZED",
-      "game": "Halo: 3 ODST",
-      "level": "NMPD HQ"
-    },
-    {
-      "name": "19_3_SATURDAY_MORNING_CARTOON",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
       "name": "19_4_CLASSIC",
       "game": "Halo: 3 ODST",
       "level": "General"
-    },
-    {
-      "name": "19_5_CATCH_EM_NAPPING",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "19_6_STRONG_SILENT_TYPE",
-      "game": "Halo: 3 ODST",
-      "level": "Data Hive"
     },
     {
       "name": "19_7_BIP_BAP_BAM",
@@ -2921,24 +2971,9 @@
       "level": "General"
     },
     {
-      "name": "19_9_FOWL_HUNT",
-      "game": "Halo: 3 ODST",
-      "level": "ONI Alpha Site"
-    },
-    {
       "name": "19_10_DOES_WHATEVER_A_SPARTAN_CAN",
       "game": "Halo: 3 ODST",
       "level": "General"
-    },
-    {
-      "name": "19_11_FIREFLY",
-      "game": "Halo: 3 ODST",
-      "level": "Data Hive"
-    },
-    {
-      "name": "19_12_BLAM_SAID_THE_LADY",
-      "game": "Halo: 3 ODST",
-      "level": "Coastal Highway"
     },
     {
       "name": "19_13_ONE_WAY_RIDE",
@@ -2954,41 +2989,6 @@
       "name": "19_15_DEFERENCE_OF_DARKNESS",
       "game": "Halo: 3 ODST",
       "level": "General"
-    },
-    {
-      "name": "19_16_THOSE_LEFT_BEHIND",
-      "game": "Halo: 3 ODST",
-      "level": "Tayari Plaza"
-    },
-    {
-      "name": "19_17_SHOOT_AND_SCOOT",
-      "game": "Halo: 3 ODST",
-      "level": "NMPD HQ"
-    },
-    {
-      "name": "19_18_FAST_AND_LOW",
-      "game": "Halo: 3 ODST",
-      "level": "Kikowani Station"
-    },
-    {
-      "name": "19_19_SHINY_",
-      "game": "Halo: 3 ODST",
-      "level": "Kizingo Boulevard"
-    },
-    {
-      "name": "19_20_BITS_AND_PIECES",
-      "game": "Halo: 3 ODST",
-      "level": "NMPD HQ"
-    },
-    {
-      "name": "19_21_WHAT_ABOUT_THOSE_TANKS?",
-      "game": "Halo: 3 ODST",
-      "level": "ONI Alpha Site"
-    },
-    {
-      "name": "19_22_TWO_PLACES_SAME_TIME",
-      "game": "Halo: 3 ODST",
-      "level": "Tayari Plaza"
     },
     {
       "name": "19_23_XENOPHOBIA",

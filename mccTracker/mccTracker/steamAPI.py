@@ -28,26 +28,26 @@ def getUserData(steamAccountID):
 
     fullUserData = {}
 
-    for achievement in playerData['playerstats']['achievements']:
-        currentName = achievement['apiname']
-        for levelAchievement in levelData['achievements']:
-            if levelAchievement['name'] == currentName:
-                currentGame = levelAchievement['game']
-                currentLevel = levelAchievement['level']
+    for levelAchievement in levelData['achievements']:
+        currentName = levelAchievement['name']
+        currentGame = levelAchievement['game']
+        currentLevel = levelAchievement['level']
         if currentGame not in fullUserData:
             fullUserData[currentGame] = {}
         if currentLevel not in fullUserData[currentGame]:
             fullUserData[currentGame][currentLevel] = {}
-            fullUserData[currentGame][currentLevel]['totalAchivements'] = 0
-            fullUserData[currentGame][currentLevel]['userAchivements'] = 0
-        fullUserData[currentGame][currentLevel]['totalAchivements'] = fullUserData[currentGame][currentLevel]['totalAchivements'] + 1
+            fullUserData[currentGame][currentLevel]['totalAchievements'] = 0
+            fullUserData[currentGame][currentLevel]['userAchievements'] = 0
+        fullUserData[currentGame][currentLevel]['totalAchievements'] = fullUserData[currentGame][currentLevel]['totalAchievements'] + 1
         fullUserData[currentGame][currentLevel][currentName] = {}
-        fullUserData[currentGame][currentLevel][currentName]['achieved'] = achievement['achieved']
-        if fullUserData[currentGame][currentLevel][currentName]['achieved'] == 1:
-            fullUserData[currentGame][currentLevel][currentName]['unlockTime'] = datetime.strftime(datetime.fromtimestamp(achievement['unlocktime']),"%b %d %Y @ %I:%M %p")
-            fullUserData[currentGame][currentLevel]['userAchivements'] = fullUserData[currentGame][currentLevel]['userAchivements'] + 1
-        else:
-            fullUserData[currentGame][currentLevel][currentName]['unlockTime'] = ""
+        for achievement in playerData['playerstats']['achievements']:
+            if achievement['apiname'] == currentName:     
+                fullUserData[currentGame][currentLevel][currentName]['achieved'] = achievement['achieved']
+                if fullUserData[currentGame][currentLevel][currentName]['achieved'] == 1:
+                    fullUserData[currentGame][currentLevel][currentName]['unlockTime'] = datetime.strftime(datetime.fromtimestamp(achievement['unlocktime']),"%b %d %Y @ %I:%M %p")
+                    fullUserData[currentGame][currentLevel]['userAchievements'] = fullUserData[currentGame][currentLevel]['userAchievements'] + 1
+                else:
+                    fullUserData[currentGame][currentLevel][currentName]['unlockTime'] = ""
         for mccAchievement in mccData['game']['availableGameStats']['achievements']:
             if mccAchievement['name'] == currentName:
                 fullUserData[currentGame][currentLevel][currentName]['displayName'] = mccAchievement['displayName']
@@ -60,8 +60,6 @@ def getUserData(steamAccountID):
         for statsAchievement in achievementData['achievementpercentages']['achievements']:
             if statsAchievement['name'] == currentName:
                 fullUserData[currentGame][currentLevel][currentName]['percent'] = round(statsAchievement['percent'],1)
-
-         
     return fullUserData
 
 def getSteamID(userName):
