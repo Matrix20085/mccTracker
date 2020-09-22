@@ -8,3 +8,4 @@ pip==19.2.3
 setuptools==41.2.0
 Werkzeug==1.0.1
 WTForms==2.3.3
+requests==2.18.4
