@@ -10,8 +10,8 @@ parser = configparser.ConfigParser()
 parser.read('config.ini')
 key = parser.get('keys','steamAPI')
 
+
 def getUserData(steamAccountID):
-    
 
     playerDataURL = "http://api.steampowered.com/ISteamUserStats/GetPlayerAchievements/v0001/?appid=976730&key=" + key + "&steamid=" + steamAccountID
     mccDataURL = "http://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?appid=976730&key=" + key
@@ -62,6 +62,7 @@ def getUserData(steamAccountID):
                 fullUserData[currentGame][currentLevel][currentName]['percent'] = round(statsAchievement['percent'],1)
     return fullUserData
 
+
 def getSteamID(userName):
     if "https://steamcommunity.com/" in userName:
         userName = userName.split('/')[4]
@@ -76,3 +77,11 @@ def getSteamID(userName):
         return steamID['response']['steamid']
     else:
         return 0
+
+def getSteamName(steamID):
+
+    profileURL = "http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=" + key + "&steamids=" + steamID
+
+    profile = json.loads(requests.get(profileURL).content)
+
+    return profile['response']['players'][0]['personaname'], profile['response']['players'][0]['avatarmedium']
