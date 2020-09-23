@@ -18,6 +18,11 @@
 - [x] Slice of each level as picture in accordion 
 - [x] Make level text more readable on all pictures
 - [ ] Work on mobile development
+- [ ] Update General in each level
+- [ ] Automaticaly snap to top of level when expanded
+- [ ] Game name of selcted game above list of levels
+- [ ] Some type of progress bar
+- [ ] Expand all/ Collapse all
 
 ## Future:
 - [ ] Add links to achivements details (Halopedia)
@@ -25,6 +30,8 @@
 - [ ] Add achievemnt types (eg: Skull, Terminal, Par Time/Score...)
 - [ ] Allow users to sort
 - [ ] Add Steam openID signin
+- [ ] Total achivements per game
+- [ ] Tooltip for unlock time and percent
 
 <br>
 Achievement data from: https://www.halopedia.org/List_of_Achievements_for_Halo:_The_Master_Chief_Collection
