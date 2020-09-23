@@ -19,15 +19,12 @@ jobs:
     steps:
     - name: Deploy and Restart
       uses: appleboy/ssh-action@master
-      env: 
-        pass: ${{ secrets.SSH_PASSWORD }}
       with:
         host: ${{ secrets.SSH_SERVER }}
         username: ${{ secrets.SSH_USER }}
         password: ${{ secrets.SSH_PASSWORD }}
         port: ${{ secrets.SSH_PORT }}
-        envs: pass
         script: |
           cd mccTracker/
           git pull
-          echo "$pass" | sudo -S supervisorctl restart mcctracker
+          sudo -S supervisorctl restart mcctracker
