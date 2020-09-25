@@ -46,7 +46,7 @@
             </div>
 
             <div class="navbar-collapse" id="navbarToggle">
-            <!-- Navbar Right Side -->
+            <!-- App and user name -->
             <div class="navbar-nav">
                 <form method="post" action="">
                     <div>
@@ -73,6 +73,7 @@
 
                 <div>
                     {% if userData %}
+                    <!-- Start top row with game icons -->
                     <div>
                         <p>
                             <center>
@@ -82,6 +83,8 @@
                             </center>
                         </p>
                     </div>
+                    <!-- End game icons -->
+                    <!-- Start game accordian -->
                     <div class="accordion collapse show" id="invisaccord">
                         {% for game,levels in userData.items() %}
 
@@ -135,7 +138,8 @@
                             {% endfor %}
                         </div>
                         {% endfor %}
-                    </div><!--./end top level new accordion -->
+                    </div>
+                    <!-- End game accordion -->
                     {% else %}
                     <div class="into-blurb">
                         Welcome to MCCTracker.com, the site that allows you to efficiently track all of yours or your friends achievement in Halo: The Master Chief Collection.

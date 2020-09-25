@@ -15,6 +15,8 @@ class usernameForm(FlaskForm):
 @app.route('/home', methods=['GET','POST'])
 def home():
     form = usernameForm()
+
+    # Check is user entered data
     if form.username.data:
         steamID = form.username.data
         steamID = steamAPI.getSteamID(steamID)

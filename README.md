@@ -18,7 +18,7 @@
 - [x] Slice of each level as picture in accordion 
 - [x] Make level text more readable on all pictures
 - [ ] Work on mobile development
-- [ ] Update General in each level
+- [ ] Update General picture in each game
 - [ ] Automaticaly snap to top of level when expanded
 - [ ] Game name of selcted game above list of levels
 - [ ] Some type of progress bar
