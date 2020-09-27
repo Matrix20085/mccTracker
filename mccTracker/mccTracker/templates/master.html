@@ -119,7 +119,7 @@
                                                 {% if achivement.displayName %}
                                                 <tr>
                                                     <th scope="row"><img src="{{ achivement.icon }}" alt="{{ achivement.displayName }}"></th>
-                                                    <td><a href="https://www.halopedia.org/{{ achivement.displayName | replace(' ','_') }}" target="_blank">{{ achivement.displayName }}</a></td>
+                                                    <td><a href="https://www.halopedia.org/{{ achivement.displayName | replace(' ','_') | replace('?','%3F') }}" target="_blank">{{ achivement.displayName }}</a></td>
                                                     <td>{{ achivement.description }}</td>
                                                     <td>
                                                         {% if achivement.achieved == 1 %}
