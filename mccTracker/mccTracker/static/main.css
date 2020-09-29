@@ -14,18 +14,34 @@ img {
     border-radius: 4px;
 }
 
+
+
 /* unvisited link */
-a:link {
+a.wiki:link {
     color: darkblue;
 }
 
 /* visited link */
-a:visited {
+a.wiki:visited {
     color: darkblue;
 }
 
 /* mouse over link */
-a:hover {
+a.wiki:hover {
+    color: darkgray;
+    text-decoration: none;
+}
+
+a.videoURL:link {
+    color: #444444;
+    font-size: 12px;
+}
+
+a.videoURL:visited {
+    color: #444444;
+}
+
+a.videoURL:hover {
     color: darkgray;
     text-decoration: none;
 }
