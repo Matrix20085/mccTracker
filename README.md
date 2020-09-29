@@ -9,7 +9,7 @@
 - [X] Some type of contact info
 - [X] Handle error where user does not have game
 - [x] Handle error where user's profile is private
-- [x] Order levels and achivements
+- [x] Order levels and achievements
 - [x] Use username and avatar for top bar and title
 
 ## Graphical Overhaul
@@ -25,13 +25,13 @@
 - [ ] Expand all/ Collapse all
 
 ## Future:
-- [ ] Add links to achivements details (Halopedia)
+- [x] Add links to achievements details (Halopedia)
 - [ ] Add links to walkthrough videos in level data json
 - [ ] Add achievemnt types (eg: Skull, Terminal, Par Time/Score...)
 - [ ] Allow users to sort
 - [ ] Add Steam openID signin
-- [ ] Total achivements per game
-- [ ] Tooltip for unlock time and percent
+- [ ] Total achievements per game
+- [x] Tooltip for unlock time and percent
 
 <br>
 Achievement data from: https://www.halopedia.org/List_of_Achievements_for_Halo:_The_Master_Chief_Collection

@@ -110,8 +110,8 @@
                                                     <th scope="col"><center>Logo</center></th>
                                                     <th scope="col">Name</th>
                                                     <th scope="col">Description</th>
-                                                    <th scope="col">Unlock Time</th>
-                                                    <th scope="col">Percent</th>
+                                                    <th scope="col"><div class="hoverable"><span title="All times in UTC">Unlock Time</span></div></th>
+                                                    <th scope="col"><div class="hoverable"><span title="Percent of all players">Percent</span></div></th>
                                                 </tr>
                                             </thread>
                                             <tbody>
@@ -119,7 +119,14 @@
                                                 {% if achivement.displayName %}
                                                 <tr>
                                                     <th scope="row"><img src="{{ achivement.icon }}" alt="{{ achivement.displayName }}"></th>
-                                                    <td>{{ achivement.displayName }}</td>
+                                                    <td>
+                                                        <a class="wiki" href="https://www.halopedia.org/{{ achivement.displayName | replace(' ','_') | replace('?','%3F') }}" target="_blank">
+                                                            {{ achivement.displayName }}
+                                                        </a>
+                                                        {% if achivement.videoURL %}
+                                                            <br /><a class="videoURL" href="{{ achivement.videoURL }}" target="_blank">(Walkthrough)</a>
+                                                        {% endif %}
+                                                    </td>
                                                     <td>{{ achivement.description }}</td>
                                                     <td>
                                                         {% if achivement.achieved == 1 %}

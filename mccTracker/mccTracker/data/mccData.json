@@ -1,3504 +1,4204 @@
 {
   "achievements": [
     {
-      "name": "1_0_LIFE_STORY",
+      "name": "13_15_THRONE_OF_BONES",
       "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_1_JUST_GETTING_STARTED",
-      "game": "General",
-      "level": "Kills"
-    },
-    {
-      "name": "1_2_BALAHOS_MOST_WANTED",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_3_THE_ONE_PERCENT",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_4_SPOILSPORT",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_5_GOING_BANANAS",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_6_HUNTERS_HUNTED",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_7_CHECKMATE",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_8_I_WAS_WONDERING_WHAT_WOULD_BREAK_FIRST",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_9_PEST_CONTROL",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_10_THANKS_A_KILLION",
-      "game": "General",
-      "level": "Kills"
-    },
-    {
-      "name": "1_11_MEDAL_COMPLETIONIST",
-      "game": "General",
-      "level": "Medals"
-    },
-    {
-      "name": "1_12_THE_GUARDIANS_ARE_COMING",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_13_BITE_THE_HAND",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "1_14_MYSTERY_ACHIEVEMENT",
-      "game": "General",
-      "level": "General"
-    },
-    {
-      "name": "1_15_WHERE_AM_I?",
-      "game": "General",
-      "level": "Complete Missions or Matches"
-    },
-    {
-      "name": "1_16_I_GOT_THIS",
-      "game": "General",
-      "level": "Complete Missions or Matches"
-    },
-    {
-      "name": "1_17_TEMPERED_BLADE",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "1_18_FORGED_IN_FIRE",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "1_19_SAMPLE_PLATE",
-      "game": "General",
-      "level": "General"
+      "level": "General",
+      "videoURL": ""
     },
     {
       "name": "1_20_I_DABBLE_IN_SLAYING",
       "game": "General",
-      "level": "General"
+      "level": "General",
+      "videoURL": ""
     },
     {
-      "name": "1_21_STICK_WITH_IT_A_LITTLE_LONGER",
+      "name": "1_19_SAMPLE_PLATE",
       "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "1_22_VETERAN",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_23_WAR_HERO",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_24_LEGEND",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_25_LORE_MASTER",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_26_YOUR_JOURNEY_BEGINS",
-      "game": "General",
-      "level": "Complete Missions or Matches"
-    },
-    {
-      "name": "1_27_LASO_MASTER",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "1_28_PILLAR_OF_AUTUMN",
-      "game": "Halo: CE",
-      "level": "The Pillar of Autumn"
-    },
-    {
-      "name": "1_29_HALO",
-      "game": "Halo: CE",
-      "level": "Halo"
-    },
-    {
-      "name": "1_30_TRUTH_AND_RECONCILIATION",
-      "game": "Halo: CE",
-      "level": "Truth and Reconciliation"
-    },
-    {
-      "name": "1_31_THE_SILENT_CARTOGRAPHER",
-      "game": "Halo: CE",
-      "level": "The Silent Cartographer"
-    },
-    {
-      "name": "2_0_ASSAULT_ON_THE_CONTROL_ROOM",
-      "game": "Halo: CE",
-      "level": "Assault on the Control Room"
-    },
-    {
-      "name": "2_1_343_GUILTY_SPARK",
-      "game": "Halo: CE",
-      "level": "343 Guilty Spark"
-    },
-    {
-      "name": "2_2_THE_LIBRARY",
-      "game": "Halo: CE",
-      "level": "The Library"
-    },
-    {
-      "name": "2_3_TWO_BETRAYALS",
-      "game": "Halo: CE",
-      "level": "Two Betrayals"
-    },
-    {
-      "name": "2_4_KEYES",
-      "game": "Halo: CE",
-      "level": "Keyes"
-    },
-    {
-      "name": "2_5_THE_MAW",
-      "game": "Halo: CE",
-      "level": "The Maw"
-    },
-    {
-      "name": "2_6_DIDNT_LIKE_THIS_SHIP_ANYWAYS",
-      "game": "Halo: CE",
-      "level": "The Pillar of Autumn"
-    },
-    {
-      "name": "2_7_FLYOVER_COUNTRY",
-      "game": "Halo: CE",
-      "level": "Halo"
-    },
-    {
-      "name": "2_8_YOU_CANT_HANDLE_THE_TRUTH",
-      "game": "Halo: CE",
-      "level": "Truth and Reconciliation"
-    },
-    {
-      "name": "2_9_HIT_THE_BEACH",
-      "game": "Halo: CE",
-      "level": "The Silent Cartographer"
-    },
-    {
-      "name": "2_10_WOULD_ITVE_KILLED_YOU_TO_TAKE_THE_ELEVATOR",
-      "game": "Halo: CE",
-      "level": "Assault on the Control Room"
-    },
-    {
-      "name": "2_11_LIGHTNING_IN_A_BOTTLE",
-      "game": "Halo: CE",
-      "level": "343 Guilty Spark"
-    },
-    {
-      "name": "2_12_TLDR",
-      "game": "Halo: CE",
-      "level": "The Library"
-    },
-    {
-      "name": "2_13_WHISTLE_STOP_TOUR",
-      "game": "Halo: CE",
-      "level": "Two Betrayals"
-    },
-    {
-      "name": "2_14_SCURTY_BUMP",
-      "game": "Halo: CE",
-      "level": "Keyes"
-    },
-    {
-      "name": "2_15_ALL_YOU_CAN_EAT",
-      "game": "Halo: CE",
-      "level": "The Maw"
-    },
-    {
-      "name": "2_16_DID_SOMEBODY_SAY",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "2_17_PILLAR_OF_AWESOME",
-      "game": "Halo: CE",
-      "level": "The Pillar of Autumn"
-    },
-    {
-      "name": "2_18_GIANT_HULA_HOOP",
-      "game": "Halo: CE",
-      "level": "Halo"
-    },
-    {
-      "name": "2_19_YOU_REALLY_CANT_HANDLE_THE_TRUTH",
-      "game": "Halo: CE",
-      "level": "Truth and Reconciliation"
-    },
-    {
-      "name": "2_20_CHARTED",
-      "game": "Halo: CE",
-      "level": "The Silent Cartographer"
-    },
-    {
-      "name": "2_21_VETRO_STRIKE",
-      "game": "Halo: CE",
-      "level": "Assault on the Control Room"
-    },
-    {
-      "name": "2_22_CIRCUIT_BREAKER",
-      "game": "Halo: CE",
-      "level": "343 Guilty Spark"
-    },
-    {
-      "name": "2_23_READING_ROOM",
-      "game": "Halo: CE",
-      "level": "The Library"
-    },
-    {
-      "name": "2_24_IT_WAS_INEVITABLE",
-      "game": "Halo: CE",
-      "level": "Two Betrayals"
-    },
-    {
-      "name": "2_25_HEADSTRONG",
-      "game": "Halo: CE",
-      "level": "Keyes"
-    },
-    {
-      "name": "2_26_CONSUMPTION_JUNCTION",
-      "game": "Halo: CE",
-      "level": "The Maw"
-    },
-    {
-      "name": "2_27_OVERACHIEVER",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "2_28_ARRIVAL",
-      "game": "Halo: CE",
-      "level": "The Pillar of Autumn"
-    },
-    {
-      "name": "2_29_SACRIFICE",
-      "game": "Halo: CE",
-      "level": "Halo"
-    },
-    {
-      "name": "2_30_SPLINTERS",
-      "game": "Halo: CE",
-      "level": "Truth and Reconciliation"
-    },
-    {
-      "name": "2_31_IDLE_HANDS",
-      "game": "Halo: CE",
-      "level": "The Silent Cartographer"
-    },
-    {
-      "name": "3_0_HITCHHIKERS_MAY_BE_ESCAPING_CONVICTS",
-      "game": "Halo: CE",
-      "level": "Assault on the Control Room"
-    },
-    {
-      "name": "3_1_BEARLY_CONTAINED",
-      "game": "Halo: CE",
-      "level": "343 Guilty Spark"
-    },
-    {
-      "name": "3_2_QUIS_CUSTODIET_IPSOS_CUSTODES",
-      "game": "Halo: CE",
-      "level": "The Library"
-    },
-    {
-      "name": "3_3_MEMORIES",
-      "game": "Halo: CE",
-      "level": "Two Betrayals"
-    },
-    {
-      "name": "3_4_MIND_GAMES",
-      "game": "Halo: CE",
-      "level": "Keyes"
-    },
-    {
-      "name": "3_5_KILOTONS_OF_FUN",
-      "game": "Halo: CE",
-      "level": "The Maw"
-    },
-    {
-      "name": "3_6_DEAR_DIARY",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "3_7_SKULLTAKER_HALO_CE_IRON",
-      "game": "Halo: CE",
-      "level": "The Pillar of Autumn"
-    },
-    {
-      "name": "3_8_SKULLTAKER_HALO_CE_MYTHIC",
-      "game": "Halo: CE",
-      "level": "Halo"
-    },
-    {
-      "name": "3_9_SKULLTAKER_HALO_CE_BOOM",
-      "game": "Halo: CE",
-      "level": "Halo"
-    },
-    {
-      "name": "3_10_SKULLTAKER_HALO_CE_FOREIGN",
-      "game": "Halo: CE",
-      "level": "Truth and Reconciliation"
-    },
-    {
-      "name": "3_11_SKULLTAKER_HALO_CE_FAMINE",
-      "game": "Halo: CE",
-      "level": "The Silent Cartographer"
-    },
-    {
-      "name": "3_12_SKULLTAKER_HALO_CE_BANDANA",
-      "game": "Halo: CE",
-      "level": "The Silent Cartographer"
-    },
-    {
-      "name": "3_13_SKULLTAKER_HALO_CE_FOG",
-      "game": "Halo: CE",
-      "level": "Assault on the Control Room"
-    },
-    {
-      "name": "3_14_SKULLTAKER_HALO_CE_MALFUNCTION",
-      "game": "Halo: CE",
-      "level": "Assault on the Control Room"
-    },
-    {
-      "name": "3_15_SKULLTAKER_HALO_CE_RECESSION",
-      "game": "Halo: CE",
-      "level": "343 Guilty Spark"
-    },
-    {
-      "name": "3_16_SKULLTAKER_HALO_CE_BLACK_EYE",
-      "game": "Halo: CE",
-      "level": "The Library"
-    },
-    {
-      "name": "3_17_SKULLTAKER_HALO_CE_EYE_PATCH",
-      "game": "Halo: CE",
-      "level": "The Library"
-    },
-    {
-      "name": "3_18_SKULLTAKER_HALO_CE_PINATA",
-      "game": "Halo: CE",
-      "level": "Two Betrayals"
-    },
-    {
-      "name": "3_19_SKULLTAKER_HALO_CE_GRUNT_BIRTHDAY_PARTY",
-      "game": "Halo: CE",
-      "level": "The Maw"
-    },
-    {
-      "name": "3_20_HEADHUNTER",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "3_21_BIRTH_OF_A_SPARTAN",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "3_22_BELIEVE_IN_A_HERO",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "3_23_LIVING_LEGEND",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "3_24_OVERSHIELDS_ARE_FOR_SISSIES",
-      "game": "Halo: CE",
-      "level": "The Pillar of Autumn"
-    },
-    {
-      "name": "3_25_WALK_IT_OFF",
-      "game": "Halo: CE",
-      "level": "The Pillar of Autumn"
-    },
-    {
-      "name": "3_26_HOW_PEDESTRIAN",
-      "game": "Halo: CE",
-      "level": "Halo"
-    },
-    {
-      "name": "3_27_THAT_JUST_HAPPENED",
-      "game": "Halo: CE",
-      "level": "The Library"
-    },
-    {
-      "name": "3_28_LOOK_OUT_FOR_THE_LITTLE_GUYS",
-      "game": "Halo: CE",
-      "level": "Two Betrayals"
-    },
-    {
-      "name": "3_29_LEAVE_IT_WHERE_IT_LAY",
-      "game": "Halo: CE",
-      "level": "Two Betrayals"
-    },
-    {
-      "name": "3_30_TYING_UP_LOOSE_ENDS",
-      "game": "Halo: CE",
-      "level": "Keyes"
-    },
-    {
-      "name": "3_31_A_FINE_CHOICE",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "4_0_EXCELLENT_TASTE",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "4_1_LIKE_A_FINE_WINE",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "4_2_YOU_ARE_THE_WEAPON",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "4_3_MADRIGAL_DEBUT",
-      "game": "Halo: CE",
-      "level": "Assault on the Control Room"
-    },
-    {
-      "name": "4_4_MY_BUDDY_CHIPS",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "4_5_NO_SMOKING",
-      "game": "Halo: CE",
-      "level": "Keyes"
-    },
-    {
-      "name": "4_6_T-REX",
-      "game": "Halo: CE",
-      "level": "The Maw"
-    },
-    {
-      "name": "4_7_THIRSTY_GRUNT",
-      "game": "Halo: CE",
-      "level": "The Maw"
-    },
-    {
-      "name": "4_8_MEGG",
-      "game": "Halo: CE",
-      "level": "The Pillar of Autumn"
-    },
-    {
-      "name": "4_9_GET_ME_OUT_OF_HERE",
-      "game": "Halo: CE",
-      "level": "343 Guilty Spark"
-    },
-    {
-      "name": "4_10_FEET_FIRMLY_PLANTED",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "4_11_BEFORE_AND_AFTER",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "4_12_STANDARD_OPERATING_BROCEDURE",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "4_13_BROVERSHIELD",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "4_14_HES_UNSTOPPABLE",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "4_15_THE_GOOD_THE_BAD_AND_THE_DEAD",
-      "game": "General",
-      "level": "General"
-    },
-    {
-      "name": "4_16_A_DAY_TO_REMEMBER",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "4_17_GOAT_ROPED",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-	{
-      "name": "6_9_SKULLTAKER_HALO_2_THATS_JUSTWRONG",
-      "game": "Halo: 2",
-      "level": "The Armory"
-    },
-    {
-      "name": "4_18_CAIRO_STATION",
-      "game": "Halo: 2",
-      "level": "Cairo Station"
-    },
-    {
-      "name": "4_19_OUTSKIRTS",
-      "game": "Halo: 2",
-      "level": "Outskirts"
-    },
-    {
-      "name": "4_20_METROPOLIS",
-      "game": "Halo: 2",
-      "level": "Metropolis"
-    },
-    {
-      "name": "4_21_THE_ARBITER",
-      "game": "Halo: 2",
-      "level": "The Arbiter"
-    },
-    {
-      "name": "4_22_ORACLE",
-      "game": "Halo: 2",
-      "level": "The Oracle"
-    },
-    {
-      "name": "4_23_DELTA_HALO",
-      "game": "Halo: 2",
-      "level": "Delta Halo"
-    },
-    {
-      "name": "4_24_REGRET",
-      "game": "Halo: 2",
-      "level": "Regret"
-    },
-    {
-      "name": "4_25_SACRED_ICON",
-      "game": "Halo: 2",
-      "level": "Sacred Icon"
-    },
-    {
-      "name": "4_26_QUARANTINE_ZONE",
-      "game": "Halo: 2",
-      "level": "Quarantine Zone"
-    },
-    {
-      "name": "4_27_GRAVEMIND",
-      "game": "Halo: 2",
-      "level": "Gravemind"
-    },
-    {
-      "name": "4_28_UPRISING",
-      "game": "Halo: 2",
-      "level": "Uprising"
-    },
-    {
-      "name": "4_29_HIGH_CHARITY",
-      "game": "Halo: 2",
-      "level": "High Charity"
-    },
-    {
-      "name": "4_30_THE_GREAT_JOURNEY",
-      "game": "Halo: 2",
-      "level": "The Great Journey"
-    },
-    {
-      "name": "4_31_DONT_HANGAR_AROUND",
-      "game": "Halo: 2",
-      "level": "Cairo Station"
-    },
-    {
-      "name": "5_0_ROOFTOP_RUNNER",
-      "game": "Halo: 2",
-      "level": "Outskirts"
-    },
-    {
-      "name": "5_1_SPEEDING_TICKET",
-      "game": "Halo: 2",
-      "level": "Metropolis"
-    },
-    {
-      "name": "5_2_YOLO_STRATS",
-      "game": "Halo: 2",
-      "level": "The Arbiter"
-    },
-    {
-      "name": "5_3_REED_THE_STRATEGY",
-      "game": "Halo: 2",
-      "level": "The Oracle"
-    },
-    {
-      "name": "5_4_SO_YOU_DONT_WANT_THE_TANK",
-      "game": "Halo: 2",
-      "level": "Delta Halo"
-    },
-    {
-      "name": "5_5_I_REGRET_NOTHING",
-      "game": "Halo: 2",
-      "level": "Regret"
-    },
-    {
-      "name": "5_6_TERMINAL_VELOCITY",
-      "game": "Halo: 2",
-      "level": "Sacred Icon"
-    },
-    {
-      "name": "5_7_HOT_ZONE",
-      "game": "Halo: 2",
-      "level": "Quarantine Zone"
-    },
-    {
-      "name": "5_8_FORCE_OF_WILL",
-      "game": "Halo: 2",
-      "level": "Gravemind"
-    },
-    {
-      "name": "5_9_NO_MANS_LAND",
-      "game": "Halo: 2",
-      "level": "Uprising"
-    },
-    {
-      "name": "5_10_FEELING_CHARITABLE",
-      "game": "Halo: 2",
-      "level": "High Charity"
-    },
-    {
-      "name": "5_11_ARE_WE_THERE_YET",
-      "game": "Halo: 2",
-      "level": "The Great Journey"
-    },
-    {
-      "name": "5_12_GOING_NOWHERE_FAST",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "5_13_BOMB_SQUAD",
-      "game": "Halo: 2",
-      "level": "Cairo Station"
-    },
-    {
-      "name": "5_14_OBJECTIVE_SECURED",
-      "game": "Halo: 2",
-      "level": "Outskirts"
-    },
-    {
-      "name": "5_15_RIPPLE_FIRE",
-      "game": "Halo: 2",
-      "level": "Metropolis"
-    },
-    {
-      "name": "5_16_HERESY_WILL_NOT_STAY_MY_FEET",
-      "game": "Halo: 2",
-      "level": "The Arbiter"
-    },
-    {
-      "name": "5_17_LEAVE_NONE_ALIVE",
-      "game": "Halo: 2",
-      "level": "The Oracle"
-    },
-    {
-      "name": "5_18_BOUNDLESS",
-      "game": "Halo: 2",
-      "level": "Delta Halo"
-    },
-    {
-      "name": "5_19_FISTS_OF_FURY",
-      "game": "Halo: 2",
-      "level": "Regret"
-    },
-    {
-      "name": "5_20_GUIDED_TOUR",
-      "game": "Halo: 2",
-      "level": "Sacred Icon"
-    },
-    {
-      "name": "5_21_THE_DOCTOR_IS_IN",
-      "game": "Halo: 2",
-      "level": "Quarantine Zone"
-    },
-    {
-      "name": "5_22_OFFICIAL_BUSINESS",
-      "game": "Halo: 2",
-      "level": "Gravemind"
-    },
-    {
-      "name": "5_23_THE_HYPE_IS_REAL",
-      "game": "Halo: 2",
-      "level": "Uprising"
-    },
-    {
-      "name": "5_24_SCORCHED_EARTH",
-      "game": "Halo: 2",
-      "level": "High Charity"
-    },
-    {
-      "name": "5_25_FREQUENT_FLYER_MILES",
-      "game": "Halo: 2",
-      "level": "The Great Journey"
-    },
-    {
-      "name": "5_26_ARCADE_OWNER",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "5_27_CURIOUS",
-      "game": "Halo: 2",
-      "level": "Cairo Station"
-    },
-    {
-      "name": "5_28_INQUISITIVE",
-      "game": "Halo: 2",
-      "level": "Outskirts"
-    },
-    {
-      "name": "5_29_EXAMINER",
-      "game": "Halo: 2",
-      "level": "Metropolis"
-    },
-    {
-      "name": "5_30_INSPECTOR",
-      "game": "Halo: 2",
-      "level": "The Arbiter"
-    },
-    {
-      "name": "5_31_FASCINATED",
-      "game": "Halo: 2",
-      "level": "The Oracle"
-    },
-    {
-      "name": "6_0_ENCHANTED",
-      "game": "Halo: 2",
-      "level": "Delta Halo"
-    },
-    {
-      "name": "6_1_ENAMORED",
-      "game": "Halo: 2",
-      "level": "Regret"
-    },
-    {
-      "name": "6_2_DETERMINED",
-      "game": "Halo: 2",
-      "level": "Sacred Icon"
-    },
-    {
-      "name": "6_3_DELIGHTED",
-      "game": "Halo: 2",
-      "level": "Quarantine Zone"
-    },
-    {
-      "name": "6_4_KNOWLEDGABLE",
-      "game": "Halo: 2",
-      "level": "Gravemind"
-    },
-    {
-      "name": "6_5_SCHOLAR",
-      "game": "Halo: 2",
-      "level": "Uprising"
-    },
-    {
-      "name": "6_6_REVIEWER",
-      "game": "Halo: 2",
-      "level": "High Charity"
-    },
-    {
-      "name": "6_7_OBSESSED",
-      "game": "Halo: 2",
-      "level": "The Great Journey"
-    },
-    {
-      "name": "6_8_WALKING_ENCYCLOPEDIA",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "6_10_SKULLTAKER_HALO_2_THUNDERSTORM",
-      "game": "Halo: 2",
-      "level": "Cairo Station"
-    },
-    {
-      "name": "6_11_SKULLTAKER_HALO_2_BLIND",
-      "game": "Halo: 2",
-      "level": "Outskirts"
-    },
-    {
-      "name": "6_12_SKULLTAKER_HALO_2_IWHBYD",
-      "game": "Halo: 2",
-      "level": "Outskirts"
-    },
-    {
-      "name": "6_13_SKULLTAKER_HALO_2_CATCH",
-      "game": "Halo: 2",
-      "level": "Metropolis"
-    },
-    {
-      "name": "6_14_SKULLTAKER_HALO_2_GRUNT_BIRTHDAY_PARTY",
-      "game": "Halo: 2",
-      "level": "The Arbiter"
-    },
-    {
-      "name": "6_15_SKULLTAKER_HALO_2_FAMINE",
-      "game": "Halo: 2",
-      "level": "The Oracle"
-    },
-    {
-      "name": "6_16_SKULLTAKER_HALO_2_ENVY",
-      "game": "Halo: 2",
-      "level": "Delta Halo"
-    },
-    {
-      "name": "6_17_SKULLTAKER_HALO_2_ASSASSINS",
-      "game": "Halo: 2",
-      "level": "Regret"
-    },
-    {
-      "name": "6_18_SKULLTAKER_HALO_2_MYTHIC",
-      "game": "Halo: 2",
-      "level": "Sacred Icon"
-    },
-    {
-      "name": "6_19_SKULLTAKER_HALO_2_SPUTNIK",
-      "game": "Halo: 2",
-      "level": "Quarantine Zone"
-    },
-    {
-      "name": "6_20_SKULLTAKER_HALO_2_ANGER",
-      "game": "Halo: 2",
-      "level": "Gravemind"
-    },
-    {
-      "name": "6_21_SKULLTAKER_HALO_2_GHOST",
-      "game": "Halo: 2",
-      "level": "Uprising"
-    },
-    {
-      "name": "6_22_SKULLTAKER_HALO_2_IRON",
-      "game": "Halo: 2",
-      "level": "High Charity"
-    },
-    {
-      "name": "6_23_SKULLTAKER_HALO_2_BLACK_EYE",
-      "game": "Halo: 2",
-      "level": "The Great Journey"
-    },
-    {
-      "name": "6_24_TROPHY_COLLECTOR",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "6_25_AND_SO_IT_BEGINS",
-      "game": "Halo: 2",
-      "level": "Delta Halo"
-    },
-    {
-      "name": "6_27_REGRETTABLE_TURN_OF_EVENTS",
-      "game": "Halo: 2",
-      "level": "Regret"
-    },
-    {
-      "name": "6_28_THE_WILL_OF_THE_PROPHETS",
-      "game": "Halo: 2",
-      "level": "Sacred Icon"
-    },
-    {
-      "name": "6_29_CHIEFTAIN_OF_THE_BRUTES",
-      "game": "Halo: 2",
-      "level": "Quarantine Zone"
-    },
-    {
-      "name": "6_30_DONT_MAKE_A_GIRL_A_PROMISE",
-      "game": "Halo: 2",
-      "level": "Gravemind"
-    },
-    {
-      "name": "6_31_MY_WORK_IS_DONE",
-      "game": "Halo: 2",
-      "level": "Uprising"
-    },
-    {
-      "name": "7_0_I_LIKE_CRAZY",
-      "game": "Halo: 2",
-      "level": "High Charity"
-    },
-    {
-      "name": "7_1_PYRRHIC_SOLUTION",
-      "game": "Halo: 2",
-      "level": "The Great Journey"
-    },
-    {
-      "name": "7_2_TOYBOX",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "7_3_WARRIOR",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "7_4_HERO",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "7_5_LEGENDARY_ANNIVERSARY",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "7_6_SECONDS",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "7_7_CONNOISSEUR",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "7_8_SIX_PEDALS_FOUR_DIRECTIONS",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "7_9_BETCHA_CANT_STICK_IT",
-      "game": "Halo: 2",
-      "level": "Outskirts"
-    },
-    {
-      "name": "7_10_COWARDLY_GRUNT",
-      "game": "Halo: 2",
-      "level": "Uprising"
-    },
-    {
-      "name": "7_11_SIEGE_OF_IVORY_TOWER",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "7_12_THE_CHIPS_DUBBO?",
-      "game": "Halo: 2",
-      "level": "Cairo Station"
-    },
-    {
-      "name": "7_13_REX_SWORD",
-      "game": "Halo: 2",
-      "level": "Outskirts"
-    },
-    {
-      "name": "7_14_10_MINUTES_TOO_EARLY",
-      "game": "Halo: 2",
-      "level": "The Oracle"
-    },
-    {
-      "name": "7_15_HI_BEN",
-      "game": "Halo: 2",
-      "level": "Regret"
-    },
-    {
-      "name": "7_16_ANIMAL_HABITAT",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "7_17_SID_GRAFFITI",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "7_18_E_E_E",
-      "game": "Halo: 2",
-      "level": "Metropolis"
-    },
-    {
-      "name": "7_19_WHY_SO_SERIOUS",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "7_20_WHY_AM_I_HERE",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "7_21_GOOOAAAAALLLL",
-      "game": "Halo: 2",
-      "level": "Metropolis"
-    },
-    {
-      "name": "7_22_NEEDS_MORE_WHAMMY_BAR",
-      "game": "Halo: 2",
-      "level": "Regret"
-    },
-    {
-      "name": "7_23_LIKE_PEANUT_BUTTER_AND_CHOCOLATE",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "7_24_STARVED_FOR_SHIELDS",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "7_25_COMMUTER",
-      "game": "Halo: 2",
-      "level": "Metropolis"
-    },
-    {
-      "name": "7_26_HE_NEVER_GETS_ME_ANYTHING",
-      "game": "Halo: 2",
-      "level": "Delta Halo"
-    },
-    {
-      "name": "7_27_SCARAB_LORD",
-      "game": "Halo: 2",
-      "level": "Metropolis"
-    },
-    {
-      "name": "7_28_SILENT_BUT_DEADLY",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "7_29_DEMON",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "7_30_GO_APE_SHIV",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "7_31_GRAND_THEFT_HALO",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "8_0_TOUR_OF_DUTY",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "8_1_DOUBLE_DOWN",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "8_2_WARDEN",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "8_3_BLOWN_OUT_OF_THE_SKY",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "8_4_DECORATED_WARRIOR",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "8_5_NINJA_REDUX",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "8_6_FLAMING_NINJA_ANNIVERSARY",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "8_7_LEGEND_SLAYER",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "8_8_BACK_AT_IT",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "8_9_BACK_FOR_MORE",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "8_10_MONOPOLIZED",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "8_11_LANDFALL",
-      "game": "Halo: 3",
-      "level": "Sierra 117"
-    },
-    {
-      "name": "8_12_HOLDOUT",
-      "game": "Halo: 3",
-      "level": "Crows Nest"
-    },
-    {
-      "name": "8_13_THE_ROAD",
-      "game": "Halo: 3",
-      "level": "Tsavo Highway"
-    },
-    {
-      "name": "8_14_ASSAULT",
-      "game": "Halo: 3",
-      "level": "The Storm"
-    },
-    {
-      "name": "8_15_CLEANSING",
-      "game": "Halo: 3",
-      "level": "Floodgate"
-    },
-    {
-      "name": "8_16_REFUGE",
-      "game": "Halo: 3",
-      "level": "The Ark"
-    },
-    {
-      "name": "8_17_LAST_STAND",
-      "game": "Halo: 3",
-      "level": "The Covenant"
-    },
-    {
-      "name": "8_18_THE_KEY",
-      "game": "Halo: 3",
-      "level": "Cortana"
-    },
-    {
-      "name": "8_19_RETURN",
-      "game": "Halo: 3",
-      "level": "Halo"
-    },
-    {
-      "name": "8_20_SPEEDY_ONE_ONE_SEVEN",
-      "game": "Halo: 3",
-      "level": "Sierra 117"
-    },
-    {
-      "name": "8_21_TIME_SHIFT",
-      "game": "Halo: 3",
-      "level": "Crows Nest"
-    },
-    {
-      "name": "8_22_HIGHWAY_ROBBERY",
-      "game": "Halo: 3",
-      "level": "Tsavo Highway"
-    },
-    {
-      "name": "8_23_LIGHTNING_STRIKE",
-      "game": "Halo: 3",
-      "level": "The Storm"
-    },
-    {
-      "name": "8_24_DAMBUSTER",
-      "game": "Halo: 3",
-      "level": "Floodgate"
-    },
-    {
-      "name": "8_25_WAYPOINT",
-      "game": "Halo: 3",
-      "level": "The Ark"
-    },
-    {
-      "name": "8_26_SCARAB_SLIDE",
-      "game": "Halo: 3",
-      "level": "The Covenant"
-    },
-    {
-      "name": "8_27_MAKING_HISTORY",
-      "game": "Halo: 3",
-      "level": "Cortana"
-    },
-    {
-      "name": "8_28_GO_CHIEF_GUN_IT",
-      "game": "Halo: 3",
-      "level": "Halo"
-    },
-    {
-      "name": "8_29_SPEED_DEMON",
-      "game": "Halo: 3",
-      "level": "General"
-    },
-    {
-      "name": "8_30_GUERILLA",
-      "game": "Halo: 3",
-      "level": "Sierra 117"
-    },
-    {
-      "name": "8_31_CAVALIER",
-      "game": "Halo: 3",
-      "level": "Tsavo Highway"
-    },
-    {
-      "name": "9_0_ASKAR",
-      "game": "Halo: 3",
-      "level": "The Storm"
-    },
-    {
-      "name": "9_1_EXTERMINATOR",
-      "game": "Halo: 3",
-      "level": "Floodgate"
-    },
-    {
-      "name": "9_2_RANGER",
-      "game": "Halo: 3",
-      "level": "The Ark"
-    },
-    {
-      "name": "9_3_VANGUARD",
-      "game": "Halo: 3",
-      "level": "The Covenant"
-    },
-    {
-      "name": "9_4_ORPHEUS",
-      "game": "Halo: 3",
-      "level": "Cortana"
-    },
-    {
-      "name": "9_5_TORCHBEARER",
-      "game": "Halo: 3",
-      "level": "Halo"
-    },
-    {
-      "name": "9_6_BETTER_WITH_AGE",
-      "game": "Halo: 3",
-      "level": "General"
-    },
-    {
-      "name": "9_7_RISING_WATERS",
-      "game": "Halo: 3",
-      "level": "The Ark"
-    },
-    {
-      "name": "9_8_INUNDATION",
-      "game": "Halo: 3",
-      "level": "The Ark"
-    },
-    {
-      "name": "9_9_BEFORE_THE_FIRE",
-      "game": "Halo: 3",
-      "level": "The Ark"
-    },
-    {
-      "name": "9_10_TIPPING_POINT",
-      "game": "Halo: 3",
-      "level": "The Covenant"
-    },
-    {
-      "name": "9_11_UNTO_DUST",
-      "game": "Halo: 3",
-      "level": "The Covenant"
-    },
-    {
-      "name": "9_12_BABBLING_DEAD",
-      "game": "Halo: 3",
-      "level": "The Covenant"
-    },
-    {
-      "name": "9_13_SWORD_AND_SHIELD",
-      "game": "Halo: 3",
-      "level": "Halo"
-    },
-    {
-      "name": "9_14_THE_COINS_FAULT",
-      "game": "Halo: 3",
-      "level": "Cortana"
-    },
-    {
-      "name": "9_15_WHISPERS_ACROSS_THE_GALAXY",
-      "game": "Halo: 3",
-      "level": "Halo"
-    },
-    {
-      "name": "9_16_SKULLTAKER_HALO_3_IRON",
-      "game": "Halo: 3",
-      "level": "Sierra 117"
-    },
-    {
-      "name": "9_17_SKULLTAKER_HALO_3_BLACK_EYE",
-      "game": "Halo: 3",
-      "level": "Crows Nest"
-    },
-    {
-      "name": "9_18_SKULLTAKER_HALO_3_TOUGH_LUCK",
-      "game": "Halo: 3",
-      "level": "Tsavo Highway"
-    },
-    {
-      "name": "9_19_SKULLTAKER_HALO_3_CATCH",
-      "game": "Halo: 3",
-      "level": "The Storm"
-    },
-    {
-      "name": "9_20_SKULLTAKER_HALO_3_FOG",
-      "game": "Halo: 3",
-      "level": "Floodgate"
-    },
-    {
-      "name": "9_21_SKULLTAKER_HALO_3_FAMINE",
-      "game": "Halo: 3",
-      "level": "The Ark"
-    },
-    {
-      "name": "9_22_SKULLTAKER_HALO_3_THUNDERSTORM",
-      "game": "Halo: 3",
-      "level": "The Covenant"
-    },
-    {
-      "name": "9_23_SKULLTAKER_HALO_3_TILT",
-      "game": "Halo: 3",
-      "level": "Cortana"
-    },
-    {
-      "name": "9_24_SKULLTAKER_HALO_3_MYTHIC",
-      "game": "Halo: 3",
-      "level": "Halo"
-    },
-    {
-      "name": "9_25_PROPHETS_BANE",
-      "game": "Halo: 3",
-      "level": "General"
-    },
-    {
-      "name": "9_26_WITH_YOUR_SHIELD_OR_ON_IT",
-      "game": "Halo: 3",
-      "level": "General"
-    },
-    {
-      "name": "9_27_FINISHED_THE_FIGHT",
-      "game": "Halo: 3",
-      "level": "General"
-    },
-    {
-      "name": "9_28_BEGINS_WITH_A_SINGLE_STEP",
-      "game": "Halo: 3",
-      "level": "Tsavo Highway"
-    },
-    {
-      "name": "9_29_WHO_NEEDS_THEM?",
-      "game": "Halo: 3",
-      "level": "The Ark"
-    },
-    {
-      "name": "9_30_PHANTOM_HUNTER",
-      "game": "Halo: 3",
-      "level": "The Covenant"
-    },
-    {
-      "name": "9_31_ANNUAL",
-      "game": "Halo: 3",
-      "level": "Halo"
-    },
-    {
-      "name": "10_0_DIRGE_OF_MADRIGAL",
-      "game": "Halo: 3",
-      "level": "The Covenant"
-    },
-    {
-      "name": "10_1_PRIMATE",
-      "game": "Halo: 3",
-      "level": "Sierra 117"
-    },
-    {
-      "name": "10_2_HAPLORRHINI",
-      "game": "Halo: 3",
-      "level": "Sierra 117"
-    },
-    {
-      "name": "10_3_CANT_KEEP_HIM_DOWN",
-      "game": "Halo: 3",
-      "level": "Sierra 117"
-    },
-    {
-      "name": "10_4_FLIPYAP",
-      "game": "Halo: 3",
-      "level": "Sierra 117"
-    },
-    {
-      "name": "10_5_HEADING_TO_HIS_DESTINY",
-      "game": "Halo: 3",
-      "level": "Halo"
-    },
-    {
-      "name": "10_6_SOUNDS_FAMILIAR",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "10_7_HIPPO_HERO",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "10_8_MILK_CARTON",
-      "game": "Halo: 3",
-      "level": "Floodgate"
-    },
-    {
-      "name": "10_9_COOL_STORY_BRO",
-      "game": "Halo: 3",
-      "level": "Halo"
-    },
-    {
-      "name": "10_10_MAN_ON_THE_MOON",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "10_11_DELICIOUS_BRAINS",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "10_12_ZOMBIE_REPELLER",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "10_13_ELDER_SIGNS",
-      "game": "Halo: 3",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "10_14_THIRD_TIMES_A_CHARM",
-      "game": "Halo: 3",
-      "level": "General"
-    },
-    {
-      "name": "10_15_DEVASTATING",
-      "game": "Halo: 3",
-      "level": "General"
-    },
-    {
-      "name": "10_16_DAWN",
-      "game": "Halo: 4",
-      "level": "Dawn"
-    },
-    {
-      "name": "10_17_REQUIEM",
-      "game": "Halo: 4",
-      "level": "Requiem"
-    },
-    {
-      "name": "10_18_FORERUNNER",
-      "game": "Halo: 4",
-      "level": "Forerunner"
-    },
-    {
-      "name": "10_19_INFINITY",
-      "game": "Halo: 4",
-      "level": "Infinity"
-    },
-    {
-      "name": "10_20_RECLAIMER",
-      "game": "Halo: 4",
-      "level": "Reclaimer"
-    },
-    {
-      "name": "10_21_SHUTDOWN",
-      "game": "Halo: 4",
-      "level": "Shutdown"
-    },
-    {
-      "name": "10_22_COMPOSER",
-      "game": "Halo: 4",
-      "level": "Composer"
-    },
-    {
-      "name": "10_23_MIDNIGHT",
-      "game": "Halo: 4",
-      "level": "Midnight"
-    },
-    {
-      "name": "10_24_PIECE_OF_CAKE",
-      "game": "Halo: 4",
-      "level": "Dawn"
-    },
-    {
-      "name": "10_25_INTERLOPER",
-      "game": "Halo: 4",
-      "level": "Requiem"
-    },
-    {
-      "name": "10_26_RAGING_IN_THE_DARK",
-      "game": "Halo: 4",
-      "level": "Forerunner"
-    },
-    {
-      "name": "10_27_OUROBOROS",
-      "game": "Halo: 4",
-      "level": "Infinity"
-    },
-    {
-      "name": "10_28_GIMME_THAT",
-      "game": "Halo: 4",
-      "level": "Reclaimer"
-    },
-    {
-      "name": "10_29_SHUT_DOWN_EVERYTHING",
-      "game": "Halo: 4",
-      "level": "Shutdown"
-    },
-    {
-      "name": "10_30_SYMPHONY_OF_PAIN",
-      "game": "Halo: 4",
-      "level": "Composer"
-    },
-    {
-      "name": "10_31_COUNTDOWN",
-      "game": "Halo: 4",
-      "level": "Midnight"
-    },
-    {
-      "name": "11_0_EASY_AS_ONE_TWO_THREE",
-      "game": "Halo: 4",
-      "level": "General"
-    },
-    {
-      "name": "11_1_GUNSLINGER",
-      "game": "Halo: 4",
-      "level": "Dawn"
-    },
-    {
-      "name": "11_2_DARK_FORTRESS",
-      "game": "Halo: 4",
-      "level": "Requiem"
-    },
-    {
-      "name": "11_3_SHADOW_OF_SUNDERED_STAR",
-      "game": "Halo: 4",
-      "level": "Forerunner"
-    },
-    {
-      "name": "11_4_JUNGLE_WARFARE",
-      "game": "Halo: 4",
-      "level": "Infinity"
-    },
-    {
-      "name": "11_5_LIBRARIANS_PET",
-      "game": "Halo: 4",
-      "level": "Reclaimer"
-    },
-    {
-      "name": "11_6_EMERGENCY_SHUTDOWN",
-      "game": "Halo: 4",
-      "level": "Shutdown"
-    },
-    {
-      "name": "11_7_HEAD_BANGING",
-      "game": "Halo: 4",
-      "level": "Composer"
-    },
-    {
-      "name": "11_8_WITCHING_HOUR",
-      "game": "Halo: 4",
-      "level": "Midnight"
-    },
-    {
-      "name": "11_9_YOU_HAD_IT_COMING",
-      "game": "Halo: 4",
-      "level": "General"
-    },
-    {
-      "name": "11_10_WAR",
-      "game": "Halo: 4",
-      "level": "Requiem"
-    },
-    {
-      "name": "11_11_LORD_OF_ADMIRALS",
-      "game": "Halo: 4",
-      "level": "Forerunner"
-    },
-    {
-      "name": "11_12_CHARUM_HAKKOR",
-      "game": "Halo: 4",
-      "level": "Infinity"
-    },
-    {
-      "name": "11_13_FLOOD",
-      "game": "Halo: 4",
-      "level": "Reclaimer"
-    },
-    {
-      "name": "11_14_KNIGHTS",
-      "game": "Halo: 4",
-      "level": "Shutdown"
-    },
-    {
-      "name": "11_15_JUSTICE",
-      "game": "Halo: 4",
-      "level": "Composer"
-    },
-    {
-      "name": "11_16_CRYPTUM",
-      "game": "Halo: 4",
-      "level": "Midnight"
-    },
-    {
-      "name": "11_17_TERMINUS",
-      "game": "Halo: 4",
-      "level": "General"
-    },
-    {
-      "name": "11_18_WAKE_UP_JOHN",
-      "game": "Halo: 4",
-      "level": "General"
-    },
-    {
-      "name": "11_19_I_NEED_A_HERO",
-      "game": "Halo: 4",
-      "level": "General"
-    },
-    {
-      "name": "11_20_THE_LEGEND_OF_117",
-      "game": "Halo: 4",
-      "level": "General"
-    },
-    {
-      "name": "11_21_LONE_WOLF_LEGEND",
-      "game": "Halo: 4",
-      "level": "General"
-    },
-    {
-      "name": "11_22_THIS_IS_MY_RIFLE_THIS_IS_MY_GUN",
-      "game": "Halo: 4",
-      "level": "Forerunner"
-    },
-    {
-      "name": "11_23_BROS_TO_THE_CLOSE",
-      "game": "Halo: 4",
-      "level": "Infinity"
-    },
-    {
-      "name": "11_24_EXPLORE_THE_FLOOR",
-      "game": "Halo: 4",
-      "level": "Shutdown"
-    },
-    {
-      "name": "11_25_GIVE_HIM_THE_STICK",
-      "game": "Halo: 4",
-      "level": "Composer"
-    },
-    {
-      "name": "11_26_CHIEF_SMASH",
-      "game": "Halo: 4",
-      "level": "Midnight"
-    },
-    {
-      "name": "11_27_YOURE_NO_CHIPS",
-      "game": "Halo: 4",
-      "level": "Composer"
-    },
-    {
-      "name": "11_28_A_LONG_TIME_AGO",
-      "game": "Halo: 4",
-      "level": "General"
-    },
-    {
-      "name": "11_29_YOURE_JOKING",
-      "game": "Halo: 4",
-      "level": "General"
-    },
-    {
-      "name": "11_30_HES_RUNNING_A_MARATHON",
-      "game": "Halo: 2",
-      "level": "Gravemind"
-    },
-    {
-      "name": "11_31_DESTINATION_VACATION",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_0_TIGHTEN_UP_THE_GRAPHICS",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "12_1_MIND_THE_GAP",
-      "game": "Halo: 3",
-      "level": "Tsavo Highway"
-    },
-    {
-      "name": "12_2_BACK_IN_THE_DAY",
-      "game": "Halo: CE",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_3_PACIFIST",
-      "game": "Halo: CE",
-      "level": "The Silent Cartographer"
-    },
-    {
-      "name": "12_4_WRAITH_HUNTER",
-      "game": "Halo: CE",
-      "level": "Assault on the Control Room"
-    },
-    {
-      "name": "12_5_CLOSE_QUARTERS_COMBAT",
-      "game": "Halo: CE",
-      "level": "Truth and Reconciliation"
-    },
-    {
-      "name": "12_6_THIS_SIDE_UP",
-      "game": "Halo: CE",
-      "level": "The Maw"
-    },
-    {
-      "name": "12_7_MORTARDOM",
-      "game": "Halo: 4",
-      "level": "Reclaimer"
-    },
-    {
-      "name": "12_8_ALL_ACCORDING_TO_PLAN",
-      "game": "Halo: CE",
-      "level": "Truth and Reconciliation"
-    },
-    {
-      "name": "12_9_BEACHHEAD",
-      "game": "Halo: CE",
-      "level": "The Silent Cartographer"
-    },
-    {
-      "name": "12_10_THE_RETURN_OF_MEGG",
-      "game": "Halo: 2",
-      "level": "Cairo Station"
-    },
-    {
-      "name": "12_11_NO-FLY_ZONE",
-      "game": "Halo: CE",
-      "level": "Halo"
-    },
-    {
-      "name": "12_12_BRO_HAMMER",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_13_DIGGING_UP_THE_PAST",
-      "game": "Halo: 4",
-      "level": "Dawn"
-    },
-    {
-      "name": "12_14_MISSING_LINK",
-      "game": "Halo: 3",
-      "level": "Sierra 117"
-    },
-    {
-      "name": "12_15_EMINENT_DOMAIN",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
+      "level": "General",
+      "videoURL": ""
     },
     {
       "name": "12_16_GAME_MASTER",
       "game": "General",
-      "level": "General"
-    },
-    {
-      "name": "12_17_GATE_YOUR_THIRST",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_18_HIGH_ALTITUDE_THIRST",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_19_INVADERS_REPELLED",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
+      "level": "General",
+      "videoURL": ""
     },
     {
       "name": "12_20_MASTER_FORGER",
       "game": "General",
-      "level": "General"
+      "level": "General",
+      "videoURL": ""
     },
     {
-      "name": "12_21_POWER_PLAY",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_22_PUT_UP_YOUR_DUKES",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_23_RED_VS_BLUE",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_24_RULE_YOUR_THIRST",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_25_SHIELDS_UP",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_26_SHOOK_THE_HORNETS_NEST",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_27_SKEET_SHOOTER",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_28_STAYIN_ALIVE",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_29_THE_GOOSE_IS_LOOSE",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_30_THIRST_LOCKED_DOWN",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "12_31_TOP_GUNGOOSE",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_0_BLASTACULAR",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_1_BLOODY_THIRSTY",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_2_BOMBING_RUN",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_3_COLD_AS_ICE",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_4_COLD_FUSION",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_5_COUNTER-SNIPED",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_6_TRIPLE_THREAT",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_7_WETWORK",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_8_WORSHIP_YOUR_THIRST",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_9_ZEALOT",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_10_DIRTY_BIRD",
-      "game": "Halo: 2",
-      "level": "The Arbiter"
-    },
-    {
-      "name": "13_11_A_PREFERENCE_FOR_PAIN",
-      "game": "Halo: 3",
-      "level": "General"
-    },
-    {
-      "name": "13_12_AFICIANDO",
-      "game": "Halo: 3",
-      "level": "General"
-    },
-    {
-      "name": "13_13_NAKED_TYRANT",
-      "game": "Halo: 4",
-      "level": "General"
-    },
-    {
-      "name": "13_14_DEVOTEE",
-      "game": "Halo: 4",
-      "level": "General"
-    },
-    {
-      "name": "13_15_THRONE_OF_BONES",
+      "name": "1_14_MYSTERY_ACHIEVEMENT",
       "game": "General",
-      "level": "General"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=Eya5WhBGAig"
     },
     {
-      "name": "13_16_BOOT_CAMP_HERO",
-      "game": "Halo: 3",
-      "level": "General"
-    },
-    {
-      "name": "13_17_A_PILE_OF_MEDALS",
+      "name": "1_0_LIFE_STORY",
       "game": "General",
-      "level": "Medals"
-    },
-    {
-      "name": "13_18_A_CRATE_OF_MEDALS",
-      "game": "General",
-      "level": "Medals"
-    },
-    {
-      "name": "13_19_A_HEAP_OF_MEDALS",
-      "game": "General",
-      "level": "Medals"
-    },
-    {
-      "name": "13_20_A_FEW_TRINKETS",
-      "game": "General",
-      "level": "Medals"
-    },
-    {
-      "name": "13_21_CHEST_OF_GOLD",
-      "game": "Halo: 4",
-      "level": "General"
-    },
-    {
-      "name": "13_22_OH_THESE_BAUBLES?",
-      "game": "General",
-      "level": "Medals"
-    },
-    {
-      "name": "13_23_CHESTY_PULLER_STARTER_KIT",
-      "game": "General",
-      "level": "Medals"
-    },
-    {
-      "name": "13_24_MEDAL_MASTER_CHIEF",
-      "game": "General",
-      "level": "Medals"
-    },
-    {
-      "name": "13_25_CONTENDER",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_26_IN_IT_TO_WIN_IT",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_27_GAME_ON",
-      "game": "General",
-      "level": "Complete Missions or Matches"
-    },
-    {
-      "name": "13_28_BONUS_LEVEL",
-      "game": "General",
-      "level": "Complete Missions or Matches"
-    },
-    {
-      "name": "13_29_SHARPSHOOTER",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "13_30_CANT_PUT_IT_DOWN",
-      "game": "General",
-      "level": "Complete Missions or Matches"
-    },
-    {
-      "name": "13_31_BATTLE_HARDENED",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "14_0_UP_ALL_NIGHT",
-      "game": "General",
-      "level": "Complete Missions or Matches"
-    },
-    {
-      "name": "14_1_THERMOPYLAE",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "14_2_CANT_GET_ENOUGH",
-      "game": "General",
-      "level": "Complete Missions or Matches"
-    },
-    {
-      "name": "14_3_STRIKING_FEAR_IN_THEIR_HEARTS",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "14_4_COMMITTED",
-      "game": "General",
-      "level": "Complete Missions or Matches"
-    },
-    {
-      "name": "14_5_STEADY_AIM",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "14_6_BIG_TIME_GAMER",
-      "game": "General",
-      "level": "Complete Missions or Matches"
-    },
-    {
-      "name": "14_7_QUICK_TRIGGER_FINGER",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "14_8_LONG_TIME_FAN",
-      "game": "General",
-      "level": "Complete Missions or Matches"
-    },
-    {
-      "name": "14_9_MULTIPLAYER_CHAMPION",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "14_10_THE_LONG_HAUL",
-      "game": "General",
-      "level": "Complete Missions or Matches"
-    },
-    {
-      "name": "14_11_JUST_A_TASTE",
-      "game": "General",
-      "level": "Medals"
-    },
-    {
-      "name": "14_12_ALL_OUT_OF_BUBBLEGUM",
-      "game": "General",
-      "level": "Medals"
-    },
-    {
-      "name": "14_13_FOE_HAMMER",
-      "game": "General",
-      "level": "Kills"
-    },
-    {
-      "name": "14_14_GRUNTAGEDDON",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "14_15_WERE_IT_SO_EASY",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "14_16_SCAVENGER_HUNT",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "14_17_DANKEY_KANG",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "14_18_WYRMSLAYER",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "14_19_REMOVE_THE_BISHOPS_FROM_THE_BOARD",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "14_20_KNIGHTBANE",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "14_21_DOGCATCHER",
-      "game": "General",
-      "level": "Campaign"
-    },
-    {
-      "name": "14_22_GREENHORN",
-      "game": "Halo: CE",
-      "level": "General"
-    },
-    {
-      "name": "14_23_BIG_GREEN_STYLE",
-      "game": "Halo: 2",
-      "level": "General"
-    },
-    {
-      "name": "14_24_TRAINING_WHEELS",
-      "game": "Halo: 3",
-      "level": "General"
-    },
-    {
-      "name": "14_25_LIBRARIANS_GIFT",
-      "game": "Halo: 4",
-      "level": "General"
+      "level": "Campaign",
+      "videoURL": ""
     },
     {
       "name": "14_26_HERALD_OF_THE_RECLAMATION",
       "game": "General",
-      "level": "Campaign"
+      "level": "Campaign",
+      "videoURL": ""
     },
     {
-      "name": "14_27_KING_OF_THE_CROWS",
-      "game": "Halo: 3",
-      "level": "Crows Nest"
-    },
-    {
-      "name": "14_28_WITCH_DOCTOR",
-      "game": "Halo: 3",
-      "level": "General"
-    },
-    {
-      "name": "14_29_SKULLTAKER_HALO_3_BLIND",
-      "game": "Halo: 3",
-      "level": "Sierra 117"
-    },
-    {
-      "name": "14_30_SKULLTAKER_HALO_3_GRUNT_BIRTHDAY_PARTY",
-      "game": "Halo: 3",
-      "level": "Crows Nest"
-    },
-    {
-      "name": "14_31_SKULLTAKER_HALO_3_COWBELL",
-      "game": "Halo: 3",
-      "level": "The Ark"
-    },
-    {
-      "name": "15_0_SKULLTAKER_HALO_3_IWHBYD",
-      "game": "Halo: 3",
-      "level": "The Covenant"
-    },
-    {
-      "name": "15_1_NO_STONE_UNTURNED",
-      "game": "Halo: 3",
-      "level": "General"
-    },
-    {
-      "name": "15_2_MVP",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "15_3_OPERATION_COMPLETION",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_4_DEPARTURE",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_5_ARTIFACT",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_6_CATHERINE",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_7_DIDACTS_HAND",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_8_MEMENTO_MORI",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_9_SCATTERED",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_10_INVASION",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_11_EXPENDABLE",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_12_KEY",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_13_EXODUS",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_14_FEET_FIRST",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_15_TERM_OF_ENLISTMENT",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_16_HAZARD_PAY",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_17_ICARUS",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_18_SMOOTH_OPERATOR",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_19_ROSES_VS_VIOLETS",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_20_NO_ONE_LEFT_BEHIND",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_21_KNIGHT_IN_WHITE_ASSASSINATION",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_22_WHAT_POWER_OUTAGE?",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_23_NO_EASY_WAY_OUT",
-      "game": "Halo: 4",
-      "level": "Spartan Ops"
-    },
-    {
-      "name": "15_24_NICE_WORK_DAWG",
+      "name": "1_22_VETERAN",
       "game": "General",
-      "level": "Multiplayer"
+      "level": "Campaign",
+      "videoURL": ""
     },
     {
-      "name": "15_25_AIM_FOR_THE_HEAD",
+      "name": "1_23_WAR_HERO",
       "game": "General",
-      "level": "Multiplayer"
+      "level": "Campaign",
+      "videoURL": ""
     },
     {
-      "name": "15_26_DIM_MAK",
+      "name": "1_24_LEGEND",
       "game": "General",
-      "level": "Multiplayer"
+      "level": "Campaign",
+      "videoURL": ""
     },
     {
-      "name": "15_27_DOMINATION",
+      "name": "1_25_LORE_MASTER",
       "game": "General",
-      "level": "Multiplayer"
+      "level": "Campaign",
+      "videoURL": ""
     },
     {
-      "name": "15_28_DOUBLE_TROUBLE",
+      "name": "1_27_LASO_MASTER",
       "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "15_29_SPREE_MASTER",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "15_30_CATCH_THIS",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "15_31_PARTY_POOPER",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "16_0_PLANTING_A_FLAG",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "16_1_THE_TRUE_KING",
-      "game": "General",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "16_2_ROADKILL_RAMPAGE",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "16_3_ROCK_AND_COIL_HIT_BACK",
-      "game": "Halo: 2",
-      "level": "Multiplayer"
+      "level": "Campaign",
+      "videoURL": ""
     },
     {
       "name": "16_4_NO_PAIN_NO_GAIN",
       "game": "General",
-      "level": "Campaign"
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "1_2_BALAHOS_MOST_WANTED",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "14_14_GRUNTAGEDDON",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "1_3_THE_ONE_PERCENT",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "14_15_WERE_IT_SO_EASY",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "1_4_SPOILSPORT",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "14_16_SCAVENGER_HUNT",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "1_5_GOING_BANANAS",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "14_17_DANKEY_KANG",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "1_6_HUNTERS_HUNTED",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "14_18_WYRMSLAYER",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "10_11_DELICIOUS_BRAINS",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "10_12_ZOMBIE_REPELLER",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "1_7_CHECKMATE",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "14_19_REMOVE_THE_BISHOPS_FROM_THE_BOARD",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "1_8_I_WAS_WONDERING_WHAT_WOULD_BREAK_FIRST",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "14_20_KNIGHTBANE",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "1_9_PEST_CONTROL",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "14_21_DOGCATCHER",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": ""
+    },
+    {
+      "name": "1_12_THE_GUARDIANS_ARE_COMING",
+      "game": "General",
+      "level": "Campaign",
+      "videoURL": "https://www.youtube.com/watch?v=Dm7xLp4wA_Q"
+    },
+    {
+      "name": "1_1_JUST_GETTING_STARTED",
+      "game": "General",
+      "level": "Kills",
+      "videoURL": ""
+    },
+    {
+      "name": "14_13_FOE_HAMMER",
+      "game": "General",
+      "level": "Kills",
+      "videoURL": ""
+    },
+    {
+      "name": "1_10_THANKS_A_KILLION",
+      "game": "General",
+      "level": "Kills",
+      "videoURL": ""
+    },
+    {
+      "name": "14_11_JUST_A_TASTE",
+      "game": "General",
+      "level": "Medals",
+      "videoURL": ""
+    },
+    {
+      "name": "14_12_ALL_OUT_OF_BUBBLEGUM",
+      "game": "General",
+      "level": "Medals",
+      "videoURL": ""
+    },
+    {
+      "name": "13_17_A_PILE_OF_MEDALS",
+      "game": "General",
+      "level": "Medals",
+      "videoURL": ""
+    },
+    {
+      "name": "13_18_A_CRATE_OF_MEDALS",
+      "game": "General",
+      "level": "Medals",
+      "videoURL": ""
+    },
+    {
+      "name": "13_19_A_HEAP_OF_MEDALS",
+      "game": "General",
+      "level": "Medals",
+      "videoURL": ""
+    },
+    {
+      "name": "13_20_A_FEW_TRINKETS",
+      "game": "General",
+      "level": "Medals",
+      "videoURL": ""
+    },
+    {
+      "name": "13_22_OH_THESE_BAUBLES?",
+      "game": "General",
+      "level": "Medals",
+      "videoURL": ""
+    },
+    {
+      "name": "13_23_CHESTY_PULLER_STARTER_KIT",
+      "game": "General",
+      "level": "Medals",
+      "videoURL": ""
+    },
+    {
+      "name": "13_24_MEDAL_MASTER_CHIEF",
+      "game": "General",
+      "level": "Medals",
+      "videoURL": ""
+    },
+    {
+      "name": "4_15_THE_GOOD_THE_BAD_AND_THE_DEAD",
+      "game": "General",
+      "level": "Medals",
+      "videoURL": ""
+    },
+    {
+      "name": "1_11_MEDAL_COMPLETIONIST",
+      "game": "General",
+      "level": "Medals",
+      "videoURL": ""
+    },
+    {
+      "name": "1_26_YOUR_JOURNEY_BEGINS",
+      "game": "General",
+      "level": "Complete Missions or Matches",
+      "videoURL": ""
+    },
+    {
+      "name": "1_15_WHERE_AM_I?",
+      "game": "General",
+      "level": "Complete Missions or Matches",
+      "videoURL": ""
+    },
+    {
+      "name": "13_27_GAME_ON",
+      "game": "General",
+      "level": "Complete Missions or Matches",
+      "videoURL": ""
+    },
+    {
+      "name": "1_16_I_GOT_THIS",
+      "game": "General",
+      "level": "Complete Missions or Matches",
+      "videoURL": ""
+    },
+    {
+      "name": "13_30_CANT_PUT_IT_DOWN",
+      "game": "General",
+      "level": "Complete Missions or Matches",
+      "videoURL": ""
+    },
+    {
+      "name": "13_28_BONUS_LEVEL",
+      "game": "General",
+      "level": "Complete Missions or Matches",
+      "videoURL": ""
+    },
+    {
+      "name": "14_0_UP_ALL_NIGHT",
+      "game": "General",
+      "level": "Complete Missions or Matches",
+      "videoURL": ""
+    },
+    {
+      "name": "14_2_CANT_GET_ENOUGH",
+      "game": "General",
+      "level": "Complete Missions or Matches",
+      "videoURL": ""
+    },
+    {
+      "name": "14_4_COMMITTED",
+      "game": "General",
+      "level": "Complete Missions or Matches",
+      "videoURL": ""
+    },
+    {
+      "name": "14_6_BIG_TIME_GAMER",
+      "game": "General",
+      "level": "Complete Missions or Matches",
+      "videoURL": ""
+    },
+    {
+      "name": "14_8_LONG_TIME_FAN",
+      "game": "General",
+      "level": "Complete Missions or Matches",
+      "videoURL": ""
+    },
+    {
+      "name": "14_10_THE_LONG_HAUL",
+      "game": "General",
+      "level": "Complete Missions or Matches",
+      "videoURL": ""
+    },
+    {
+      "name": "4_12_STANDARD_OPERATING_BROCEDURE",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "4_13_BROVERSHIELD",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "12_12_BRO_HAMMER",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "1_13_BITE_THE_HAND",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "1_21_STICK_WITH_IT_A_LITTLE_LONGER",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "1_17_TEMPERED_BLADE",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "13_25_CONTENDER",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "1_18_FORGED_IN_FIRE",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "13_29_SHARPSHOOTER",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "13_26_IN_IT_TO_WIN_IT",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "13_31_BATTLE_HARDENED",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "14_1_THERMOPYLAE",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "14_3_STRIKING_FEAR_IN_THEIR_HEARTS",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "14_5_STEADY_AIM",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "14_7_QUICK_TRIGGER_FINGER",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "14_9_MULTIPLAYER_CHAMPION",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "15_27_DOMINATION",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "15_29_SPREE_MASTER",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "15_26_DIM_MAK",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "15_28_DOUBLE_TROUBLE",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "15_31_PARTY_POOPER",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "16_0_PLANTING_A_FLAG",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "16_1_THE_TRUE_KING",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "15_30_CATCH_THIS",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "15_24_NICE_WORK_DAWG",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "15_25_AIM_FOR_THE_HEAD",
+      "game": "General",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "14_22_GREENHORN",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "3_21_BIRTH_OF_A_SPARTAN",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "3_22_BELIEVE_IN_A_HERO",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "3_23_LIVING_LEGEND",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VW5DLy7E19339-TwQEhNI59"
+    },
+    {
+      "name": "4_17_GOAT_ROPED",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VU427w55d8Z8qF7CCFZ61NE"
+    },
+    {
+      "name": "2_16_DID_SOMEBODY_SAY",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VUG7lho_hCp5LRWdBJjYXG-"
+    },
+    {
+      "name": "2_27_OVERACHIEVER",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VWX49E7asv8r9UuAtcZPRuo"
+    },
+    {
+      "name": "3_6_DEAR_DIARY",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=jh2UytziVqQ"
+    },
+    {
+      "name": "3_20_HEADHUNTER",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=3_cv8mjNuoY"
+    },
+    {
+      "name": "3_31_A_FINE_CHOICE",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "4_0_EXCELLENT_TASTE",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "4_1_LIKE_A_FINE_WINE",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VX1pfVBZXGeZvPcqTzB1EjG"
+    },
+    {
+      "name": "4_2_YOU_ARE_THE_WEAPON",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=gZwLCOQG7IE"
+    },
+    {
+      "name": "4_4_MY_BUDDY_CHIPS",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "4_10_FEET_FIRMLY_PLANTED",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=jVBKsvcbPek"
+    },
+    {
+      "name": "4_11_BEFORE_AND_AFTER",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "4_14_HES_UNSTOPPABLE",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=Ho8syFPXJyg"
     },
     {
       "name": "16_5_AIRBORNE",
       "game": "Halo: CE",
-      "level": "General"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=Mvgvtmjfgao"
     },
     {
-      "name": "16_6_ASSEMBLY_SKULL",
-      "game": "Halo: 3",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "16_7_ORBITAL_SKULL",
-      "game": "Halo: 3",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "16_8_SANDBOX_SKULL",
-      "game": "Halo: 3",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "16_9_CITADEL_SKULL",
-      "game": "Halo: 3",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "16_10_HERETIC_SKULL",
-      "game": "Halo: 3",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "16_11_LONGSHORE_SKULL",
-      "game": "Halo: 3",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "16_12_BRAINPAN",
-      "game": "Halo: 3",
-      "level": "Multiplayer"
+      "name": "4_16_A_DAY_TO_REMEMBER",
+      "game": "Halo: CE",
+      "level": "General",
+      "videoURL": ""
     },
     {
       "name": "16_13_SIGHTSEEING",
       "game": "Halo: CE",
-      "level": "Multiplayer"
+      "level": "Multiplayer",
+      "videoURL": ""
     },
     {
       "name": "16_14_CHECKING_OUT_YOUR_OPTIONS",
       "game": "Halo: CE",
-      "level": "Multiplayer"
+      "level": "Multiplayer",
+      "videoURL": ""
     },
     {
-      "name": "16_15_TOURIST",
+      "name": "12_2_BACK_IN_THE_DAY",
+      "game": "Halo: CE",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "1_28_PILLAR_OF_AUTUMN",
+      "game": "Halo: CE",
+      "level": "The Pillar of Autumn",
+      "videoURL": ""
+    },
+    {
+      "name": "2_6_DIDNT_LIKE_THIS_SHIP_ANYWAYS",
+      "game": "Halo: CE",
+      "level": "The Pillar of Autumn",
+      "videoURL": "https://www.youtube.com/watch?v=Dxqf962DNWU&list=PL3bi5dIhs8VUG7lho_hCp5LRWdBJjYXG-&index=1"
+    },
+    {
+      "name": "2_17_PILLAR_OF_AWESOME",
+      "game": "Halo: CE",
+      "level": "The Pillar of Autumn",
+      "videoURL": "https://www.youtube.com/watch?v=1hyvJTY4VEU&list=PL3bi5dIhs8VWX49E7asv8r9UuAtcZPRuo&index=1"
+    },
+    {
+      "name": "2_28_ARRIVAL",
+      "game": "Halo: CE",
+      "level": "The Pillar of Autumn",
+      "videoURL": "https://www.youtube.com/watch?v=jh2UytziVqQ"
+    },
+    {
+      "name": "3_7_SKULLTAKER_HALO_CE_IRON",
+      "game": "Halo: CE",
+      "level": "The Pillar of Autumn",
+      "videoURL": "https://www.youtube.com/watch?v=3_cv8mjNuoY"
+    },
+    {
+      "name": "3_24_OVERSHIELDS_ARE_FOR_SISSIES",
+      "game": "Halo: CE",
+      "level": "The Pillar of Autumn",
+      "videoURL": "https://www.youtube.com/watch?v=Ho8syFPXJyg"
+    },
+    {
+      "name": "3_25_WALK_IT_OFF",
+      "game": "Halo: CE",
+      "level": "The Pillar of Autumn",
+      "videoURL": "https://www.youtube.com/watch?v=Ho8syFPXJyg"
+    },
+    {
+      "name": "4_8_MEGG",
+      "game": "Halo: CE",
+      "level": "The Pillar of Autumn",
+      "videoURL": "https://www.youtube.com/watch?v=5c3UWiz-0-w"
+    },
+    {
+      "name": "1_29_HALO",
+      "game": "Halo: CE",
+      "level": "Halo",
+      "videoURL": ""
+    },
+    {
+      "name": "2_7_FLYOVER_COUNTRY",
+      "game": "Halo: CE",
+      "level": "Halo",
+      "videoURL": "https://www.youtube.com/watch?v=oXxPkffy2ek&list=PL3bi5dIhs8VUG7lho_hCp5LRWdBJjYXG-&index=2"
+    },
+    {
+      "name": "2_18_GIANT_HULA_HOOP",
+      "game": "Halo: CE",
+      "level": "Halo",
+      "videoURL": "https://www.youtube.com/watch?v=MqMC4AWrAM4&list=PL3bi5dIhs8VWX49E7asv8r9UuAtcZPRuo&index=2"
+    },
+    {
+      "name": "2_29_SACRIFICE",
+      "game": "Halo: CE",
+      "level": "Halo",
+      "videoURL": "https://youtu.be/jh2UytziVqQ?t=20"
+    },
+    {
+      "name": "3_8_SKULLTAKER_HALO_CE_MYTHIC",
+      "game": "Halo: CE",
+      "level": "Halo",
+      "videoURL": "https://youtu.be/3_cv8mjNuoY?t=22"
+    },
+    {
+      "name": "3_9_SKULLTAKER_HALO_CE_BOOM",
+      "game": "Halo: CE",
+      "level": "Halo",
+      "videoURL": "https://youtu.be/3_cv8mjNuoY?t=41"
+    },
+    {
+      "name": "3_26_HOW_PEDESTRIAN",
+      "game": "Halo: CE",
+      "level": "Halo",
+      "videoURL": "https://www.youtube.com/watch?v=hz170wUOIbQ"
+    },
+    {
+      "name": "12_11_NO-FLY_ZONE",
+      "game": "Halo: CE",
+      "level": "Halo",
+      "videoURL": "https://www.youtube.com/watch?v=DTlzkaVFax0"
+    },
+    {
+      "name": "1_30_TRUTH_AND_RECONCILIATION",
+      "game": "Halo: CE",
+      "level": "Truth and Reconciliation",
+      "videoURL": ""
+    },
+    {
+      "name": "2_8_YOU_CANT_HANDLE_THE_TRUTH",
+      "game": "Halo: CE",
+      "level": "Truth and Reconciliation",
+      "videoURL": "https://www.youtube.com/watch?v=7VyVlJt1BqQ&list=PL3bi5dIhs8VUG7lho_hCp5LRWdBJjYXG-&index=3"
+    },
+    {
+      "name": "2_19_YOU_REALLY_CANT_HANDLE_THE_TRUTH",
+      "game": "Halo: CE",
+      "level": "Truth and Reconciliation",
+      "videoURL": "https://www.youtube.com/watch?v=QocyYZrBPt0&list=PL3bi5dIhs8VWX49E7asv8r9UuAtcZPRuo&index=3"
+    },
+    {
+      "name": "2_30_SPLINTERS",
+      "game": "Halo: CE",
+      "level": "Truth and Reconciliation",
+      "videoURL": "https://youtu.be/jh2UytziVqQ?t=34"
+    },
+    {
+      "name": "3_10_SKULLTAKER_HALO_CE_FOREIGN",
+      "game": "Halo: CE",
+      "level": "Truth and Reconciliation",
+      "videoURL": "https://youtu.be/3_cv8mjNuoY?t=67"
+    },
+    {
+      "name": "12_5_CLOSE_QUARTERS_COMBAT",
+      "game": "Halo: CE",
+      "level": "Truth and Reconciliation",
+      "videoURL": "https://www.youtube.com/watch?v=mitIlv0Bjx8"
+    },
+    {
+      "name": "12_8_ALL_ACCORDING_TO_PLAN",
+      "game": "Halo: CE",
+      "level": "Truth and Reconciliation",
+      "videoURL": "https://www.youtube.com/watch?v=zMaS8A5iahM"
+    },
+    {
+      "name": "1_31_THE_SILENT_CARTOGRAPHER",
+      "game": "Halo: CE",
+      "level": "The Silent Cartographer",
+      "videoURL": ""
+    },
+    {
+      "name": "2_9_HIT_THE_BEACH",
+      "game": "Halo: CE",
+      "level": "The Silent Cartographer",
+      "videoURL": "https://www.youtube.com/watch?v=WyW36u802d0&list=PL3bi5dIhs8VUG7lho_hCp5LRWdBJjYXG-&index=4"
+    },
+    {
+      "name": "2_20_CHARTED",
+      "game": "Halo: CE",
+      "level": "The Silent Cartographer",
+      "videoURL": "https://www.youtube.com/watch?v=uxzvpXxw1oI&list=PL3bi5dIhs8VWX49E7asv8r9UuAtcZPRuo&index=4"
+    },
+    {
+      "name": "2_31_IDLE_HANDS",
+      "game": "Halo: CE",
+      "level": "The Silent Cartographer",
+      "videoURL": "https://youtu.be/jh2UytziVqQ?t=45"
+    },
+    {
+      "name": "3_11_SKULLTAKER_HALO_CE_FAMINE",
+      "game": "Halo: CE",
+      "level": "The Silent Cartographer",
+      "videoURL": "https://youtu.be/3_cv8mjNuoY?t=94"
+    },
+    {
+      "name": "3_12_SKULLTAKER_HALO_CE_BANDANA",
+      "game": "Halo: CE",
+      "level": "The Silent Cartographer",
+      "videoURL": "https://youtu.be/3_cv8mjNuoY?t=127"
+    },
+    {
+      "name": "12_3_PACIFIST",
+      "game": "Halo: CE",
+      "level": "The Silent Cartographer",
+      "videoURL": "https://www.youtube.com/watch?v=uPpkS8wNoKE"
+    },
+    {
+      "name": "12_9_BEACHHEAD",
+      "game": "Halo: CE",
+      "level": "The Silent Cartographer",
+      "videoURL": "https://www.youtube.com/watch?v=PJ3B31QQICc"
+    },
+    {
+      "name": "2_0_ASSAULT_ON_THE_CONTROL_ROOM",
+      "game": "Halo: CE",
+      "level": "Assault on the Control Room",
+      "videoURL": ""
+    },
+    {
+      "name": "2_10_WOULD_ITVE_KILLED_YOU_TO_TAKE_THE_ELEVATOR",
+      "game": "Halo: CE",
+      "level": "Assault on the Control Room",
+      "videoURL": "https://www.youtube.com/watch?v=rwwS4W0VcSY&list=PL3bi5dIhs8VUG7lho_hCp5LRWdBJjYXG-&index=5"
+    },
+    {
+      "name": "2_21_VETRO_STRIKE",
+      "game": "Halo: CE",
+      "level": "Assault on the Control Room",
+      "videoURL": "https://www.youtube.com/watch?v=flTJcip58RQ&list=PL3bi5dIhs8VWX49E7asv8r9UuAtcZPRuo&index=5"
+    },
+    {
+      "name": "3_0_HITCHHIKERS_MAY_BE_ESCAPING_CONVICTS",
+      "game": "Halo: CE",
+      "level": "Assault on the Control Room",
+      "videoURL": "https://youtu.be/jh2UytziVqQ?t=59"
+    },
+    {
+      "name": "3_13_SKULLTAKER_HALO_CE_FOG",
+      "game": "Halo: CE",
+      "level": "Assault on the Control Room",
+      "videoURL": "https://youtu.be/3_cv8mjNuoY?t=154"
+    },
+    {
+      "name": "3_14_SKULLTAKER_HALO_CE_MALFUNCTION",
+      "game": "Halo: CE",
+      "level": "Assault on the Control Room",
+      "videoURL": "https://youtu.be/3_cv8mjNuoY?t=182"
+    },
+    {
+      "name": "4_3_MADRIGAL_DEBUT",
+      "game": "Halo: CE",
+      "level": "Assault on the Control Room",
+      "videoURL": "https://www.youtube.com/watch?v=G-b96AhVJk8"
+    },
+    {
+      "name": "12_4_WRAITH_HUNTER",
+      "game": "Halo: CE",
+      "level": "Assault on the Control Room",
+      "videoURL": "https://www.youtube.com/watch?v=LOR74KmjPZE"
+    },
+    {
+      "name": "2_1_343_GUILTY_SPARK",
+      "game": "Halo: CE",
+      "level": "343 Guilty Spark",
+      "videoURL": ""
+    },
+    {
+      "name": "2_11_LIGHTNING_IN_A_BOTTLE",
+      "game": "Halo: CE",
+      "level": "343 Guilty Spark",
+      "videoURL": "https://www.youtube.com/watch?v=QgVa3-AhKds&list=PL3bi5dIhs8VUG7lho_hCp5LRWdBJjYXG-&index=6"
+    },
+    {
+      "name": "2_22_CIRCUIT_BREAKER",
+      "game": "Halo: CE",
+      "level": "343 Guilty Spark",
+      "videoURL": "https://www.youtube.com/watch?v=VLsnnwfuWRU&list=PL3bi5dIhs8VWX49E7asv8r9UuAtcZPRuo&index=6"
+    },
+    {
+      "name": "3_1_BEARLY_CONTAINED",
+      "game": "Halo: CE",
+      "level": "343 Guilty Spark",
+      "videoURL": "https://youtu.be/jh2UytziVqQ?t=78"
+    },
+    {
+      "name": "3_15_SKULLTAKER_HALO_CE_RECESSION",
+      "game": "Halo: CE",
+      "level": "343 Guilty Spark",
+      "videoURL": "https://youtu.be/3_cv8mjNuoY?t=200"
+    },
+    {
+      "name": "4_9_GET_ME_OUT_OF_HERE",
+      "game": "Halo: CE",
+      "level": "343 Guilty Spark",
+      "videoURL": "https://www.youtube.com/watch?v=RS18IpeE-Z4"
+    },
+    {
+      "name": "2_2_THE_LIBRARY",
+      "game": "Halo: CE",
+      "level": "The Library",
+      "videoURL": ""
+    },
+    {
+      "name": "2_12_TLDR",
+      "game": "Halo: CE",
+      "level": "The Library",
+      "videoURL": "https://www.youtube.com/watch?v=xFwyJLC61WI&list=PL3bi5dIhs8VUG7lho_hCp5LRWdBJjYXG-&index=7"
+    },
+    {
+      "name": "2_23_READING_ROOM",
+      "game": "Halo: CE",
+      "level": "The Library",
+      "videoURL": "https://www.youtube.com/watch?v=a8b7oxPnuOE&list=PL3bi5dIhs8VWX49E7asv8r9UuAtcZPRuo&index=7"
+    },
+    {
+      "name": "3_2_QUIS_CUSTODIET_IPSOS_CUSTODES",
+      "game": "Halo: CE",
+      "level": "The Library",
+      "videoURL": "https://youtu.be/jh2UytziVqQ?t=91"
+    },
+    {
+      "name": "3_16_SKULLTAKER_HALO_CE_BLACK_EYE",
+      "game": "Halo: CE",
+      "level": "The Library",
+      "videoURL": "https://youtu.be/3_cv8mjNuoY?t=234"
+    },
+    {
+      "name": "3_17_SKULLTAKER_HALO_CE_EYE_PATCH",
+      "game": "Halo: CE",
+      "level": "The Library",
+      "videoURL": "https://youtu.be/3_cv8mjNuoY?t=253"
+    },
+    {
+      "name": "3_27_THAT_JUST_HAPPENED",
+      "game": "Halo: CE",
+      "level": "The Library",
+      "videoURL": "https://www.youtube.com/watch?v=UkQVqDtT2h0"
+    },
+    {
+      "name": "2_3_TWO_BETRAYALS",
+      "game": "Halo: CE",
+      "level": "Two Betrayals",
+      "videoURL": ""
+    },
+    {
+      "name": "2_13_WHISTLE_STOP_TOUR",
+      "game": "Halo: CE",
+      "level": "Two Betrayals",
+      "videoURL": "https://www.youtube.com/watch?v=E77oL8w39tM&list=PL3bi5dIhs8VUG7lho_hCp5LRWdBJjYXG-&index=8"
+    },
+    {
+      "name": "2_24_IT_WAS_INEVITABLE",
+      "game": "Halo: CE",
+      "level": "Two Betrayals",
+      "videoURL": "https://www.youtube.com/watch?v=CWyJz3NeLTk&list=PL3bi5dIhs8VWX49E7asv8r9UuAtcZPRuo&index=8"
+    },
+    {
+      "name": "3_3_MEMORIES",
+      "game": "Halo: CE",
+      "level": "Two Betrayals",
+      "videoURL": "https://youtu.be/jh2UytziVqQ?t=115"
+    },
+    {
+      "name": "3_18_SKULLTAKER_HALO_CE_PINATA",
+      "game": "Halo: CE",
+      "level": "Two Betrayals",
+      "videoURL": "https://youtu.be/3_cv8mjNuoY?t=289"
+    },
+    {
+      "name": "3_28_LOOK_OUT_FOR_THE_LITTLE_GUYS",
+      "game": "Halo: CE",
+      "level": "Two Betrayals",
+      "videoURL": "https://www.youtube.com/watch?v=863zJG5I964"
+    },
+    {
+      "name": "3_29_LEAVE_IT_WHERE_IT_LAY",
+      "game": "Halo: CE",
+      "level": "Two Betrayals",
+      "videoURL": "https://www.youtube.com/watch?v=LpeQCE-GHiQ"
+    },
+    {
+      "name": "2_4_KEYES",
+      "game": "Halo: CE",
+      "level": "Keyes",
+      "videoURL": ""
+    },
+    {
+      "name": "2_14_SCURTY_BUMP",
+      "game": "Halo: CE",
+      "level": "Keyes",
+      "videoURL": "https://www.youtube.com/watch?v=O4n9A1xxxxM&list=PL3bi5dIhs8VUG7lho_hCp5LRWdBJjYXG-&index=9"
+    },
+    {
+      "name": "2_25_HEADSTRONG",
+      "game": "Halo: CE",
+      "level": "Keyes",
+      "videoURL": "https://www.youtube.com/watch?v=WmS_iSNB9E4&list=PL3bi5dIhs8VWX49E7asv8r9UuAtcZPRuo&index=9"
+    },
+    {
+      "name": "3_4_MIND_GAMES",
+      "game": "Halo: CE",
+      "level": "Keyes",
+      "videoURL": "https://youtu.be/jh2UytziVqQ?t=130"
+    },
+    {
+      "name": "3_30_TYING_UP_LOOSE_ENDS",
+      "game": "Halo: CE",
+      "level": "Keyes",
+      "videoURL": "https://www.youtube.com/watch?v=sj0UhrraJ4o"
+    },
+    {
+      "name": "4_5_NO_SMOKING",
+      "game": "Halo: CE",
+      "level": "Keyes",
+      "videoURL": "https://www.youtube.com/watch?v=JZ4w6_6UGDg"
+    },
+    {
+      "name": "2_5_THE_MAW",
+      "game": "Halo: CE",
+      "level": "The Maw",
+      "videoURL": ""
+    },
+    {
+      "name": "2_15_ALL_YOU_CAN_EAT",
+      "game": "Halo: CE",
+      "level": "The Maw",
+      "videoURL": "https://www.youtube.com/watch?v=G7sMNeKSso4&list=PL3bi5dIhs8VUG7lho_hCp5LRWdBJjYXG-&index=10"
+    },
+    {
+      "name": "2_26_CONSUMPTION_JUNCTION",
+      "game": "Halo: CE",
+      "level": "The Maw",
+      "videoURL": "https://www.youtube.com/watch?v=Fz5lJahLpZI&list=PL3bi5dIhs8VWX49E7asv8r9UuAtcZPRuo&index=10"
+    },
+    {
+      "name": "3_5_KILOTONS_OF_FUN",
+      "game": "Halo: CE",
+      "level": "The Maw",
+      "videoURL": "https://youtu.be/jh2UytziVqQ?t=143"
+    },
+    {
+      "name": "3_19_SKULLTAKER_HALO_CE_GRUNT_BIRTHDAY_PARTY",
+      "game": "Halo: CE",
+      "level": "The Maw",
+      "videoURL": "https://youtu.be/3_cv8mjNuoY?t=310"
+    },
+    {
+      "name": "4_6_T-REX",
+      "game": "Halo: CE",
+      "level": "The Maw",
+      "videoURL": "https://www.youtube.com/watch?v=e-GmS9CJpcI"
+    },
+    {
+      "name": "4_7_THIRSTY_GRUNT",
+      "game": "Halo: CE",
+      "level": "The Maw",
+      "videoURL": "https://www.youtube.com/watch?v=_PL5l2atfwo"
+    },
+    {
+      "name": "12_6_THIS_SIDE_UP",
+      "game": "Halo: CE",
+      "level": "The Maw",
+      "videoURL": "https://www.youtube.com/watch?v=984iaUYZtwk"
+    },
+    {
+      "name": "14_23_BIG_GREEN_STYLE",
       "game": "Halo: 2",
-      "level": "Multiplayer"
+      "level": "General",
+      "videoURL": ""
     },
     {
-      "name": "16_16_WINDOW_SHOPPING",
+      "name": "7_3_WARRIOR",
       "game": "Halo: 2",
-      "level": "Multiplayer"
+      "level": "General",
+      "videoURL": ""
     },
     {
-      "name": "16_17_WORLD_TRAVELER",
-      "game": "Halo: 3",
-      "level": "Multiplayer"
+      "name": "7_4_HERO",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": ""
     },
     {
-      "name": "16_18_JUST_BROWSING",
-      "game": "Halo: 3",
-      "level": "Multiplayer"
+      "name": "7_5_LEGENDARY_ANNIVERSARY",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": ""
     },
     {
-      "name": "16_19_GOING_INTERNATIONAL",
-      "game": "Halo: 4",
-      "level": "Multiplayer"
+      "name": "8_10_MONOPOLIZED",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VV4dLHihlU5Y4mnmm2T93wD"
     },
     {
-      "name": "16_20_TASTE_TEST",
-      "game": "Halo: 4",
-      "level": "Multiplayer"
+      "name": "5_12_GOING_NOWHERE_FAST",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn"
     },
     {
-      "name": "16_23_LISTENER",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "5_26_ARCADE_OWNER",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl"
     },
     {
-      "name": "16_24_AN_EAR_FULL",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "6_8_WALKING_ENCYCLOPEDIA",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=YcegqNgBGhQ"
     },
     {
-      "name": "16_25_TUNED_IN",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "6_24_TROPHY_COLLECTOR",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=MVV5fQw2lSs"
     },
     {
-      "name": "16_26_DO_TELL",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "7_2_TOYBOX",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=vIYjJtcJWLc"
     },
     {
-      "name": "16_27_HEAR_ME_OUT",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "7_6_SECONDS",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": ""
     },
     {
-      "name": "16_28_EAVESDROPPING",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "7_7_CONNOISSEUR",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": ""
     },
     {
-      "name": "16_29_AUDITOR",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "8_9_BACK_FOR_MORE",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VX860Va_G82F74uc1jOVgbw"
     },
     {
-      "name": "16_30_OVERHEARD",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "12_0_TIGHTEN_UP_THE_GRAPHICS",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": ""
     },
     {
-      "name": "16_31_WIRETAPPING",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "7_8_SIX_PEDALS_FOUR_DIRECTIONS",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=E431mr2YK40"
     },
     {
-      "name": "17_0_MONITORED",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "7_24_STARVED_FOR_SHIELDS",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=dcTVs2vuneQ"
     },
     {
-      "name": "17_1_HANG_ONTO_MY_WORDS",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "7_28_SILENT_BUT_DEADLY",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=YtX7eFpn170"
     },
     {
-      "name": "17_2_GIVE_HEED",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "7_29_DEMON",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=nltwaDIhRE0"
     },
     {
-      "name": "17_3_GET_A_LOAD",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "7_30_GO_APE_SHIV",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=ru3x2uFSJOU"
     },
     {
-      "name": "17_4_SNOOP_TROOP",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "8_8_BACK_AT_IT",
+      "game": "Halo: 2",
+      "level": "General",
+      "videoURL": ""
     },
     {
-      "name": "17_5_ALL_EARS",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "12_17_GATE_YOUR_THIRST",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://youtu.be/paeTk6RWMp8?t=38"
     },
     {
-      "name": "17_6_EAR_BENDER",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "12_24_RULE_YOUR_THIRST",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://youtu.be/paeTk6RWMp8?t=106"
     },
     {
-      "name": "17_7_PLUGGED_IN",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "12_30_THIRST_LOCKED_DOWN",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=paeTk6RWMp8"
     },
     {
-      "name": "17_8_ATTENTIVE",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "12_18_HIGH_ALTITUDE_THIRST",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://youtu.be/paeTk6RWMp8?t=58"
     },
     {
-      "name": "17_9_WATCHFUL",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
+      "name": "13_1_BLOODY_THIRSTY",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://youtu.be/paeTk6RWMp8?t=80"
     },
     {
-      "name": "17_10_OBSERVANT",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_11_SCOUT",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_12_ADVENTURER",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_13_SPOTTER",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_14_CONSIDERATE",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_15_ON_YOUR_TOES",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_16_ARCHIVIST",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_17_YOUR_ATTENTION_PLEASE",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_18_CATCHING_ON",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_19_WISENING_UP",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_25_JUNIOR_DETECTIVE",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_26_INVESTIGATOR",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_27_GUMSHOE",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_28_BLOODHOUND",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_29_PRIVATE_EYE",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "17_30_SECRET_AGENT",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "19_3_SATURDAY_MORNING_CARTOON",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-    {
-      "name": "19_5_CATCH_EM_NAPPING",
-      "game": "Halo: 3 ODST",
-      "level": "Mombasa Streets"
-    },
-	{
-      "name": "18_0_TAYARI_PLAZA",
-      "game": "Halo: 3 ODST",
-      "level": "Tayari Plaza"
-    },
-	{
-      "name": "18_8_BILL_PAST_DUE",
-      "game": "Halo: 3 ODST",
-      "level": "Tayari Plaza"
-    },
-	{
-      "name": "18_17_SURVEY_SAYS",
-      "game": "Halo: 3 ODST",
-      "level": "Tayari Plaza"
-    },
-	{
-      "name": "19_16_THOSE_LEFT_BEHIND",
-      "game": "Halo: 3 ODST",
-      "level": "Tayari Plaza"
-    },
-	{
-      "name": "19_22_TWO_PLACES_SAME_TIME",
-      "game": "Halo: 3 ODST",
-      "level": "Tayari Plaza"
-    },
-	{
-      "name": "18_1_UPLIFT_RESERVE",
-      "game": "Halo: 3 ODST",
-      "level": "Uplift Reserve"
-    },
-	{
-      "name": "18_9_FLOOR_IT",
-      "game": "Halo: 3 ODST",
-      "level": "Uplift Reserve"
-    },
-	{
-      "name": "18_18_DONT_STRAIN_YOUR_METAPHORS",
-      "game": "Halo: 3 ODST",
-      "level": "Uplift Reserve"
-    },
-	{
-      "name": "18_2_KIZINGO_BOULEVARD",
-      "game": "Halo: 3 ODST",
-      "level": "Kizingo Boulevard"
-    },
-	{
-      "name": "18_10_AN_ARTISTS_CANVAS",
-      "game": "Halo: 3 ODST",
-      "level": "Kizingo Boulevard"
-    },
-	 {
-      "name": "19_19_SHINY_",
-      "game": "Halo: 3 ODST",
-      "level": "Kizingo Boulevard"
-    },
-	{
-      "name": "18_19_SON_OF_A_GUN",
-      "game": "Halo: 3 ODST",
-      "level": "Kizingo Boulevard"
-    },
-	    {
-      "name": "18_3_ONI_ALPHA_SITE",
-      "game": "Halo: 3 ODST",
-      "level": "ONI Alpha Site"
-    },
-	{
-      "name": "18_11_A_PLEASANT_TRIP",
-      "game": "Halo: 3 ODST",
-      "level": "ONI Alpha Site"
-    },
-	{
-      "name": "18_20_I_LOVE_MY_JOB",
-      "game": "Halo: 3 ODST",
-      "level": "ONI Alpha Site"
-    },
-	{
-      "name": "19_9_FOWL_HUNT",
-      "game": "Halo: 3 ODST",
-      "level": "ONI Alpha Site"
-    },
-	{
-      "name": "19_21_WHAT_ABOUT_THOSE_TANKS?",
-      "game": "Halo: 3 ODST",
-      "level": "ONI Alpha Site"
-    },
-	{
-      "name": "18_4_NMPD_HQ",
-      "game": "Halo: 3 ODST",
-      "level": "NMPD HQ"
-    },
-	{
-      "name": "18_12_FIRST_STOP_ANYWHERE_BUT_HERE",
-      "game": "Halo: 3 ODST",
-      "level": "NMPD HQ"
-    },
-	{
-      "name": "18_21_POUR_IT_ON",
-      "game": "Halo: 3 ODST",
-      "level": "NMPD HQ"
-    },
-	{
-      "name": "19_2_VANDALIZED",
-      "game": "Halo: 3 ODST",
-      "level": "NMPD HQ"
-    },
-	{
-      "name": "19_20_BITS_AND_PIECES",
-      "game": "Halo: 3 ODST",
-      "level": "NMPD HQ"
-    },
-	{
-      "name": "19_17_SHOOT_AND_SCOOT",
-      "game": "Halo: 3 ODST",
-      "level": "NMPD HQ"
-    },
-	{
-      "name": "16_21_NAUGHTY_NAUGHTY",
-      "game": "Halo: 3 ODST",
-      "level": "Kikowani Station"
-    },
-    {
-      "name": "16_22_WELLMAYBE_ONE_OR_TWO",
-      "game": "Halo: 3 ODST",
-      "level": "Kikowani Station"
-    },
-	{
-      "name": "19_18_FAST_AND_LOW",
-      "game": "Halo: 3 ODST",
-      "level": "Kikowani Station"
-    },
-	{
-      "name": "18_5_KIKOWANI_STATION",
-      "game": "Halo: 3 ODST",
-      "level": "Kikowani Station"
-    },
-	{
-      "name": "18_13_FEET_DONT_FAIL_ME_NOW",
-      "game": "Halo: 3 ODST",
-      "level": "Kikowani Station"
-    },
-	{
-      "name": "18_22_SQUID_JACKPOT",
-      "game": "Halo: 3 ODST",
-      "level": "Kikowani Station"
-    },
-	{
-      "name": "19_1_LIKE_A_BROKEN_RECORD",
-      "game": "Halo: 3 ODST",
-      "level": "Kikowani Station"
-    },
-	{
-      "name": "17_20_AUDIOPHILE",
-      "game": "Halo: 3 ODST",
-      "level": "Data Hive"
-    },
-	{
-      "name": "18_6_DATA_HIVE",
-      "game": "Halo: 3 ODST",
-      "level": "Data Hive"
-    },
-	{
-      "name": "18_14_OVERTAKEN_BY_EVENTS",
-      "game": "Halo: 3 ODST",
-      "level": "Data Hive"
-    },
-	{
-      "name": "18_23_MAGIC_TOUCH",
-      "game": "Halo: 3 ODST",
-      "level": "Data Hive"
-    },
-	{
-      "name": "19_11_FIREFLY",
-      "game": "Halo: 3 ODST",
-      "level": "Data Hive"
-    },
-	{
-      "name": "19_6_STRONG_SILENT_TYPE",
-      "game": "Halo: 3 ODST",
-      "level": "Data Hive"
-    },
-    {
-      "name": "18_7_COASTAL_HIGHWAY",
-      "game": "Halo: 3 ODST",
-      "level": "Coastal Highway"
-    },
-    {
-      "name": "18_15_DOUBLE_TIME",
-      "game": "Halo: 3 ODST",
-      "level": "Coastal Highway"
-    },
-    {
-      "name": "18_24_THIS_OLIPHANT_HAS_NO_BRAKES",
-      "game": "Halo: 3 ODST",
-      "level": "Coastal Highway"
-    },
-	{
-      "name": "18_26_DEJA_VU",
-      "game": "Halo: 3 ODST",
-      "level": "Coastal Highway"
-    },
-	{
-      "name": "19_0_ONE_GOT_AWAY",
-      "game": "Halo: 3 ODST",
-      "level": "Coastal Highway"
-    },
-    {
-      "name": "19_12_BLAM_SAID_THE_LADY",
-      "game": "Halo: 3 ODST",
-      "level": "Coastal Highway"
-    },
-	  {
-      "name": "17_21_ROOKIE",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "17_22_URBAN_WARFARE_BADGE",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "17_23_FIRST_IN_LAST_OUT",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "17_24_MEAN_STREETS_OF_NEW_MOMBASA",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "17_31_RECORD_STORE_OWNER",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "18_16_CANT_STOP_HERE_THIS_IS_BRUTE_COUNTRY",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "18_25_THE_MARINE_CORPS_GIVES_ITS_REGARDS",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "18_27_DO_YOU_REMEMBER_WHEN_WE_MET",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "18_28_SAFETY_NOT_GUARANTEED",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "18_29_TRIFECTA",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "18_30_NEXT",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "18_31_NAGATO_MAKES_MOVING_EASY",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "19_4_CLASSIC",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "19_7_BIP_BAP_BAM",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "19_8_PINEAPPLE_EXPRESS",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "19_10_DOES_WHATEVER_A_SPARTAN_CAN",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "19_13_ONE_WAY_RIDE",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "19_14_JUST_SAYIN_I_AINT_DEAD",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "19_15_DEFERENCE_OF_DARKNESS",
-      "game": "Halo: 3 ODST",
-      "level": "General"
-    },
-    {
-      "name": "19_23_XENOPHOBIA",
-      "game": "Halo: 3 ODST",
-      "level": "General"
+      "name": "13_8_WORSHIP_YOUR_THIRST",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://youtu.be/paeTk6RWMp8?t=121"
     },
     {
       "name": "19_24_MONUMENTAL_THIRST",
       "game": "Halo: 2",
-      "level": "Multiplayer"
+      "level": "Multiplayer",
+      "videoURL": "https://youtu.be/mSi4zAOg9WQ"
     },
     {
-      "name": "19_25_WERE_JUST_GETTING_STARTED",
-      "game": "Halo: Reach",
-      "level": "Winter Contingency"
+      "name": "13_0_BLASTACULAR",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=paeTk6RWMp8"
     },
     {
-      "name": "19_26_NO_PICNIC",
-      "game": "Halo: Reach",
-      "level": "New Alexandria"
+      "name": "7_11_SIEGE_OF_IVORY_TOWER",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=EAUbvLX7LkA"
     },
     {
-      "name": "19_27_PROTOCOL_DICTATES_ACTION",
-      "game": "Halo: Reach",
-      "level": "ONI: Sword Base"
+      "name": "7_16_ANIMAL_HABITAT",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=-SBQ6MSRZCg"
     },
     {
-      "name": "19_28_I_NEED_A_WEAPON",
-      "game": "Halo: Reach",
-      "level": "Nightfall"
+      "name": "7_17_SID_GRAFFITI",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=StjEUoD4AJo"
     },
     {
-      "name": "19_29_TO_WAR",
-      "game": "Halo: Reach",
-      "level": "Tip of the Spear"
+      "name": "7_19_WHY_SO_SERIOUS",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=StjEUoD4AJo"
     },
     {
-      "name": "19_30_YOU_FLEW_PRETTY_GOOD",
-      "game": "Halo: Reach",
-      "level": "Long Night of Solace"
+      "name": "7_20_WHY_AM_I_HERE",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=cUIP7BVFNEI"
     },
     {
-      "name": "19_31_INTO_THE_HOWLING_DARK",
-      "game": "Halo: Reach",
-      "level": "Exodus"
+      "name": "7_23_LIKE_PEANUT_BUTTER_AND_CHOCOLATE",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=NXPrGhYR_hQ"
     },
     {
-      "name": "20_0_DUST_AND_ECHOES",
-      "game": "Halo: Reach",
-      "level": "New Alexandria"
+      "name": "7_31_GRAND_THEFT_HALO",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=EtxZ68A0At0"
     },
     {
-      "name": "20_1_THIS_IS_NOT_YOUR_GRAVE",
-      "game": "Halo: Reach",
-      "level": "The Package"
+      "name": "8_0_TOUR_OF_DUTY",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": ""
     },
     {
-      "name": "20_2_SEND_ME_OUT__WITH_A_BANG",
-      "game": "Halo: Reach",
-      "level": "The Pillar of Autumn"
+      "name": "8_1_DOUBLE_DOWN",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=0Hz7QopFlfE"
+    },
+    {
+      "name": "8_2_WARDEN",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=LtVXDkxtiUk"
+    },
+    {
+      "name": "8_3_BLOWN_OUT_OF_THE_SKY",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=eUWq7E8xBQI"
+    },
+    {
+      "name": "8_4_DECORATED_WARRIOR",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "8_5_NINJA_REDUX",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=ZAcuOzYxZDo"
+    },
+    {
+      "name": "8_6_FLAMING_NINJA_ANNIVERSARY",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "8_7_LEGEND_SLAYER",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "11_31_DESTINATION_VACATION",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=dhq-iSVYiAU"
+    },
+    {
+      "name": "12_15_EMINENT_DOMAIN",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=MVY7VgwsVng"
+    },
+    {
+      "name": "12_19_INVADERS_REPELLED",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=9Pl6cmEn9YA"
+    },
+    {
+      "name": "12_21_POWER_PLAY",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=rBeo6z0RY5c"
+    },
+    {
+      "name": "12_22_PUT_UP_YOUR_DUKES",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=TjnA9XgQKRw"
+    },
+    {
+      "name": "12_23_RED_VS_BLUE",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "12_25_SHIELDS_UP",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=XAFJj0kaV2U"
+    },
+    {
+      "name": "12_26_SHOOK_THE_HORNETS_NEST",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=SLUKI3ZakUw"
+    },
+    {
+      "name": "12_27_SKEET_SHOOTER",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=LhchCjVg1O8"
+    },
+    {
+      "name": "12_28_STAYIN_ALIVE",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=YjCFOGB9F1I"
+    },
+    {
+      "name": "12_29_THE_GOOSE_IS_LOOSE",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=s7ZHWxglsO0"
+    },
+    {
+      "name": "12_31_TOP_GUNGOOSE",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=Is-9aM9F3CQ"
+    },
+    {
+      "name": "13_2_BOMBING_RUN",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=3ymL5pxnKvA"
+    },
+    {
+      "name": "13_3_COLD_AS_ICE",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=_UJijVEeNgI"
+    },
+    {
+      "name": "13_4_COLD_FUSION",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=AXBBmXG8nTU"
+    },
+    {
+      "name": "13_5_COUNTER-SNIPED",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=Z7MIltc0iS8"
+    },
+    {
+      "name": "13_6_TRIPLE_THREAT",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=JUQLSZ6ACv0"
+    },
+    {
+      "name": "13_7_WETWORK",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=pd-_uZFFPyU"
+    },
+    {
+      "name": "13_9_ZEALOT",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=0NOi69dAj1U"
+    },
+    {
+      "name": "15_2_MVP",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "16_2_ROADKILL_RAMPAGE",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "16_3_ROCK_AND_COIL_HIT_BACK",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "16_15_TOURIST",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "16_16_WINDOW_SHOPPING",
+      "game": "Halo: 2",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "6_9_SKULLTAKER_HALO_2_THATS_JUSTWRONG",
+      "game": "Halo: 2",
+      "level": "The Armory",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs"
+    },
+    {
+      "name": "4_18_CAIRO_STATION",
+      "game": "Halo: 2",
+      "level": "Cairo Station",
+      "videoURL": ""
+    },
+    {
+      "name": "4_31_DONT_HANGAR_AROUND",
+      "game": "Halo: 2",
+      "level": "Cairo Station",
+      "videoURL": "https://www.youtube.com/watch?v=8EfULo8tz04&list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn&index=1"
+    },
+    {
+      "name": "5_13_BOMB_SQUAD",
+      "game": "Halo: 2",
+      "level": "Cairo Station",
+      "videoURL": "https://www.youtube.com/watch?v=S9ehgYSjM64&list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl&index=1"
+    },
+    {
+      "name": "5_27_CURIOUS",
+      "game": "Halo: 2",
+      "level": "Cairo Station",
+      "videoURL": "https://youtu.be/YcegqNgBGhQ"
+    },
+    {
+      "name": "6_10_SKULLTAKER_HALO_2_THUNDERSTORM",
+      "game": "Halo: 2",
+      "level": "Cairo Station",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=69"
+    },
+    {
+      "name": "7_12_THE_CHIPS_DUBBO?",
+      "game": "Halo: 2",
+      "level": "Cairo Station",
+      "videoURL": ""
+    },
+    {
+      "name": "12_10_THE_RETURN_OF_MEGG",
+      "game": "Halo: 2",
+      "level": "Cairo Station",
+      "videoURL": "https://www.youtube.com/watch?v=EROHtvhkCSM"
+    },
+    {
+      "name": "4_19_OUTSKIRTS",
+      "game": "Halo: 2",
+      "level": "Outskirts",
+      "videoURL": ""
+    },
+    {
+      "name": "5_0_ROOFTOP_RUNNER",
+      "game": "Halo: 2",
+      "level": "Outskirts",
+      "videoURL": "https://www.youtube.com/watch?v=uaHU4e5JBv4&list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn&index=2"
+    },
+    {
+      "name": "5_14_OBJECTIVE_SECURED",
+      "game": "Halo: 2",
+      "level": "Outskirts",
+      "videoURL": "https://www.youtube.com/watch?v=7WzLY0yDoLQ&list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl&index=2"
+    },
+    {
+      "name": "5_28_INQUISITIVE",
+      "game": "Halo: 2",
+      "level": "Outskirts",
+      "videoURL": "https://youtu.be/YcegqNgBGhQ?t=33"
+    },
+    {
+      "name": "6_11_SKULLTAKER_HALO_2_BLIND",
+      "game": "Halo: 2",
+      "level": "Outskirts",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=105"
+    },
+    {
+      "name": "6_12_SKULLTAKER_HALO_2_IWHBYD",
+      "game": "Halo: 2",
+      "level": "Outskirts",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=105"
+    },
+    {
+      "name": "7_9_BETCHA_CANT_STICK_IT",
+      "game": "Halo: 2",
+      "level": "Outskirts",
+      "videoURL": "https://www.youtube.com/watch?v=pGACenxVReM"
+    },
+    {
+      "name": "7_13_REX_SWORD",
+      "game": "Halo: 2",
+      "level": "Outskirts",
+      "videoURL": "https://www.youtube.com/watch?v=LQcqqZu-35M"
+    },
+    {
+      "name": "4_20_METROPOLIS",
+      "game": "Halo: 2",
+      "level": "Metropolis",
+      "videoURL": ""
+    },
+    {
+      "name": "5_1_SPEEDING_TICKET",
+      "game": "Halo: 2",
+      "level": "Metropolis",
+      "videoURL": "https://www.youtube.com/watch?v=9uulsuevX_U&list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn&index=3"
+    },
+    {
+      "name": "5_15_RIPPLE_FIRE",
+      "game": "Halo: 2",
+      "level": "Metropolis",
+      "videoURL": "https://www.youtube.com/watch?v=uspZOl7Nkdk&list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl&index=3"
+    },
+    {
+      "name": "5_29_EXAMINER",
+      "game": "Halo: 2",
+      "level": "Metropolis",
+      "videoURL": "https://youtu.be/YcegqNgBGhQ?t=48"
+    },
+    {
+      "name": "6_13_SKULLTAKER_HALO_2_CATCH",
+      "game": "Halo: 2",
+      "level": "Metropolis",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=280"
+    },
+    {
+      "name": "7_18_E_E_E",
+      "game": "Halo: 2",
+      "level": "Metropolis",
+      "videoURL": "https://www.youtube.com/watch?v=6IG6cKDCXNs"
+    },
+    {
+      "name": "7_21_GOOOAAAAALLLL",
+      "game": "Halo: 2",
+      "level": "Metropolis",
+      "videoURL": "https://www.youtube.com/watch?v=be2SZhOB9Ik"
+    },
+    {
+      "name": "7_25_COMMUTER",
+      "game": "Halo: 2",
+      "level": "Metropolis",
+      "videoURL": "https://www.youtube.com/watch?v=pgU0v_ljHOE"
+    },
+    {
+      "name": "7_27_SCARAB_LORD",
+      "game": "Halo: 2",
+      "level": "Metropolis",
+      "videoURL": "https://www.youtube.com/watch?v=g3VTspm3xX4"
+    },
+    {
+      "name": "4_21_THE_ARBITER",
+      "game": "Halo: 2",
+      "level": "The Arbiter",
+      "videoURL": ""
+    },
+    {
+      "name": "5_2_YOLO_STRATS",
+      "game": "Halo: 2",
+      "level": "The Arbiter",
+      "videoURL": "https://www.youtube.com/watch?v=EYJxvCf_OFw&list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn&index=4"
+    },
+    {
+      "name": "5_16_HERESY_WILL_NOT_STAY_MY_FEET",
+      "game": "Halo: 2",
+      "level": "The Arbiter",
+      "videoURL": "https://www.youtube.com/watch?v=2sN7zeXSvOA&list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl&index=4"
+    },
+    {
+      "name": "5_30_INSPECTOR",
+      "game": "Halo: 2",
+      "level": "The Arbiter",
+      "videoURL": "https://youtu.be/YcegqNgBGhQ?t=62"
+    },
+    {
+      "name": "6_14_SKULLTAKER_HALO_2_GRUNT_BIRTHDAY_PARTY",
+      "game": "Halo: 2",
+      "level": "The Arbiter",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=315"
+    },
+    {
+      "name": "13_10_DIRTY_BIRD",
+      "game": "Halo: 2",
+      "level": "The Arbiter",
+      "videoURL": "https://www.youtube.com/watch?v=tDlGVVSdziw"
+    },
+    {
+      "name": "4_22_ORACLE",
+      "game": "Halo: 2",
+      "level": "The Oracle",
+      "videoURL": ""
+    },
+    {
+      "name": "5_3_REED_THE_STRATEGY",
+      "game": "Halo: 2",
+      "level": "The Oracle",
+      "videoURL": "https://www.youtube.com/watch?v=zwOyKKbDng0&list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn&index=5"
+    },
+    {
+      "name": "5_17_LEAVE_NONE_ALIVE",
+      "game": "Halo: 2",
+      "level": "The Oracle",
+      "videoURL": "https://www.youtube.com/watch?v=2-XtCS91IWo&list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl&index=5"
+    },
+    {
+      "name": "5_31_FASCINATED",
+      "game": "Halo: 2",
+      "level": "The Oracle",
+      "videoURL": "https://youtu.be/YcegqNgBGhQ?t=89"
+    },
+    {
+      "name": "6_15_SKULLTAKER_HALO_2_FAMINE",
+      "game": "Halo: 2",
+      "level": "The Oracle",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=358"
+    },
+    {
+      "name": "7_14_10_MINUTES_TOO_EARLY",
+      "game": "Halo: 2",
+      "level": "The Oracle",
+      "videoURL": "https://www.youtube.com/watch?v=BZ6_XmeSqvs"
+    },
+    {
+      "name": "4_23_DELTA_HALO",
+      "game": "Halo: 2",
+      "level": "Delta Halo",
+      "videoURL": ""
+    },
+    {
+      "name": "5_4_SO_YOU_DONT_WANT_THE_TANK",
+      "game": "Halo: 2",
+      "level": "Delta Halo",
+      "videoURL": "https://www.youtube.com/watch?v=XBYkKM-DCUM&list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn&index=6"
+    },
+    {
+      "name": "5_18_BOUNDLESS",
+      "game": "Halo: 2",
+      "level": "Delta Halo",
+      "videoURL": "https://www.youtube.com/watch?v=8xSRkRnC8IA&list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl&index=6"
+    },
+    {
+      "name": "6_0_ENCHANTED",
+      "game": "Halo: 2",
+      "level": "Delta Halo",
+      "videoURL": "https://youtu.be/YcegqNgBGhQ?t=105"
+    },
+    {
+      "name": "6_16_SKULLTAKER_HALO_2_ENVY",
+      "game": "Halo: 2",
+      "level": "Delta Halo",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=381"
+    },
+    {
+      "name": "6_25_AND_SO_IT_BEGINS",
+      "game": "Halo: 2",
+      "level": "Delta Halo",
+      "videoURL": "https://youtu.be/vIYjJtcJWLc"
+    },
+    {
+      "name": "7_26_HE_NEVER_GETS_ME_ANYTHING",
+      "game": "Halo: 2",
+      "level": "Delta Halo",
+      "videoURL": "https://www.youtube.com/watch?v=Rla7T6DUbzs"
+    },
+    {
+      "name": "4_24_REGRET",
+      "game": "Halo: 2",
+      "level": "Regret",
+      "videoURL": ""
+    },
+    {
+      "name": "5_5_I_REGRET_NOTHING",
+      "game": "Halo: 2",
+      "level": "Regret",
+      "videoURL": "https://www.youtube.com/watch?v=RPfo_x4_csQ&list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn&index=7"
+    },
+    {
+      "name": "5_19_FISTS_OF_FURY",
+      "game": "Halo: 2",
+      "level": "Regret",
+      "videoURL": "https://www.youtube.com/watch?v=txUbLTABQgI&list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl&index=7"
+    },
+    {
+      "name": "6_1_ENAMORED",
+      "game": "Halo: 2",
+      "level": "Regret",
+      "videoURL": "https://youtu.be/YcegqNgBGhQ?t=125"
+    },
+    {
+      "name": "6_17_SKULLTAKER_HALO_2_ASSASSINS",
+      "game": "Halo: 2",
+      "level": "Regret",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=423"
+    },
+    {
+      "name": "6_27_REGRETTABLE_TURN_OF_EVENTS",
+      "game": "Halo: 2",
+      "level": "Regret",
+      "videoURL": "https://youtu.be/vIYjJtcJWLc?t=147"
+    },
+    {
+      "name": "7_15_HI_BEN",
+      "game": "Halo: 2",
+      "level": "Regret",
+      "videoURL": "https://www.youtube.com/watch?v=SZBXmpuFfQ0"
+    },
+    {
+      "name": "7_22_NEEDS_MORE_WHAMMY_BAR",
+      "game": "Halo: 2",
+      "level": "Regret",
+      "videoURL": "https://www.youtube.com/watch?v=7CmpIBI8rDA"
+    },
+    {
+      "name": "4_25_SACRED_ICON",
+      "game": "Halo: 2",
+      "level": "Sacred Icon",
+      "videoURL": ""
+    },
+    {
+      "name": "5_6_TERMINAL_VELOCITY",
+      "game": "Halo: 2",
+      "level": "Sacred Icon",
+      "videoURL": "https://www.youtube.com/watch?v=6LZzHcVyaY0&list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn&index=8"
+    },
+    {
+      "name": "5_20_GUIDED_TOUR",
+      "game": "Halo: 2",
+      "level": "Sacred Icon",
+      "videoURL": "https://www.youtube.com/watch?v=4iO8k6KvyC8&list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl&index=8"
+    },
+    {
+      "name": "6_2_DETERMINED",
+      "game": "Halo: 2",
+      "level": "Sacred Icon",
+      "videoURL": "https://youtu.be/YcegqNgBGhQ?t=141"
+    },
+    {
+      "name": "6_18_SKULLTAKER_HALO_2_MYTHIC",
+      "game": "Halo: 2",
+      "level": "Sacred Icon",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=466"
+    },
+    {
+      "name": "6_28_THE_WILL_OF_THE_PROPHETS",
+      "game": "Halo: 2",
+      "level": "Sacred Icon",
+      "videoURL": "https://youtu.be/vIYjJtcJWLc?t=194"
+    },
+    {
+      "name": "4_26_QUARANTINE_ZONE",
+      "game": "Halo: 2",
+      "level": "Quarantine Zone",
+      "videoURL": ""
+    },
+    {
+      "name": "5_7_HOT_ZONE",
+      "game": "Halo: 2",
+      "level": "Quarantine Zone",
+      "videoURL": "https://www.youtube.com/watch?v=YQt8ScQdsVI&list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn&index=9"
+    },
+    {
+      "name": "5_21_THE_DOCTOR_IS_IN",
+      "game": "Halo: 2",
+      "level": "Quarantine Zone",
+      "videoURL": "https://www.youtube.com/watch?v=M3ZeiLfvzL0&list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl&index=9"
+    },
+    {
+      "name": "6_3_DELIGHTED",
+      "game": "Halo: 2",
+      "level": "Quarantine Zone",
+      "videoURL": "https://youtu.be/YcegqNgBGhQ?t=158"
+    },
+    {
+      "name": "6_19_SKULLTAKER_HALO_2_SPUTNIK",
+      "game": "Halo: 2",
+      "level": "Quarantine Zone",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=493"
+    },
+    {
+      "name": "6_29_CHIEFTAIN_OF_THE_BRUTES",
+      "game": "Halo: 2",
+      "level": "Quarantine Zone",
+      "videoURL": "https://youtu.be/vIYjJtcJWLc?t=234"
+    },
+    {
+      "name": "4_27_GRAVEMIND",
+      "game": "Halo: 2",
+      "level": "Gravemind",
+      "videoURL": ""
+    },
+    {
+      "name": "5_8_FORCE_OF_WILL",
+      "game": "Halo: 2",
+      "level": "Gravemind",
+      "videoURL": "https://www.youtube.com/watch?v=VWpSXCZlrUM&list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn&index=10"
+    },
+    {
+      "name": "5_22_OFFICIAL_BUSINESS",
+      "game": "Halo: 2",
+      "level": "Gravemind",
+      "videoURL": "https://www.youtube.com/watch?v=3nHFhreHeL4&list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl&index=10"
+    },
+    {
+      "name": "6_4_KNOWLEDGABLE",
+      "game": "Halo: 2",
+      "level": "Gravemind",
+      "videoURL": "https://youtu.be/YcegqNgBGhQ?t=185"
+    },
+    {
+      "name": "6_20_SKULLTAKER_HALO_2_ANGER",
+      "game": "Halo: 2",
+      "level": "Gravemind",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=524"
+    },
+    {
+      "name": "6_30_DONT_MAKE_A_GIRL_A_PROMISE",
+      "game": "Halo: 2",
+      "level": "Gravemind",
+      "videoURL": "https://youtu.be/vIYjJtcJWLc?t=310"
+    },
+    {
+      "name": "11_30_HES_RUNNING_A_MARATHON",
+      "game": "Halo: 2",
+      "level": "Gravemind",
+      "videoURL": "https://www.youtube.com/watch?v=HZDUsYq062U"
+    },
+    {
+      "name": "4_28_UPRISING",
+      "game": "Halo: 2",
+      "level": "Uprising",
+      "videoURL": ""
+    },
+    {
+      "name": "5_9_NO_MANS_LAND",
+      "game": "Halo: 2",
+      "level": "Uprising",
+      "videoURL": "https://www.youtube.com/watch?v=6m8cgske_A4&list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn&index=11"
+    },
+    {
+      "name": "5_23_THE_HYPE_IS_REAL",
+      "game": "Halo: 2",
+      "level": "Uprising",
+      "videoURL": "https://www.youtube.com/watch?v=vqiydztGEqg&list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl&index=11"
+    },
+    {
+      "name": "6_5_SCHOLAR",
+      "game": "Halo: 2",
+      "level": "Uprising",
+      "videoURL": "https://youtu.be/YcegqNgBGhQ?t=229"
+    },
+    {
+      "name": "6_21_SKULLTAKER_HALO_2_GHOST",
+      "game": "Halo: 2",
+      "level": "Uprising",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=561"
+    },
+    {
+      "name": "6_31_MY_WORK_IS_DONE",
+      "game": "Halo: 2",
+      "level": "Uprising",
+      "videoURL": "https://youtu.be/vIYjJtcJWLc?t=350"
+    },
+    {
+      "name": "7_10_COWARDLY_GRUNT",
+      "game": "Halo: 2",
+      "level": "Uprising",
+      "videoURL": "https://www.youtube.com/watch?v=zxqmQKiu8qE"
+    },
+    {
+      "name": "4_29_HIGH_CHARITY",
+      "game": "Halo: 2",
+      "level": "High Charity",
+      "videoURL": ""
+    },
+    {
+      "name": "5_10_FEELING_CHARITABLE",
+      "game": "Halo: 2",
+      "level": "High Charity",
+      "videoURL": "https://www.youtube.com/watch?v=fPkIsScFbQU&list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn&index=12"
+    },
+    {
+      "name": "5_24_SCORCHED_EARTH",
+      "game": "Halo: 2",
+      "level": "High Charity",
+      "videoURL": "https://www.youtube.com/watch?v=WSNNBjycj4s&list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl&index=12"
+    },
+    {
+      "name": "6_6_REVIEWER",
+      "game": "Halo: 2",
+      "level": "High Charity",
+      "videoURL": "https://youtu.be/YcegqNgBGhQ?t=240"
+    },
+    {
+      "name": "6_22_SKULLTAKER_HALO_2_IRON",
+      "game": "Halo: 2",
+      "level": "High Charity",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=607"
+    },
+    {
+      "name": "7_0_I_LIKE_CRAZY",
+      "game": "Halo: 2",
+      "level": "High Charity",
+      "videoURL": "https://youtu.be/vIYjJtcJWLc?t=450"
+    },
+    {
+      "name": "4_30_THE_GREAT_JOURNEY",
+      "game": "Halo: 2",
+      "level": "The Great Journey",
+      "videoURL": ""
+    },
+    {
+      "name": "5_11_ARE_WE_THERE_YET",
+      "game": "Halo: 2",
+      "level": "The Great Journey",
+      "videoURL": "https://www.youtube.com/watch?v=ZY62H6Q1Tz4&list=PL3bi5dIhs8VV3n_4LjkbK2J5nAJt2xVIn&index=13"
+    },
+    {
+      "name": "5_25_FREQUENT_FLYER_MILES",
+      "game": "Halo: 2",
+      "level": "The Great Journey",
+      "videoURL": "https://www.youtube.com/watch?v=FBsze20Z8Fo&list=PL3bi5dIhs8VUdZy603Bdwr8iBGFiKgGOl&index=13"
+    },
+    {
+      "name": "6_7_OBSESSED",
+      "game": "Halo: 2",
+      "level": "The Great Journey",
+      "videoURL": "https://youtu.be/YcegqNgBGhQ?t=252"
+    },
+    {
+      "name": "6_23_SKULLTAKER_HALO_2_BLACK_EYE",
+      "game": "Halo: 2",
+      "level": "The Great Journey",
+      "videoURL": "https://youtu.be/MVV5fQw2lSs?t=624"
+    },
+    {
+      "name": "7_1_PYRRHIC_SOLUTION",
+      "game": "Halo: 2",
+      "level": "The Great Journey",
+      "videoURL": "https://youtu.be/vIYjJtcJWLc?t=477"
+    },
+    {
+      "name": "14_24_TRAINING_WHEELS",
+      "game": "Halo: 3",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "9_25_PROPHETS_BANE",
+      "game": "Halo: 3",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "9_26_WITH_YOUR_SHIELD_OR_ON_IT",
+      "game": "Halo: 3",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "9_27_FINISHED_THE_FIGHT",
+      "game": "Halo: 3",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "10_15_DEVASTATING",
+      "game": "Halo: 3",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VWLm_AG_ko3jWuS_0whSAFj"
+    },
+    {
+      "name": "8_29_SPEED_DEMON",
+      "game": "Halo: 3",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VWk90AcjqyudSaaF3LY8hCB"
+    },
+    {
+      "name": "9_6_BETTER_WITH_AGE",
+      "game": "Halo: 3",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VWwtUtHq1oUt7-Ls5WZwkZM"
+    },
+    {
+      "name": "15_1_NO_STONE_UNTURNED",
+      "game": "Halo: 3",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=CWcj-ln6Dbo"
+    },
+    {
+      "name": "14_28_WITCH_DOCTOR",
+      "game": "Halo: 3",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=fXqqz2LyiKg"
+    },
+    {
+      "name": "13_16_BOOT_CAMP_HERO",
+      "game": "Halo: 3",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "13_12_AFICIANDO",
+      "game": "Halo: 3",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "13_11_A_PREFERENCE_FOR_PAIN",
+      "game": "Halo: 3",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VUqELbrA9uS4CgHu7zDGneH"
+    },
+    {
+      "name": "10_14_THIRD_TIMES_A_CHARM",
+      "game": "Halo: 3",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "16_6_ASSEMBLY_SKULL",
+      "game": "Halo: 3",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=hMJSzBZzMa4"
+    },
+    {
+      "name": "16_7_ORBITAL_SKULL",
+      "game": "Halo: 3",
+      "level": "Multiplayer",
+      "videoURL": "https://youtu.be/hMJSzBZzMa4?t=38"
+    },
+    {
+      "name": "16_8_SANDBOX_SKULL",
+      "game": "Halo: 3",
+      "level": "Multiplayer",
+      "videoURL": "https://youtu.be/hMJSzBZzMa4?t=65"
+    },
+    {
+      "name": "16_9_CITADEL_SKULL",
+      "game": "Halo: 3",
+      "level": "Multiplayer",
+      "videoURL": "https://youtu.be/hMJSzBZzMa4?t=130"
+    },
+    {
+      "name": "16_10_HERETIC_SKULL",
+      "game": "Halo: 3",
+      "level": "Multiplayer",
+      "videoURL": "https://youtu.be/hMJSzBZzMa4?t=183"
+    },
+    {
+      "name": "16_11_LONGSHORE_SKULL",
+      "game": "Halo: 3",
+      "level": "Multiplayer",
+      "videoURL": "https://youtu.be/hMJSzBZzMa4?t=204"
+    },
+    {
+      "name": "16_12_BRAINPAN",
+      "game": "Halo: 3",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=hMJSzBZzMa4"
+    },
+    {
+      "name": "10_6_SOUNDS_FAMILIAR",
+      "game": "Halo: 3",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=9npwQNZrEf4"
+    },
+    {
+      "name": "10_7_HIPPO_HERO",
+      "game": "Halo: 3",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=VfZqghlUEZA"
+    },
+    {
+      "name": "10_10_MAN_ON_THE_MOON",
+      "game": "Halo: 3",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=40UT7Xfo_xw"
+    },
+    {
+      "name": "10_13_ELDER_SIGNS",
+      "game": "Halo: 3",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=IZvCjrwvIDM"
+    },
+    {
+      "name": "16_17_WORLD_TRAVELER",
+      "game": "Halo: 3",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "16_18_JUST_BROWSING",
+      "game": "Halo: 3",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "8_11_LANDFALL",
+      "game": "Halo: 3",
+      "level": "Sierra 117",
+      "videoURL": ""
+    },
+    {
+      "name": "8_20_SPEEDY_ONE_ONE_SEVEN",
+      "game": "Halo: 3",
+      "level": "Sierra 117",
+      "videoURL": "https://www.youtube.com/watch?v=4Zkf9vD9Dnc&list=PL3bi5dIhs8VWk90AcjqyudSaaF3LY8hCB&index=1"
+    },
+    {
+      "name": "8_30_GUERILLA",
+      "game": "Halo: 3",
+      "level": "Sierra 117",
+      "videoURL": "https://www.youtube.com/watch?v=00PtBp_lOjI&list=PL3bi5dIhs8VWwtUtHq1oUt7-Ls5WZwkZM&index=1"
+    },
+    {
+      "name": "9_16_SKULLTAKER_HALO_3_IRON",
+      "game": "Halo: 3",
+      "level": "Sierra 117",
+      "videoURL": "https://youtu.be/fXqqz2LyiKg"
+    },
+    {
+      "name": "14_29_SKULLTAKER_HALO_3_BLIND",
+      "game": "Halo: 3",
+      "level": "Sierra 117",
+      "videoURL": "https://youtu.be/fXqqz2LyiKg?t=40"
+    },
+    {
+      "name": "10_1_PRIMATE",
+      "game": "Halo: 3",
+      "level": "Sierra 117",
+      "videoURL": "https://youtu.be/PgX_Z3exX6I?t=42"
+    },
+    {
+      "name": "10_2_HAPLORRHINI",
+      "game": "Halo: 3",
+      "level": "Sierra 117",
+      "videoURL": "https://youtu.be/PgX_Z3exX6I?t=98"
+    },
+    {
+      "name": "12_14_MISSING_LINK",
+      "game": "Halo: 3",
+      "level": "Sierra 117",
+      "videoURL": "https://youtu.be/PgX_Z3exX6I"
+    },
+    {
+      "name": "10_3_CANT_KEEP_HIM_DOWN",
+      "game": "Halo: 3",
+      "level": "Sierra 117",
+      "videoURL": ""
+    },
+    {
+      "name": "10_4_FLIPYAP",
+      "game": "Halo: 3",
+      "level": "Sierra 117",
+      "videoURL": "https://www.youtube.com/watch?v=VBvsi3Hf-9g"
+    },
+    {
+      "name": "8_12_HOLDOUT",
+      "game": "Halo: 3",
+      "level": "Crows Nest",
+      "videoURL": ""
+    },
+    {
+      "name": "8_21_TIME_SHIFT",
+      "game": "Halo: 3",
+      "level": "Crows Nest",
+      "videoURL": "https://www.youtube.com/watch?v=NBSQnP33XN0&list=PL3bi5dIhs8VWk90AcjqyudSaaF3LY8hCB&index=2"
+    },
+    {
+      "name": "14_27_KING_OF_THE_CROWS",
+      "game": "Halo: 3",
+      "level": "Crows Nest",
+      "videoURL": "https://www.youtube.com/watch?v=7I9pXhXoRKs&list=PL3bi5dIhs8VWwtUtHq1oUt7-Ls5WZwkZM&index=2"
+    },
+    {
+      "name": "9_17_SKULLTAKER_HALO_3_BLACK_EYE",
+      "game": "Halo: 3",
+      "level": "Crows Nest",
+      "videoURL": "https://youtu.be/fXqqz2LyiKg?t=68"
+    },
+    {
+      "name": "14_30_SKULLTAKER_HALO_3_GRUNT_BIRTHDAY_PARTY",
+      "game": "Halo: 3",
+      "level": "Crows Nest",
+      "videoURL": "https://youtu.be/fXqqz2LyiKg?t=87"
+    },
+    {
+      "name": "8_13_THE_ROAD",
+      "game": "Halo: 3",
+      "level": "Tsavo Highway",
+      "videoURL": ""
+    },
+    {
+      "name": "8_22_HIGHWAY_ROBBERY",
+      "game": "Halo: 3",
+      "level": "Tsavo Highway",
+      "videoURL": "https://www.youtube.com/watch?v=_NfT9_skVVc&list=PL3bi5dIhs8VWk90AcjqyudSaaF3LY8hCB&index=3"
+    },
+    {
+      "name": "8_31_CAVALIER",
+      "game": "Halo: 3",
+      "level": "Tsavo Highway",
+      "videoURL": "https://www.youtube.com/watch?v=w4QKpT3HcwM&list=PL3bi5dIhs8VWwtUtHq1oUt7-Ls5WZwkZM&index=3"
+    },
+    {
+      "name": "9_18_SKULLTAKER_HALO_3_TOUGH_LUCK",
+      "game": "Halo: 3",
+      "level": "Tsavo Highway",
+      "videoURL": "https://youtu.be/fXqqz2LyiKg?t=105"
+    },
+    {
+      "name": "9_28_BEGINS_WITH_A_SINGLE_STEP",
+      "game": "Halo: 3",
+      "level": "Tsavo Highway",
+      "videoURL": "https://www.youtube.com/watch?v=VcBYirl3nZY"
+    },
+    {
+      "name": "12_1_MIND_THE_GAP",
+      "game": "Halo: 3",
+      "level": "Tsavo Highway",
+      "videoURL": "https://www.youtube.com/watch?v=K0pzoS1X91Y"
+    },
+    {
+      "name": "8_14_ASSAULT",
+      "game": "Halo: 3",
+      "level": "The Storm",
+      "videoURL": ""
+    },
+    {
+      "name": "8_23_LIGHTNING_STRIKE",
+      "game": "Halo: 3",
+      "level": "The Storm",
+      "videoURL": "https://www.youtube.com/watch?v=43clSLhld98&list=PL3bi5dIhs8VWk90AcjqyudSaaF3LY8hCB&index=4"
+    },
+    {
+      "name": "9_0_ASKAR",
+      "game": "Halo: 3",
+      "level": "The Storm",
+      "videoURL": "https://www.youtube.com/watch?v=9u50rlpM6oU&list=PL3bi5dIhs8VWwtUtHq1oUt7-Ls5WZwkZM&index=4"
+    },
+    {
+      "name": "9_19_SKULLTAKER_HALO_3_CATCH",
+      "game": "Halo: 3",
+      "level": "The Storm",
+      "videoURL": "https://youtu.be/fXqqz2LyiKg?t=133"
+    },
+    {
+      "name": "8_15_CLEANSING",
+      "game": "Halo: 3",
+      "level": "Floodgate",
+      "videoURL": ""
+    },
+    {
+      "name": "8_24_DAMBUSTER",
+      "game": "Halo: 3",
+      "level": "Floodgate",
+      "videoURL": "https://www.youtube.com/watch?v=wribn_x4BO4&list=PL3bi5dIhs8VWk90AcjqyudSaaF3LY8hCB&index=5"
+    },
+    {
+      "name": "9_1_EXTERMINATOR",
+      "game": "Halo: 3",
+      "level": "Floodgate",
+      "videoURL": "https://www.youtube.com/watch?v=1C8aLIuDPFE&list=PL3bi5dIhs8VWwtUtHq1oUt7-Ls5WZwkZM&index=5"
+    },
+    {
+      "name": "9_20_SKULLTAKER_HALO_3_FOG",
+      "game": "Halo: 3",
+      "level": "Floodgate",
+      "videoURL": "https://youtu.be/fXqqz2LyiKg?t=176"
+    },
+    {
+      "name": "10_8_MILK_CARTON",
+      "game": "Halo: 3",
+      "level": "Floodgate",
+      "videoURL": "https://www.youtube.com/watch?v=Ty-yLSKKQSo"
+    },
+    {
+      "name": "8_16_REFUGE",
+      "game": "Halo: 3",
+      "level": "The Ark",
+      "videoURL": ""
+    },
+    {
+      "name": "8_25_WAYPOINT",
+      "game": "Halo: 3",
+      "level": "The Ark",
+      "videoURL": "https://www.youtube.com/watch?v=tSYtqIBETw4&list=PL3bi5dIhs8VWk90AcjqyudSaaF3LY8hCB&index=6"
+    },
+    {
+      "name": "9_2_RANGER",
+      "game": "Halo: 3",
+      "level": "The Ark",
+      "videoURL": "https://www.youtube.com/watch?v=91ofc9CneTU&list=PL3bi5dIhs8VWwtUtHq1oUt7-Ls5WZwkZM&index=6"
+    },
+    {
+      "name": "9_7_RISING_WATERS",
+      "game": "Halo: 3",
+      "level": "The Ark",
+      "videoURL": "https://youtu.be/CWcj-ln6Dbo"
+    },
+    {
+      "name": "9_8_INUNDATION",
+      "game": "Halo: 3",
+      "level": "The Ark",
+      "videoURL": "https://youtu.be/CWcj-ln6Dbo?t=58"
+    },
+    {
+      "name": "9_9_BEFORE_THE_FIRE",
+      "game": "Halo: 3",
+      "level": "The Ark",
+      "videoURL": "https://youtu.be/CWcj-ln6Dbo?t=76"
+    },
+    {
+      "name": "9_21_SKULLTAKER_HALO_3_FAMINE",
+      "game": "Halo: 3",
+      "level": "The Ark",
+      "videoURL": "https://youtu.be/fXqqz2LyiKg?t=195"
+    },
+    {
+      "name": "14_31_SKULLTAKER_HALO_3_COWBELL",
+      "game": "Halo: 3",
+      "level": "The Ark",
+      "videoURL": "https://youtu.be/fXqqz2LyiKg?t=231"
+    },
+    {
+      "name": "9_29_WHO_NEEDS_THEM?",
+      "game": "Halo: 3",
+      "level": "The Ark",
+      "videoURL": "https://www.youtube.com/watch?v=QaCBm8hPSgo"
+    },
+    {
+      "name": "8_17_LAST_STAND",
+      "game": "Halo: 3",
+      "level": "The Covenant",
+      "videoURL": ""
+    },
+    {
+      "name": "8_26_SCARAB_SLIDE",
+      "game": "Halo: 3",
+      "level": "The Covenant",
+      "videoURL": "https://www.youtube.com/watch?v=8WcMiNaTASM&list=PL3bi5dIhs8VWk90AcjqyudSaaF3LY8hCB&index=7"
+    },
+    {
+      "name": "9_3_VANGUARD",
+      "game": "Halo: 3",
+      "level": "The Covenant",
+      "videoURL": "https://www.youtube.com/watch?v=v5vPHVutkgU&list=PL3bi5dIhs8VWwtUtHq1oUt7-Ls5WZwkZM&index=7"
+    },
+    {
+      "name": "9_10_TIPPING_POINT",
+      "game": "Halo: 3",
+      "level": "The Covenant",
+      "videoURL": "https://youtu.be/CWcj-ln6Dbo?t=89"
+    },
+    {
+      "name": "9_11_UNTO_DUST",
+      "game": "Halo: 3",
+      "level": "The Covenant",
+      "videoURL": "https://youtu.be/CWcj-ln6Dbo?t=106"
+    },
+    {
+      "name": "9_12_BABBLING_DEAD",
+      "game": "Halo: 3",
+      "level": "The Covenant",
+      "videoURL": "https://youtu.be/CWcj-ln6Dbo?t=125"
+    },
+    {
+      "name": "9_22_SKULLTAKER_HALO_3_THUNDERSTORM",
+      "game": "Halo: 3",
+      "level": "The Covenant",
+      "videoURL": "https://youtu.be/fXqqz2LyiKg?t=274"
+    },
+    {
+      "name": "15_0_SKULLTAKER_HALO_3_IWHBYD",
+      "game": "Halo: 3",
+      "level": "The Covenant",
+      "videoURL": "https://youtu.be/fXqqz2LyiKg?t=301"
+    },
+    {
+      "name": "9_30_PHANTOM_HUNTER",
+      "game": "Halo: 3",
+      "level": "The Covenant",
+      "videoURL": "https://www.youtube.com/watch?v=t2E0pmWAhAo"
+    },
+    {
+      "name": "10_0_DIRGE_OF_MADRIGAL",
+      "game": "Halo: 3",
+      "level": "The Covenant",
+      "videoURL": "https://www.youtube.com/watch?v=NdYmeAYjBnU"
+    },
+    {
+      "name": "8_18_THE_KEY",
+      "game": "Halo: 3",
+      "level": "Cortana",
+      "videoURL": ""
+    },
+    {
+      "name": "8_27_MAKING_HISTORY",
+      "game": "Halo: 3",
+      "level": "Cortana",
+      "videoURL": "https://www.youtube.com/watch?v=0XvM2SqK3yY&list=PL3bi5dIhs8VWk90AcjqyudSaaF3LY8hCB&index=8"
+    },
+    {
+      "name": "9_4_ORPHEUS",
+      "game": "Halo: 3",
+      "level": "Cortana",
+      "videoURL": "https://www.youtube.com/watch?v=a5G-b1Q8NR8&list=PL3bi5dIhs8VWwtUtHq1oUt7-Ls5WZwkZM&index=8"
+    },
+    {
+      "name": "9_23_SKULLTAKER_HALO_3_TILT",
+      "game": "Halo: 3",
+      "level": "Cortana",
+      "videoURL": "https://youtu.be/fXqqz2LyiKg?t=388"
+    },
+    {
+      "name": "9_14_THE_COINS_FAULT",
+      "game": "Halo: 3",
+      "level": "Cortana",
+      "videoURL": "https://www.youtube.com/watch?v=ZTST50OiI24"
+    },
+    {
+      "name": "8_19_RETURN",
+      "game": "Halo: 3",
+      "level": "Halo",
+      "videoURL": ""
+    },
+    {
+      "name": "8_28_GO_CHIEF_GUN_IT",
+      "game": "Halo: 3",
+      "level": "Halo",
+      "videoURL": "https://www.youtube.com/watch?v=QFuyYkD_JDQ&list=PL3bi5dIhs8VWk90AcjqyudSaaF3LY8hCB&index=9"
+    },
+    {
+      "name": "9_5_TORCHBEARER",
+      "game": "Halo: 3",
+      "level": "Halo",
+      "videoURL": "https://www.youtube.com/watch?v=1gyhCuwZt-A&list=PL3bi5dIhs8VWwtUtHq1oUt7-Ls5WZwkZM&index=9"
+    },
+    {
+      "name": "9_13_SWORD_AND_SHIELD",
+      "game": "Halo: 3",
+      "level": "Halo",
+      "videoURL": "https://youtu.be/CWcj-ln6Dbo?t=136"
+    },
+    {
+      "name": "9_15_WHISPERS_ACROSS_THE_GALAXY",
+      "game": "Halo: 3",
+      "level": "Halo",
+      "videoURL": ""
+    },
+    {
+      "name": "9_24_SKULLTAKER_HALO_3_MYTHIC",
+      "game": "Halo: 3",
+      "level": "Halo",
+      "videoURL": "https://youtu.be/fXqqz2LyiKg?t=412"
+    },
+    {
+      "name": "9_31_ANNUAL",
+      "game": "Halo: 3",
+      "level": "Halo",
+      "videoURL": ""
+    },
+    {
+      "name": "10_5_HEADING_TO_HIS_DESTINY",
+      "game": "Halo: 3",
+      "level": "Halo",
+      "videoURL": "https://www.youtube.com/watch?v=0MlGMcVseZw"
+    },
+    {
+      "name": "10_9_COOL_STORY_BRO",
+      "game": "Halo: 3",
+      "level": "Halo",
+      "videoURL": "https://www.youtube.com/watch?v=__2TlWPe_Ac"
+    },
+    {
+      "name": "14_25_LIBRARIANS_GIFT",
+      "game": "Halo: 4",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "11_18_WAKE_UP_JOHN",
+      "game": "Halo: 4",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "11_19_I_NEED_A_HERO",
+      "game": "Halo: 4",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "11_20_THE_LEGEND_OF_117",
+      "game": "Halo: 4",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "11_21_LONE_WOLF_LEGEND",
+      "game": "Halo: 4",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "11_0_EASY_AS_ONE_TWO_THREE",
+      "game": "Halo: 4",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "11_9_YOU_HAD_IT_COMING",
+      "game": "Halo: 4",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "11_17_TERMINUS",
+      "game": "Halo: 4",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "13_21_CHEST_OF_GOLD",
+      "game": "Halo: 4",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "13_14_DEVOTEE",
+      "game": "Halo: 4",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "13_13_NAKED_TYRANT",
+      "game": "Halo: 4",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "11_29_YOURE_JOKING",
+      "game": "Halo: 4",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "11_28_A_LONG_TIME_AGO",
+      "game": "Halo: 4",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "16_19_GOING_INTERNATIONAL",
+      "game": "Halo: 4",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "16_20_TASTE_TEST",
+      "game": "Halo: 4",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "15_3_OPERATION_COMPLETION",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_15_TERM_OF_ENLISTMENT",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_16_HAZARD_PAY",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_17_ICARUS",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_18_SMOOTH_OPERATOR",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_4_DEPARTURE",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_5_ARTIFACT",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_6_CATHERINE",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_7_DIDACTS_HAND",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_8_MEMENTO_MORI",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_9_SCATTERED",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_10_INVASION",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_11_EXPENDABLE",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_12_KEY",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_13_EXODUS",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_14_FEET_FIRST",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_19_ROSES_VS_VIOLETS",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_20_NO_ONE_LEFT_BEHIND",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_21_KNIGHT_IN_WHITE_ASSASSINATION",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_22_WHAT_POWER_OUTAGE?",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "15_23_NO_EASY_WAY_OUT",
+      "game": "Halo: 4",
+      "level": "Spartan Ops",
+      "videoURL": ""
+    },
+    {
+      "name": "10_16_DAWN",
+      "game": "Halo: 4",
+      "level": "Dawn",
+      "videoURL": ""
+    },
+    {
+      "name": "10_24_PIECE_OF_CAKE",
+      "game": "Halo: 4",
+      "level": "Dawn",
+      "videoURL": ""
+    },
+    {
+      "name": "11_1_GUNSLINGER",
+      "game": "Halo: 4",
+      "level": "Dawn",
+      "videoURL": ""
+    },
+    {
+      "name": "12_13_DIGGING_UP_THE_PAST",
+      "game": "Halo: 4",
+      "level": "Dawn",
+      "videoURL": ""
+    },
+    {
+      "name": "10_17_REQUIEM",
+      "game": "Halo: 4",
+      "level": "Requiem",
+      "videoURL": ""
+    },
+    {
+      "name": "10_25_INTERLOPER",
+      "game": "Halo: 4",
+      "level": "Requiem",
+      "videoURL": ""
+    },
+    {
+      "name": "11_2_DARK_FORTRESS",
+      "game": "Halo: 4",
+      "level": "Requiem",
+      "videoURL": ""
+    },
+    {
+      "name": "11_10_WAR",
+      "game": "Halo: 4",
+      "level": "Requiem",
+      "videoURL": ""
+    },
+    {
+      "name": "10_18_FORERUNNER",
+      "game": "Halo: 4",
+      "level": "Forerunner",
+      "videoURL": ""
+    },
+    {
+      "name": "10_26_RAGING_IN_THE_DARK",
+      "game": "Halo: 4",
+      "level": "Forerunner",
+      "videoURL": ""
+    },
+    {
+      "name": "11_3_SHADOW_OF_SUNDERED_STAR",
+      "game": "Halo: 4",
+      "level": "Forerunner",
+      "videoURL": ""
+    },
+    {
+      "name": "11_11_LORD_OF_ADMIRALS",
+      "game": "Halo: 4",
+      "level": "Forerunner",
+      "videoURL": ""
+    },
+    {
+      "name": "11_22_THIS_IS_MY_RIFLE_THIS_IS_MY_GUN",
+      "game": "Halo: 4",
+      "level": "Forerunner",
+      "videoURL": ""
+    },
+    {
+      "name": "10_19_INFINITY",
+      "game": "Halo: 4",
+      "level": "Infinity",
+      "videoURL": ""
+    },
+    {
+      "name": "10_27_OUROBOROS",
+      "game": "Halo: 4",
+      "level": "Infinity",
+      "videoURL": ""
+    },
+    {
+      "name": "11_4_JUNGLE_WARFARE",
+      "game": "Halo: 4",
+      "level": "Infinity",
+      "videoURL": ""
+    },
+    {
+      "name": "11_12_CHARUM_HAKKOR",
+      "game": "Halo: 4",
+      "level": "Infinity",
+      "videoURL": ""
+    },
+    {
+      "name": "11_23_BROS_TO_THE_CLOSE",
+      "game": "Halo: 4",
+      "level": "Infinity",
+      "videoURL": ""
+    },
+    {
+      "name": "10_20_RECLAIMER",
+      "game": "Halo: 4",
+      "level": "Reclaimer",
+      "videoURL": ""
+    },
+    {
+      "name": "10_28_GIMME_THAT",
+      "game": "Halo: 4",
+      "level": "Reclaimer",
+      "videoURL": ""
+    },
+    {
+      "name": "11_5_LIBRARIANS_PET",
+      "game": "Halo: 4",
+      "level": "Reclaimer",
+      "videoURL": ""
+    },
+    {
+      "name": "11_13_FLOOD",
+      "game": "Halo: 4",
+      "level": "Reclaimer",
+      "videoURL": ""
+    },
+    {
+      "name": "12_7_MORTARDOM",
+      "game": "Halo: 4",
+      "level": "Reclaimer",
+      "videoURL": ""
+    },
+    {
+      "name": "10_21_SHUTDOWN",
+      "game": "Halo: 4",
+      "level": "Shutdown",
+      "videoURL": ""
+    },
+    {
+      "name": "10_29_SHUT_DOWN_EVERYTHING",
+      "game": "Halo: 4",
+      "level": "Shutdown",
+      "videoURL": ""
+    },
+    {
+      "name": "11_6_EMERGENCY_SHUTDOWN",
+      "game": "Halo: 4",
+      "level": "Shutdown",
+      "videoURL": ""
+    },
+    {
+      "name": "11_14_KNIGHTS",
+      "game": "Halo: 4",
+      "level": "Shutdown",
+      "videoURL": ""
+    },
+    {
+      "name": "11_24_EXPLORE_THE_FLOOR",
+      "game": "Halo: 4",
+      "level": "Shutdown",
+      "videoURL": ""
+    },
+    {
+      "name": "10_22_COMPOSER",
+      "game": "Halo: 4",
+      "level": "Composer",
+      "videoURL": ""
+    },
+    {
+      "name": "10_30_SYMPHONY_OF_PAIN",
+      "game": "Halo: 4",
+      "level": "Composer",
+      "videoURL": ""
+    },
+    {
+      "name": "11_7_HEAD_BANGING",
+      "game": "Halo: 4",
+      "level": "Composer",
+      "videoURL": ""
+    },
+    {
+      "name": "11_15_JUSTICE",
+      "game": "Halo: 4",
+      "level": "Composer",
+      "videoURL": ""
+    },
+    {
+      "name": "11_25_GIVE_HIM_THE_STICK",
+      "game": "Halo: 4",
+      "level": "Composer",
+      "videoURL": ""
+    },
+    {
+      "name": "11_27_YOURE_NO_CHIPS",
+      "game": "Halo: 4",
+      "level": "Composer",
+      "videoURL": ""
+    },
+    {
+      "name": "10_23_MIDNIGHT",
+      "game": "Halo: 4",
+      "level": "Midnight",
+      "videoURL": ""
+    },
+    {
+      "name": "10_31_COUNTDOWN",
+      "game": "Halo: 4",
+      "level": "Midnight",
+      "videoURL": ""
+    },
+    {
+      "name": "11_8_WITCHING_HOUR",
+      "game": "Halo: 4",
+      "level": "Midnight",
+      "videoURL": ""
+    },
+    {
+      "name": "11_16_CRYPTUM",
+      "game": "Halo: 4",
+      "level": "Midnight",
+      "videoURL": ""
+    },
+    {
+      "name": "11_26_CHIEF_SMASH",
+      "game": "Halo: 4",
+      "level": "Midnight",
+      "videoURL": ""
+    },
+    {
+      "name": "17_21_ROOKIE",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "17_22_URBAN_WARFARE_BADGE",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "17_23_FIRST_IN_LAST_OUT",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "17_24_MEAN_STREETS_OF_NEW_MOMBASA",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "18_16_CANT_STOP_HERE_THIS_IS_BRUTE_COUNTRY",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VX6glPSqXBN-RLZbkwcyU7v"
+    },
+    {
+      "name": "18_25_THE_MARINE_CORPS_GIVES_ITS_REGARDS",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VUT6Ja1UIg4skxEtRDOIZx-"
+    },
+    {
+      "name": "17_31_RECORD_STORE_OWNER",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=0xS94h06ZjA"
+    },
+    {
+      "name": "18_30_NEXT",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "18_29_TRIFECTA",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": ""
+    },
+    {
+      "name": "18_28_SAFETY_NOT_GUARANTEED",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VUtitEn3gOA8ZcoUHdnj4sc"
+    },
+    {
+      "name": "18_31_NAGATO_MAKES_MOVING_EASY",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VVMmjQ9RRskVlQiH_1pZcTy"
+    },
+    {
+      "name": "19_4_CLASSIC",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=gGcOSNfdK6Y"
+    },
+    {
+      "name": "19_7_BIP_BAP_BAM",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=xgoPbP2bFmo"
+    },
+    {
+      "name": "19_8_PINEAPPLE_EXPRESS",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=rkShWToFpBQ"
+    },
+    {
+      "name": "19_10_DOES_WHATEVER_A_SPARTAN_CAN",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=ehM_UV-8-OM"
+    },
+    {
+      "name": "19_13_ONE_WAY_RIDE",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=xZEai_DImoI"
+    },
+    {
+      "name": "19_14_JUST_SAYIN_I_AINT_DEAD",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=xZEai_DImoI"
+    },
+    {
+      "name": "19_15_DEFERENCE_OF_DARKNESS",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=gGcOSNfdK6Y"
+    },
+    {
+      "name": "19_23_XENOPHOBIA",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=YB5iY3uhaso"
+    },
+    {
+      "name": "18_27_DO_YOU_REMEMBER_WHEN_WE_MET",
+      "game": "Halo: 3 ODST",
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=RsJd1UkHSdA"
+    },
+    {
+      "name": "16_23_LISTENER",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "16_24_AN_EAR_FULL",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "16_25_TUNED_IN",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "16_26_DO_TELL",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "16_27_HEAR_ME_OUT",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "16_28_EAVESDROPPING",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "16_29_AUDITOR",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "16_30_OVERHEARD",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "16_31_WIRETAPPING",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_0_MONITORED",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_1_HANG_ONTO_MY_WORDS",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_2_GIVE_HEED",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_3_GET_A_LOAD",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_4_SNOOP_TROOP",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_5_ALL_EARS",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_6_EAR_BENDER",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_7_PLUGGED_IN",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_8_ATTENTIVE",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_9_WATCHFUL",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_10_OBSERVANT",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_11_SCOUT",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_12_ADVENTURER",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_13_SPOTTER",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_14_CONSIDERATE",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_15_ON_YOUR_TOES",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_16_ARCHIVIST",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_17_YOUR_ATTENTION_PLEASE",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_18_CATCHING_ON",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_19_WISENING_UP",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "static/images/recordStoreOwner.png"
+    },
+    {
+      "name": "17_25_JUNIOR_DETECTIVE",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": ""
+    },
+    {
+      "name": "17_26_INVESTIGATOR",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": ""
+    },
+    {
+      "name": "17_27_GUMSHOE",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": ""
+    },
+    {
+      "name": "17_28_BLOODHOUND",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": ""
+    },
+    {
+      "name": "17_29_PRIVATE_EYE",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": ""
+    },
+    {
+      "name": "17_30_SECRET_AGENT",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": ""
+    },
+    {
+      "name": "19_3_SATURDAY_MORNING_CARTOON",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "https://www.youtube.com/watch?v=udQkGN_Igyo"
+    },
+    {
+      "name": "19_5_CATCH_EM_NAPPING",
+      "game": "Halo: 3 ODST",
+      "level": "Mombasa Streets",
+      "videoURL": "https://www.youtube.com/watch?v=KL4aXm4Y0-0"
+    },
+    {
+      "name": "18_0_TAYARI_PLAZA",
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza",
+      "videoURL": ""
+    },
+    {
+      "name": "18_8_BILL_PAST_DUE",
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza",
+      "videoURL": "https://www.youtube.com/watch?v=4w7PMFghKTA&list=PL3bi5dIhs8VX6glPSqXBN-RLZbkwcyU7v&index=1"
+    },
+    {
+      "name": "18_17_SURVEY_SAYS",
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza",
+      "videoURL": "https://www.youtube.com/watch?v=nF8U1HssQZU&list=PL3bi5dIhs8VUT6Ja1UIg4skxEtRDOIZx-&index=1"
+    },
+    {
+      "name": "19_16_THOSE_LEFT_BEHIND",
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza",
+      "videoURL": "https://www.youtube.com/watch?v=Nk5lgJMz-V0"
+    },
+    {
+      "name": "19_22_TWO_PLACES_SAME_TIME",
+      "game": "Halo: 3 ODST",
+      "level": "Tayari Plaza",
+      "videoURL": "https://www.youtube.com/watch?v=JGktIR8QAcg"
+    },
+    {
+      "name": "18_1_UPLIFT_RESERVE",
+      "game": "Halo: 3 ODST",
+      "level": "Uplift Reserve",
+      "videoURL": ""
+    },
+    {
+      "name": "18_9_FLOOR_IT",
+      "game": "Halo: 3 ODST",
+      "level": "Uplift Reserve",
+      "videoURL": "https://www.youtube.com/watch?v=-wzXdcO8OnY&list=PL3bi5dIhs8VX6glPSqXBN-RLZbkwcyU7v&index=2"
+    },
+    {
+      "name": "18_18_DONT_STRAIN_YOUR_METAPHORS",
+      "game": "Halo: 3 ODST",
+      "level": "Uplift Reserve",
+      "videoURL": "https://www.youtube.com/watch?v=lmljOkXBQR4&list=PL3bi5dIhs8VUT6Ja1UIg4skxEtRDOIZx-&index=2"
+    },
+    {
+      "name": "18_2_KIZINGO_BOULEVARD",
+      "game": "Halo: 3 ODST",
+      "level": "Kizingo Boulevard",
+      "videoURL": ""
+    },
+    {
+      "name": "18_10_AN_ARTISTS_CANVAS",
+      "game": "Halo: 3 ODST",
+      "level": "Kizingo Boulevard",
+      "videoURL": "https://www.youtube.com/watch?v=UgW9VO0MjjU&list=PL3bi5dIhs8VX6glPSqXBN-RLZbkwcyU7v&index=3"
+    },
+    {
+      "name": "18_19_SON_OF_A_GUN",
+      "game": "Halo: 3 ODST",
+      "level": "Kizingo Boulevard",
+      "videoURL": "https://www.youtube.com/watch?v=KL2DcW4GYy0&list=PL3bi5dIhs8VUT6Ja1UIg4skxEtRDOIZx-&index=3"
+    },
+    {
+      "name": "19_19_SHINY_",
+      "game": "Halo: 3 ODST",
+      "level": "Kizingo Boulevard",
+      "videoURL": "https://www.youtube.com/watch?v=WBuTzt4T-QY"
+    },
+    {
+      "name": "18_3_ONI_ALPHA_SITE",
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site",
+      "videoURL": ""
+    },
+    {
+      "name": "18_11_A_PLEASANT_TRIP",
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site",
+      "videoURL": "https://www.youtube.com/watch?v=lkIc2IAfvsk&list=PL3bi5dIhs8VX6glPSqXBN-RLZbkwcyU7v&index=4"
+    },
+    {
+      "name": "18_20_I_LOVE_MY_JOB",
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site",
+      "videoURL": "https://www.youtube.com/watch?v=CTfx69m-YK8&list=PL3bi5dIhs8VUT6Ja1UIg4skxEtRDOIZx-&index=4"
+    },
+    {
+      "name": "19_9_FOWL_HUNT",
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site",
+      "videoURL": "https://www.youtube.com/watch?v=NsmOIxG5Fbo"
+    },
+    {
+      "name": "19_21_WHAT_ABOUT_THOSE_TANKS?",
+      "game": "Halo: 3 ODST",
+      "level": "ONI Alpha Site",
+      "videoURL": "https://www.youtube.com/watch?v=xktHg1SDOhA"
+    },
+    {
+      "name": "18_4_NMPD_HQ",
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ",
+      "videoURL": ""
+    },
+    {
+      "name": "18_12_FIRST_STOP_ANYWHERE_BUT_HERE",
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ",
+      "videoURL": "https://www.youtube.com/watch?v=3TAgQtfaoLk&list=PL3bi5dIhs8VX6glPSqXBN-RLZbkwcyU7v&index=5"
+    },
+    {
+      "name": "18_21_POUR_IT_ON",
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ",
+      "videoURL": "https://www.youtube.com/watch?v=xE8L-8NGaBg&list=PL3bi5dIhs8VUT6Ja1UIg4skxEtRDOIZx-&index=5"
+    },
+    {
+      "name": "19_2_VANDALIZED",
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ",
+      "videoURL": "https://www.youtube.com/watch?v=11RewJcg6io"
+    },
+    {
+      "name": "19_20_BITS_AND_PIECES",
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ",
+      "videoURL": "https://www.youtube.com/watch?v=EgQnqVrS90s"
+    },
+    {
+      "name": "19_17_SHOOT_AND_SCOOT",
+      "game": "Halo: 3 ODST",
+      "level": "NMPD HQ",
+      "videoURL": "https://www.youtube.com/watch?v=DfEC4H6aV9I"
+    },
+    {
+      "name": "18_5_KIKOWANI_STATION",
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station",
+      "videoURL": ""
+    },
+    {
+      "name": "18_13_FEET_DONT_FAIL_ME_NOW",
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station",
+      "videoURL": "https://www.youtube.com/watch?v=dICqp_ilnUI&list=PL3bi5dIhs8VX6glPSqXBN-RLZbkwcyU7v&index=6"
+    },
+    {
+      "name": "18_22_SQUID_JACKPOT",
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station",
+      "videoURL": "https://www.youtube.com/watch?v=_k-HdiWN2jc&list=PL3bi5dIhs8VUT6Ja1UIg4skxEtRDOIZx-&index=6"
+    },
+    {
+      "name": "16_21_NAUGHTY_NAUGHTY",
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station",
+      "videoURL": "https://www.youtube.com/watch?v=A5kRaeCZ134"
+    },
+    {
+      "name": "16_22_WELLMAYBE_ONE_OR_TWO",
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station",
+      "videoURL": "https://www.youtube.com/watch?v=A5kRaeCZ134"
+    },
+    {
+      "name": "19_18_FAST_AND_LOW",
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station",
+      "videoURL": "https://www.youtube.com/watch?v=jGnrachSVwM"
+    },
+    {
+      "name": "19_1_LIKE_A_BROKEN_RECORD",
+      "game": "Halo: 3 ODST",
+      "level": "Kikowani Station",
+      "videoURL": "https://www.youtube.com/watch?v=qR47axrYQcE"
+    },
+    {
+      "name": "18_6_DATA_HIVE",
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive",
+      "videoURL": ""
+    },
+    {
+      "name": "18_14_OVERTAKEN_BY_EVENTS",
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive",
+      "videoURL": "https://www.youtube.com/watch?v=Ead515UF0eM&list=PL3bi5dIhs8VX6glPSqXBN-RLZbkwcyU7v&index=7"
+    },
+    {
+      "name": "18_23_MAGIC_TOUCH",
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive",
+      "videoURL": "https://www.youtube.com/watch?v=5iWviWZAA_w&list=PL3bi5dIhs8VUT6Ja1UIg4skxEtRDOIZx-&index=7"
+    },
+    {
+      "name": "17_20_AUDIOPHILE",
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive",
+      "videoURL": "https://youtu.be/0xS94h06ZjA?t=1081"
+    },
+    {
+      "name": "19_11_FIREFLY",
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive",
+      "videoURL": "https://www.youtube.com/watch?v=rkShWToFpBQ"
+    },
+    {
+      "name": "19_6_STRONG_SILENT_TYPE",
+      "game": "Halo: 3 ODST",
+      "level": "Data Hive",
+      "videoURL": "https://www.youtube.com/watch?v=8uCuiPpzz4Y"
+    },
+    {
+      "name": "18_7_COASTAL_HIGHWAY",
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway",
+      "videoURL": ""
+    },
+    {
+      "name": "18_15_DOUBLE_TIME",
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway",
+      "videoURL": "https://www.youtube.com/user/HaloCompletionist"
+    },
+    {
+      "name": "18_24_THIS_OLIPHANT_HAS_NO_BRAKES",
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway",
+      "videoURL": "https://www.youtube.com/watch?v=q9EXHxucf_w&list=PL3bi5dIhs8VUT6Ja1UIg4skxEtRDOIZx-&index=8"
+    },
+    {
+      "name": "18_26_DEJA_VU",
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway",
+      "videoURL": ""
+    },
+    {
+      "name": "19_0_ONE_GOT_AWAY",
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway",
+      "videoURL": "https://www.youtube.com/watch?v=uj6oEaVX7lk"
+    },
+    {
+      "name": "19_12_BLAM_SAID_THE_LADY",
+      "game": "Halo: 3 ODST",
+      "level": "Coastal Highway",
+      "videoURL": "https://www.youtube.com/watch?v=9m1EtTOoz6c"
     },
     {
       "name": "20_3_WELCOME_TO_REACH",
       "game": "Halo: Reach",
-      "level": "General"
+      "level": "General",
+      "videoURL": ""
     },
     {
       "name": "20_4_THE_SOLDIER_WE_NEED_YOU_TO_BE",
       "game": "Halo: Reach",
-      "level": "General"
+      "level": "General",
+      "videoURL": ""
     },
     {
       "name": "20_5_FOLKS_NEED_HEROES",
       "game": "Halo: Reach",
-      "level": "General"
+      "level": "General",
+      "videoURL": ""
     },
     {
       "name": "20_6_GODS_MUST_BE_STRONG",
       "game": "Halo: Reach",
-      "level": "General"
+      "level": "General",
+      "videoURL": ""
     },
     {
       "name": "20_7_A_MONUMENT_TO_ALL_YOUR_SINS",
       "game": "Halo: Reach",
-      "level": "General"
-    },
-    {
-      "name": "20_8_WINTER_URGENCY",
-      "game": "Halo: Reach",
-      "level": "Winter Contingency"
-    },
-    {
-      "name": "20_9_JUST_LIKE_STORMING_A_CASTLE",
-      "game": "Halo: Reach",
-      "level": "ONI: Sword Base"
-    },
-    {
-      "name": "20_10_NOW_JUST_YOU_GUTA_MINUTE",
-      "game": "Halo: Reach",
-      "level": "Nightfall"
-    },
-    {
-      "name": "20_11_GENEROUS_TIPPER",
-      "game": "Halo: Reach",
-      "level": "Tip of the Spear"
-    },
-    {
-      "name": "20_12_SABRE_METRICS",
-      "game": "Halo: Reach",
-      "level": "Long Night of Solace"
-    },
-    {
-      "name": "20_13_QUICKER_THAN_READING_THE_BOOK",
-      "game": "Halo: Reach",
-      "level": "Exodus"
-    },
-    {
-      "name": "20_14_ONE_FOR_THE_RECORD_BOOKS",
-      "game": "Halo: Reach",
-      "level": "New Alexandria"
-    },
-    {
-      "name": "20_15_SPEEDY_DELIVERY",
-      "game": "Halo: Reach",
-      "level": "The Package"
-    },
-    {
-      "name": "20_16_WAIT_HOWD_THE_SHIP_GET_DOWN_HERE?",
-      "game": "Halo: Reach",
-      "level": "The Pillar of Autumn"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VVsnZH7ZMf7-gx1XSC9zBtU"
     },
     {
       "name": "20_17_FAST_FALL",
       "game": "Halo: Reach",
-      "level": "General"
-    },
-    {
-      "name": "20_18_ICE_IN_YOUR_VEINS",
-      "game": "Halo: Reach",
-      "level": "Winter Contingency"
-    },
-    {
-      "name": "20_19_STILL_SHARP",
-      "game": "Halo: Reach",
-      "level": "ONI: Sword Base"
-    },
-    {
-      "name": "20_20_MOONS_OUT_GOONS_OUT",
-      "game": "Halo: Reach",
-      "level": "Nightfall"
-    },
-    {
-      "name": "20_21_BAKE_THAT_CAKE",
-      "game": "Halo: Reach",
-      "level": "Tip of the Spear"
-    },
-    {
-      "name": "20_22_INSOMNIA",
-      "game": "Halo: Reach",
-      "level": "Long Night of Solace"
-    },
-    {
-      "name": "20_23_PARTING_THE_SEA",
-      "game": "Halo: Reach",
-      "level": "Exodus"
-    },
-    {
-      "name": "20_24_NINE_LIVES_ARE_A_MYTH",
-      "game": "Halo: Reach",
-      "level": "New Alexandria"
-    },
-    {
-      "name": "20_25_HOW_DID_I_LOSE_ALL_MY_FINGERS?",
-      "game": "Halo: Reach",
-      "level": "The Package"
-    },
-    {
-      "name": "20_26_PRECIOUS_CARGO",
-      "game": "Halo: Reach",
-      "level": "The Pillar of Autumn"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VUnggiwfZusaLdNE6w5PffI"
     },
     {
       "name": "20_27_WELL_BE_BACK",
       "game": "Halo: Reach",
-      "level": "General"
-    },
-    {
-      "name": "20_28_TVAOAN_TERMINATOR",
-      "game": "Halo: Reach",
-      "level": "General"
-    },
-    {
-      "name": "20_29_CHOL_VONS_NOT_GONNA_LIKE_THIS",
-      "game": "Halo: Reach",
-      "level": "General"
-    },
-    {
-      "name": "20_30_KEEP_IT_CLEAN",
-      "game": "Halo: Reach",
-      "level": "Winter Contingency"
-    },
-    {
-      "name": "20_31_THEYVE_ALWAYS_BEEN_FASTER",
-      "game": "Halo: Reach",
-      "level": "Winter Contingency"
-    },
-    {
-      "name": "21_0_WAKE_UP_BUTTERCUP",
-      "game": "Halo: Reach",
-      "level": "Long Night of Solace"
-    },
-    {
-      "name": "21_1_TWO_CORPSES_IN_ONE_GRAVE",
-      "game": "Halo: Reach",
-      "level": "ONI: Sword Base"
-    },
-    {
-      "name": "21_2_YOUR_HERESY_WILL_STAY_YOUR_FEET",
-      "game": "Halo: Reach",
-      "level": "Tip of the Spear"
-    },
-    {
-      "name": "21_3_I_DIDNT_TRAIN_TO_BE_A_PILOT",
-      "game": "Halo: Reach",
-      "level": "New Alexandria"
-    },
-    {
-      "name": "21_4_TANK_BEATS_EVERYTHING",
-      "game": "Halo: Reach",
-      "level": "The Package"
-    },
-    {
-      "name": "21_5_SWIFT_AND_SHALLOW",
-      "game": "Halo: Reach",
-      "level": "General"
-    },
-    {
-      "name": "21_6_FORZA_IN_THE_FALL",
-      "game": "Halo: Reach",
-      "level": "ONI: Sword Base"
-    },
-    {
-      "name": "21_7_HBORG_SPECIAL",
-      "game": "Halo: Reach",
-      "level": "New Alexandria"
-    },
-    {
-      "name": "21_8_PLAY_US_A_SAD_SONG_CLAUDE",
-      "game": "Halo: Reach",
-      "level": "New Alexandria"
-    },
-    {
-      "name": "21_9_WERE_GONNA_NEED_A_BIGGER_SHIP",
-      "game": "Halo: Reach",
-      "level": "New Alexandria"
-    },
-    {
-      "name": "21_10_FRONT_PAGE_NEWS",
-      "game": "Halo: Reach",
-      "level": "New Alexandria"
-    },
-    {
-      "name": "21_11_THE_HUMBLE_BEGINNINGS_OF_WILJAX_BRANTLEY",
-      "game": "Halo: Reach",
-      "level": "Exodus"
-    },
-    {
-      "name": "21_12_DID_YOU_MAJOR_IN_MARINE_BIO?",
-      "game": "Halo: Reach",
-      "level": "Exodus"
-    },
-    {
-      "name": "21_13_FLY_YOU_FOOLS",
-      "game": "Halo: Reach",
-      "level": "The Package"
-    },
-    {
-      "name": "21_14_THIS_IS_NOT_THE_GREATEST_LAB_IN_THE_WORLD",
-      "game": "Halo: Reach",
-      "level": "The Package"
-    },
-    {
-      "name": "21_15_HEY_YOU_DROPPED_THIS",
-      "game": "Halo: Reach",
-      "level": "Winter Contingency"
-    },
-    {
-      "name": "21_16_READ_HALSEYS_JOURNAL",
-      "game": "Halo: Reach",
-      "level": "ONI: Sword Base"
-    },
-    {
-      "name": "21_17_MEETING_OF_THE_(ARTIFICIAL)_MINDS",
-      "game": "Halo: Reach",
-      "level": "Nightfall"
-    },
-    {
-      "name": "21_18_RAMPANT_SPECULATION",
-      "game": "Halo: Reach",
-      "level": "Tip of the Spear"
-    },
-    {
-      "name": "21_19_MINORITY_REPORT",
-      "game": "Halo: Reach",
-      "level": "Long Night of Solace"
-    },
-    {
-      "name": "21_20_INFO_DUMP",
-      "game": "Halo: Reach",
-      "level": "Exodus"
-    },
-    {
-      "name": "21_21_PAPER_TRAIL",
-      "game": "Halo: Reach",
-      "level": "New Alexandria"
-    },
-    {
-      "name": "21_22_TERMINAL_CONDITIONS",
-      "game": "Halo: Reach",
-      "level": "The Package"
-    },
-    {
-      "name": "21_23_DIGITAL_DESTINIES",
-      "game": "Halo: Reach",
-      "level": "The Pillar of Autumn"
-    },
-    {
-      "name": "21_24_UNRELIABLE_NARRATOR",
-      "game": "Halo: Reach",
-      "level": "Winter Contingency"
-    },
-    {
-      "name": "21_25_WHAT_DOES_IT_ALL_MEAN?",
-      "game": "Halo: Reach",
-      "level": "ONI: Sword Base"
-    },
-    {
-      "name": "21_26_UNSOLVED_MYSTERIES",
-      "game": "Halo: Reach",
-      "level": "Nightfall"
-    },
-    {
-      "name": "21_27_MEDDLING_AND_MADNESS",
-      "game": "Halo: Reach",
-      "level": "Tip of the Spear"
-    },
-    {
-      "name": "21_28_THE_ANSWER_IS_SIMPLE",
-      "game": "Halo: Reach",
-      "level": "Long Night of Solace"
-    },
-    {
-      "name": "21_29_OF_PATIENCE_AND_PARTIALITY",
-      "game": "Halo: Reach",
-      "level": "Exodus"
-    },
-    {
-      "name": "21_30_CURIOUS_COMPOSITION",
-      "game": "Halo: Reach",
-      "level": "New Alexandria"
-    },
-    {
-      "name": "21_31_SILENT_SHEPHERDS",
-      "game": "Halo: Reach",
-      "level": "The Package"
-    },
-    {
-      "name": "22_0_ASSEMBLED_THE_MAJORITY",
-      "game": "Halo: Reach",
-      "level": "The Pillar of Autumn"
-    },
-    {
-      "name": "22_1_YES_NO_YOU_DECIDE",
-      "game": "Halo: Reach",
-      "level": "Lone Wolf"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VV2EZrTELF44Vl-51PN__qk"
     },
     {
       "name": "22_2_CANONICAL_CONUNDRUM",
       "game": "Halo: Reach",
-      "level": "General"
-    },
-    {
-      "name": "22_3_WHY_DO_THIS_TO_YOURSELF?",
-      "game": "Halo: Reach",
-      "level": "General"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=dytO4lGOW_o"
     },
     {
       "name": "22_4_REACH_HAS_BEEN_GOOD_TO_ME",
       "game": "Halo: Reach",
-      "level": "General"
+      "level": "General",
+      "videoURL": ""
     },
     {
       "name": "22_5_WHO_NEEDS_RED_FLAG?",
       "game": "Halo: Reach",
-      "level": "General"
+      "level": "General",
+      "videoURL": ""
     },
     {
-      "name": "22_6_REMEMBER_REACH",
+      "name": "22_3_WHY_DO_THIS_TO_YOURSELF?",
       "game": "Halo: Reach",
-      "level": "General"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VVMXgVnnT9PBSeGwGMraD4n"
     },
     {
       "name": "22_7_KEEP_YOUR_FOOT_ON_THE_PEDROGAS",
       "game": "Halo: Reach",
-      "level": "General"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/playlist?list=PL3bi5dIhs8VUlwBM-OVa_aTFR2TQ9y0pk"
     },
     {
-      "name": "22_8_ENEMIES_EVERYWHERE",
+      "name": "20_28_TVAOAN_TERMINATOR",
       "game": "Halo: Reach",
-      "level": "Multiplayer"
+      "level": "General",
+      "videoURL": ""
     },
     {
-      "name": "22_9_NEGATIVE_GHOSTRIDER",
+      "name": "20_29_CHOL_VONS_NOT_GONNA_LIKE_THIS",
       "game": "Halo: Reach",
-      "level": "Multiplayer"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=z0-ICSuxZeE"
     },
     {
-      "name": "22_10_SKUNKED",
+      "name": "21_5_SWIFT_AND_SHALLOW",
       "game": "Halo: Reach",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "22_11_CLEAR_AND_PRESENT_DANGER",
-      "game": "Halo: Reach",
-      "level": "Winter Contingency"
-    },
-    {
-      "name": "22_12_LEFT_BEHIND",
-      "game": "Halo: Reach",
-      "level": "Lone Wolf"
-    },
-    {
-      "name": "22_13_ONE_FINAL_FIREFIGHT",
-      "game": "Halo: Reach",
-      "level": "Lone Wolf"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=Z-4NoMlsi7A"
     },
     {
       "name": "22_14_WHAT_ABOUT_BOB?",
       "game": "Halo: Reach",
-      "level": "General"
-    },
-    {
-      "name": "22_15_JORGE_CANT_HAVE_ALL_THE_BIG_GUNS",
-      "game": "Halo: Reach",
-      "level": "Long Night of Solace"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=VCdNcrYrymQ"
     },
     {
       "name": "22_16_IM_SORRY_DAVE",
       "game": "Halo: Reach",
-      "level": "General"
-    },
-    {
-      "name": "22_17_WORKERS_COMPENSATION",
-      "game": "Halo: Reach",
-      "level": "Multiplayer"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=ROoEebxqwJM"
     },
     {
       "name": "22_18_CAPACIOUS_CARTOGRAPHY",
       "game": "Halo: Reach",
-      "level": "General"
-    },
-    {
-      "name": "22_19_REQUIESCAT_IN_PACE",
-      "game": "Halo: Reach",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "22_20_RUN_AND_GUNNED",
-      "game": "Halo: Reach",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "22_21_GAME_BREAKER",
-      "game": "Halo: Reach",
-      "level": "Multiplayer"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=PiZhoVv9LBw"
     },
     {
       "name": "22_22_BECAUSE_IT_WASNT_HARD_ENOUGH",
       "game": "Halo: Reach",
-      "level": "General"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=cSiQWsSS39A"
     },
     {
-      "name": "22_23_CLASSIC_COMPLETION",
+      "name": "22_6_REMEMBER_REACH",
       "game": "Halo: Reach",
-      "level": "Exodus"
+      "level": "General",
+      "videoURL": "https://www.youtube.com/watch?v=Jv4jeiSAZsk"
+    },
+    {
+      "name": "22_8_ENEMIES_EVERYWHERE",
+      "game": "Halo: Reach",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=fzOenAEAJYw"
+    },
+    {
+      "name": "22_9_NEGATIVE_GHOSTRIDER",
+      "game": "Halo: Reach",
+      "level": "Multiplayer",
+      "videoURL": ""
+    },
+    {
+      "name": "22_10_SKUNKED",
+      "game": "Halo: Reach",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=UhicO_uQgcw"
+    },
+    {
+      "name": "22_17_WORKERS_COMPENSATION",
+      "game": "Halo: Reach",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=_7AlPjz5t5w"
+    },
+    {
+      "name": "22_19_REQUIESCAT_IN_PACE",
+      "game": "Halo: Reach",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=DiMW8xe238Q"
+    },
+    {
+      "name": "22_20_RUN_AND_GUNNED",
+      "game": "Halo: Reach",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=DiMW8xe238Q"
+    },
+    {
+      "name": "22_21_GAME_BREAKER",
+      "game": "Halo: Reach",
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=lZhlgW-cvqc"
     },
     {
       "name": "22_24_CONFUSED_CALLOUTS",
       "game": "Halo: Reach",
-      "level": "Multiplayer"
-    },
-    {
-      "name": "22_25_COLLECTION_ELIGIBILITY_CONFIRMED",
-      "game": "Halo: Reach",
-      "level": "The Pillar of Autumn"
-    },
-    {
-      "name": "22_26_MIND_THE_SKILL_GAP",
-      "game": "Halo: Reach",
-      "level": "Tip of the Spear"
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=HaKU-kR4PAM"
     },
     {
       "name": "22_27_EASY_TO_OVERLOOK",
       "game": "Halo: Reach",
-      "level": "Multiplayer"
+      "level": "Multiplayer",
+      "videoURL": "https://www.youtube.com/watch?v=HaKU-kR4PAM"
+    },
+    {
+      "name": "19_25_WERE_JUST_GETTING_STARTED",
+      "game": "Halo: Reach",
+      "level": "Winter Contingency",
+      "videoURL": ""
+    },
+    {
+      "name": "20_8_WINTER_URGENCY",
+      "game": "Halo: Reach",
+      "level": "Winter Contingency",
+      "videoURL": "https://www.youtube.com/watch?v=qGDwkcMCgKI&list=PL3bi5dIhs8VUnggiwfZusaLdNE6w5PffI&index=1"
+    },
+    {
+      "name": "20_18_ICE_IN_YOUR_VEINS",
+      "game": "Halo: Reach",
+      "level": "Winter Contingency",
+      "videoURL": "https://www.youtube.com/watch?v=HaYtoF6V1HM&list=PL3bi5dIhs8VV2EZrTELF44Vl-51PN__qk&index=1"
+    },
+    {
+      "name": "21_15_HEY_YOU_DROPPED_THIS",
+      "game": "Halo: Reach",
+      "level": "Winter Contingency",
+      "videoURL": "https://youtu.be/dytO4lGOW_o"
+    },
+    {
+      "name": "21_24_UNRELIABLE_NARRATOR",
+      "game": "Halo: Reach",
+      "level": "Winter Contingency",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=118"
+    },
+    {
+      "name": "22_11_CLEAR_AND_PRESENT_DANGER",
+      "game": "Halo: Reach",
+      "level": "Winter Contingency",
+      "videoURL": "https://youtu.be/dytO4lGOW_o"
+    },
+    {
+      "name": "20_30_KEEP_IT_CLEAN",
+      "game": "Halo: Reach",
+      "level": "Winter Contingency",
+      "videoURL": "https://www.youtube.com/watch?v=RZDuHH_IJoo"
+    },
+    {
+      "name": "20_31_THEYVE_ALWAYS_BEEN_FASTER",
+      "game": "Halo: Reach",
+      "level": "Winter Contingency",
+      "videoURL": "https://www.youtube.com/watch?v=PJ6rh23GhH0"
+    },
+    {
+      "name": "19_27_PROTOCOL_DICTATES_ACTION",
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base",
+      "videoURL": ""
+    },
+    {
+      "name": "20_9_JUST_LIKE_STORMING_A_CASTLE",
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base",
+      "videoURL": "https://www.youtube.com/watch?v=lm9prjZmpP4&list=PL3bi5dIhs8VUnggiwfZusaLdNE6w5PffI&index=2"
+    },
+    {
+      "name": "20_19_STILL_SHARP",
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base",
+      "videoURL": "https://www.youtube.com/watch?v=lBBD9R-Vhis&list=PL3bi5dIhs8VV2EZrTELF44Vl-51PN__qk&index=2"
+    },
+    {
+      "name": "21_16_READ_HALSEYS_JOURNAL",
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=238"
+    },
+    {
+      "name": "21_25_WHAT_DOES_IT_ALL_MEAN?",
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=159"
+    },
+    {
+      "name": "21_1_TWO_CORPSES_IN_ONE_GRAVE",
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base",
+      "videoURL": "https://www.youtube.com/watch?v=ovcZm8O6r18"
+    },
+    {
+      "name": "21_6_FORZA_IN_THE_FALL",
+      "game": "Halo: Reach",
+      "level": "ONI: Sword Base",
+      "videoURL": "https://www.youtube.com/watch?v=ox-qQRhO1Mw"
+    },
+    {
+      "name": "19_28_I_NEED_A_WEAPON",
+      "game": "Halo: Reach",
+      "level": "Nightfall",
+      "videoURL": ""
+    },
+    {
+      "name": "20_10_NOW_JUST_YOU_GUTA_MINUTE",
+      "game": "Halo: Reach",
+      "level": "Nightfall",
+      "videoURL": "https://www.youtube.com/watch?v=X1eUvtzRVoo&list=PL3bi5dIhs8VUnggiwfZusaLdNE6w5PffI&index=3"
+    },
+    {
+      "name": "20_20_MOONS_OUT_GOONS_OUT",
+      "game": "Halo: Reach",
+      "level": "Nightfall",
+      "videoURL": "https://www.youtube.com/watch?v=ISz7Y2Qfo8M&list=PL3bi5dIhs8VV2EZrTELF44Vl-51PN__qk&index=3"
+    },
+    {
+      "name": "21_17_MEETING_OF_THE_(ARTIFICIAL)_MINDS",
+      "game": "Halo: Reach",
+      "level": "Nightfall",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=273"
+    },
+    {
+      "name": "21_26_UNSOLVED_MYSTERIES",
+      "game": "Halo: Reach",
+      "level": "Nightfall",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=283"
+    },
+    {
+      "name": "19_29_TO_WAR",
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear",
+      "videoURL": ""
+    },
+    {
+      "name": "20_11_GENEROUS_TIPPER",
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear",
+      "videoURL": "https://www.youtube.com/watch?v=bL7zrHwVuuA&list=PL3bi5dIhs8VUnggiwfZusaLdNE6w5PffI&index=4"
+    },
+    {
+      "name": "20_21_BAKE_THAT_CAKE",
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear",
+      "videoURL": "https://www.youtube.com/watch?v=bh2aq6mQucQ&list=PL3bi5dIhs8VV2EZrTELF44Vl-51PN__qk&index=4"
+    },
+    {
+      "name": "21_18_RAMPANT_SPECULATION",
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=338"
+    },
+    {
+      "name": "21_27_MEDDLING_AND_MADNESS",
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=377"
+    },
+    {
+      "name": "21_2_YOUR_HERESY_WILL_STAY_YOUR_FEET",
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear",
+      "videoURL": "https://www.youtube.com/watch?v=pmuLwAYFYd4"
+    },
+    {
+      "name": "22_26_MIND_THE_SKILL_GAP",
+      "game": "Halo: Reach",
+      "level": "Tip of the Spear",
+      "videoURL": "https://www.youtube.com/watch?v=huAVIzSbgyM"
+    },
+    {
+      "name": "19_30_YOU_FLEW_PRETTY_GOOD",
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace",
+      "videoURL": ""
+    },
+    {
+      "name": "20_12_SABRE_METRICS",
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace",
+      "videoURL": "https://www.youtube.com/watch?v=5Lz9OEyL8vk&list=PL3bi5dIhs8VUnggiwfZusaLdNE6w5PffI&index=5"
+    },
+    {
+      "name": "20_22_INSOMNIA",
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace",
+      "videoURL": "https://www.youtube.com/watch?v=KXEZ05PdyXE&list=PL3bi5dIhs8VV2EZrTELF44Vl-51PN__qk&index=5"
+    },
+    {
+      "name": "21_19_MINORITY_REPORT",
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=398"
+    },
+    {
+      "name": "21_28_THE_ANSWER_IS_SIMPLE",
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=431"
+    },
+    {
+      "name": "21_0_WAKE_UP_BUTTERCUP",
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace",
+      "videoURL": "https://www.youtube.com/watch?v=XZ-vtQE4zWo"
+    },
+    {
+      "name": "22_15_JORGE_CANT_HAVE_ALL_THE_BIG_GUNS",
+      "game": "Halo: Reach",
+      "level": "Long Night of Solace",
+      "videoURL": "https://www.youtube.com/watch?v=4Oe-ryuEQcw"
+    },
+    {
+      "name": "19_31_INTO_THE_HOWLING_DARK",
+      "game": "Halo: Reach",
+      "level": "Exodus",
+      "videoURL": ""
+    },
+    {
+      "name": "20_13_QUICKER_THAN_READING_THE_BOOK",
+      "game": "Halo: Reach",
+      "level": "Exodus",
+      "videoURL": "https://www.youtube.com/watch?v=rQgb6XDBehU&list=PL3bi5dIhs8VUnggiwfZusaLdNE6w5PffI&index=6"
+    },
+    {
+      "name": "20_23_PARTING_THE_SEA",
+      "game": "Halo: Reach",
+      "level": "Exodus",
+      "videoURL": "https://www.youtube.com/watch?v=29ibY1ydp4I&list=PL3bi5dIhs8VV2EZrTELF44Vl-51PN__qk&index=6"
+    },
+    {
+      "name": "21_20_INFO_DUMP",
+      "game": "Halo: Reach",
+      "level": "Exodus",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=504"
+    },
+    {
+      "name": "21_29_OF_PATIENCE_AND_PARTIALITY",
+      "game": "Halo: Reach",
+      "level": "Exodus",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=539"
+    },
+    {
+      "name": "21_11_THE_HUMBLE_BEGINNINGS_OF_WILJAX_BRANTLEY",
+      "game": "Halo: Reach",
+      "level": "Exodus",
+      "videoURL": "https://www.youtube.com/watch?v=_qHzgyjVE6w"
+    },
+    {
+      "name": "21_12_DID_YOU_MAJOR_IN_MARINE_BIO?",
+      "game": "Halo: Reach",
+      "level": "Exodus",
+      "videoURL": "https://www.youtube.com/watch?v=OX2BxSjFKGk"
+    },
+    {
+      "name": "22_23_CLASSIC_COMPLETION",
+      "game": "Halo: Reach",
+      "level": "Exodus",
+      "videoURL": "https://www.youtube.com/watch?v=G2rsYl0rRK0"
+    },
+    {
+      "name": "20_0_DUST_AND_ECHOES",
+      "game": "Halo: Reach",
+      "level": "New Alexandria",
+      "videoURL": ""
+    },
+    {
+      "name": "20_14_ONE_FOR_THE_RECORD_BOOKS",
+      "game": "Halo: Reach",
+      "level": "New Alexandria",
+      "videoURL": "https://www.youtube.com/watch?v=8i2zYI96gzw&list=PL3bi5dIhs8VUnggiwfZusaLdNE6w5PffI&index=7"
+    },
+    {
+      "name": "20_24_NINE_LIVES_ARE_A_MYTH",
+      "game": "Halo: Reach",
+      "level": "New Alexandria",
+      "videoURL": "https://www.youtube.com/watch?v=tvK6RxU8rNY&list=PL3bi5dIhs8VV2EZrTELF44Vl-51PN__qk&index=7"
+    },
+    {
+      "name": "21_21_PAPER_TRAIL",
+      "game": "Halo: Reach",
+      "level": "New Alexandria",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=707"
+    },
+    {
+      "name": "21_30_CURIOUS_COMPOSITION",
+      "game": "Halo: Reach",
+      "level": "New Alexandria",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=658"
+    },
+    {
+      "name": "19_26_NO_PICNIC",
+      "game": "Halo: Reach",
+      "level": "New Alexandria",
+      "videoURL": "https://www.youtube.com/watch?v=SQFzfHO4ZcQ"
+    },
+    {
+      "name": "21_3_I_DIDNT_TRAIN_TO_BE_A_PILOT",
+      "game": "Halo: Reach",
+      "level": "New Alexandria",
+      "videoURL": "https://www.youtube.com/watch?v=DTEZ_YCWodo"
+    },
+    {
+      "name": "21_7_HBORG_SPECIAL",
+      "game": "Halo: Reach",
+      "level": "New Alexandria",
+      "videoURL": "https://www.youtube.com/watch?v=uUNuBix8bp0"
+    },
+    {
+      "name": "21_8_PLAY_US_A_SAD_SONG_CLAUDE",
+      "game": "Halo: Reach",
+      "level": "New Alexandria",
+      "videoURL": "https://www.youtube.com/watch?v=uUNuBix8bp0"
+    },
+    {
+      "name": "21_9_WERE_GONNA_NEED_A_BIGGER_SHIP",
+      "game": "Halo: Reach",
+      "level": "New Alexandria",
+      "videoURL": "https://www.youtube.com/watch?v=yFku_CeJxTM"
+    },
+    {
+      "name": "21_10_FRONT_PAGE_NEWS",
+      "game": "Halo: Reach",
+      "level": "New Alexandria",
+      "videoURL": "https://www.youtube.com/watch?v=uUNuBix8bp0"
     },
     {
       "name": "22_28_NEW_WAYS_TO_SAVE_A_BUCK",
       "game": "Halo: Reach",
-      "level": "New Alexandria"
+      "level": "New Alexandria",
+      "videoURL": "https://www.youtube.com/watch?v=xz5YyuPVzaU"
+    },
+    {
+      "name": "20_1_THIS_IS_NOT_YOUR_GRAVE",
+      "game": "Halo: Reach",
+      "level": "The Package",
+      "videoURL": ""
+    },
+    {
+      "name": "20_15_SPEEDY_DELIVERY",
+      "game": "Halo: Reach",
+      "level": "The Package",
+      "videoURL": "https://www.youtube.com/watch?v=9_xJLIHERyM&list=PL3bi5dIhs8VUnggiwfZusaLdNE6w5PffI&index=8"
+    },
+    {
+      "name": "20_25_HOW_DID_I_LOSE_ALL_MY_FINGERS?",
+      "game": "Halo: Reach",
+      "level": "The Package",
+      "videoURL": "https://www.youtube.com/watch?v=_PEp8CVT6PI&list=PL3bi5dIhs8VV2EZrTELF44Vl-51PN__qk&index=8"
+    },
+    {
+      "name": "21_22_TERMINAL_CONDITIONS",
+      "game": "Halo: Reach",
+      "level": "The Package",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=779"
+    },
+    {
+      "name": "21_31_SILENT_SHEPHERDS",
+      "game": "Halo: Reach",
+      "level": "The Package",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=803"
+    },
+    {
+      "name": "21_4_TANK_BEATS_EVERYTHING",
+      "game": "Halo: Reach",
+      "level": "The Package",
+      "videoURL": "https://www.youtube.com/watch?v=BAC3QDkD9Uw"
+    },
+    {
+      "name": "21_13_FLY_YOU_FOOLS",
+      "game": "Halo: Reach",
+      "level": "The Package",
+      "videoURL": "https://www.youtube.com/watch?v=y5SVhjMTVR8"
+    },
+    {
+      "name": "21_14_THIS_IS_NOT_THE_GREATEST_LAB_IN_THE_WORLD",
+      "game": "Halo: Reach",
+      "level": "The Package",
+      "videoURL": "https://www.youtube.com/watch?v=HUTUiv6uU2U"
+    },
+    {
+      "name": "20_2_SEND_ME_OUT__WITH_A_BANG",
+      "game": "Halo: Reach",
+      "level": "The Pillar of Autumn",
+      "videoURL": ""
+    },
+    {
+      "name": "20_16_WAIT_HOWD_THE_SHIP_GET_DOWN_HERE?",
+      "game": "Halo: Reach",
+      "level": "The Pillar of Autumn",
+      "videoURL": "https://www.youtube.com/watch?v=-kU_iO5c0k4&list=PL3bi5dIhs8VUnggiwfZusaLdNE6w5PffI&index=9"
+    },
+    {
+      "name": "20_26_PRECIOUS_CARGO",
+      "game": "Halo: Reach",
+      "level": "The Pillar of Autumn",
+      "videoURL": "https://www.youtube.com/watch?v=3ZW6cGXyYWA&list=PL3bi5dIhs8VV2EZrTELF44Vl-51PN__qk&index=9"
+    },
+    {
+      "name": "21_23_DIGITAL_DESTINIES",
+      "game": "Halo: Reach",
+      "level": "The Pillar of Autumn",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=933"
+    },
+    {
+      "name": "22_0_ASSEMBLED_THE_MAJORITY",
+      "game": "Halo: Reach",
+      "level": "The Pillar of Autumn",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=892"
+    },
+    {
+      "name": "22_25_COLLECTION_ELIGIBILITY_CONFIRMED",
+      "game": "Halo: Reach",
+      "level": "The Pillar of Autumn",
+      "videoURL": "https://www.youtube.com/watch?v=ITYUe3-9SlE"
+    },
+    {
+      "name": "22_1_YES_NO_YOU_DECIDE",
+      "game": "Halo: Reach",
+      "level": "Lone Wolf",
+      "videoURL": "https://youtu.be/dytO4lGOW_o?t=965"
+    },
+    {
+      "name": "22_12_LEFT_BEHIND",
+      "game": "Halo: Reach",
+      "level": "Lone Wolf",
+      "videoURL": ""
+    },
+    {
+      "name": "22_13_ONE_FINAL_FIREFIGHT",
+      "game": "Halo: Reach",
+      "level": "Lone Wolf",
+      "videoURL": "https://www.youtube.com/watch?v=w_2D-7d4_3o"
     }
   ]
 }

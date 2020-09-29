@@ -46,6 +46,8 @@ def getUserData(steamAccountID):
             fullUserData[currentGame][currentLevel]['userAchievements'] = 0
         fullUserData[currentGame][currentLevel]['totalAchievements'] = fullUserData[currentGame][currentLevel]['totalAchievements'] + 1
         fullUserData[currentGame][currentLevel][currentName] = {} # Setting up achievement
+        if levelAchievement['videoURL'] != '':
+            fullUserData[currentGame][currentLevel][currentName]['videoURL'] = levelAchievement['videoURL']
         
         # Looping through players achievements then adding data to dict
         for achievement in playerData['playerstats']['achievements']:
