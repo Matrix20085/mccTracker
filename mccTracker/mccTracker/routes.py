@@ -4,7 +4,7 @@ import mccTracker.steamAPI as steamAPI
 from mccTracker import app
 from flask_wtf import FlaskForm
 from wtforms import StringField
-from flask import render_template, flash
+from flask import render_template, flash, make_response
 from wtforms.validators import DataRequired
 
 
@@ -32,3 +32,10 @@ def home():
             return render_template('master.html', form=form)
     else:
         return render_template('master.html', form=form)
+
+
+@app.route('/robots.txt', methods=['GET','POST'])
+def robots():
+    response = make_response(open("mccTracker/static/robots.txt", 'r').read())
+    response.headers["Content-type"] = "text/plain"
+    return response
